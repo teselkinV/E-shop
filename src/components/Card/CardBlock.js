@@ -1,0 +1,46 @@
+import React from 'react';
+import {Link} from 'react-router-dom';
+import {ProductConsumer} from '../../context';
+import PropTypes from 'prop-types';
+
+class CardBlock extends React.Component {
+	render() {
+		const {id, title, img, price} = this.props.product;
+		return (
+			<React.Fragment>
+			   <div>
+					<div className="card">
+						<ProductConsumer>
+							{(value) => (
+							<div className="img-container" 
+							onClick={() => value.handleDetail(id)}>
+							<Link to='/details'>
+								<img src={img} alt='product' className='card-image-top img-fluid'/>
+							</Link>
+						</div>
+						)}
+						</ProductConsumer>
+
+						<div className='card footer d-flex justify-content-left'>
+							<p className='m-0 mt-4 card-title'>{title}</p>
+							<div className='m-0 mt-1 card-price'>${price}</div>
+						</div>	
+					</div>
+			   </div>
+      		</React.Fragment>
+		)
+	}
+}
+
+ProductConsumer.propTypes = {
+	product: PropTypes.shape({
+		id: PropTypes.number,
+		img: PropTypes.string,
+		title: PropTypes.string,
+		price: PropTypes.number,
+		category: PropTypes.string,
+		inCart: PropTypes.bool
+	}).isRequired
+};
+
+export default CardBlock;
