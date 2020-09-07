@@ -5,7 +5,13 @@ export const menProducts = [
         img: "img/men-tshirt-1.png",
         price: 19.99,
         info: "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
-        size: 'S',
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,
@@ -19,7 +25,13 @@ export const menProducts = [
         img: "img/men-tshirt-2.png",
         price: 59.99,
         info: "Loose Knit 3/4 Sleeve in the uiKit line with a colorful print. Made of jersey cotton. Loose fits perfectly with jeans, pants or shorts.",
-        size: 'S',
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,
@@ -33,7 +45,13 @@ export const menProducts = [
         img: "img/men-tshirt-3.png",
         price: 19.99,
         info: "Basic Slim Fit T-Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
-        size: 'S',
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,
@@ -47,7 +65,13 @@ export const menProducts = [
         img: "img/men-tshirt-4.png",
         price: 39.99,
         info: "Oxford Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
-        size: 'S', 
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        }, 
         inCart: false,
         count: 0,
         total: 0,
@@ -61,7 +85,13 @@ export const menProducts = [
         img: "img/men-tshirt-5.png",
         price: 59.99,
         info: "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
-        size: 'S',
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,
@@ -75,7 +105,13 @@ export const menProducts = [
         img: "img/men-tshirt-6.png",
         price: 49.99,
         info: "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
-        size: 'S',
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,
@@ -92,6 +128,13 @@ export const detailProduct = {
         img: "img/men-tshirt-1-details.png",
         price: 19.99,
         info: "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+        size: {
+            s: 'S',
+            m: 'M',
+            l:'L',
+            xl: 'XL',
+            xxl: 'XXL'
+        },
         inCart: false,
         count: 0,
         total: 0,

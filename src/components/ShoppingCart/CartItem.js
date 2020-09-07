@@ -2,7 +2,7 @@ import React from 'react';
 import '../../App.css';
 
 export default function CartItem({item, value}) {
-    const {id, title, img, size, price, total, count, sign} = item;
+    const {id, title, img, price, size, count, sign} = item;
     const {increment, decrement, removeItem} = value;
     return (
         <div className='container'>
@@ -15,7 +15,7 @@ export default function CartItem({item, value}) {
                     <div className='col-6 col-lg-2 col-md-5 cart-title-product'>{title}</div>
                     <div className='col-6 col-lg-2 col-md-5 id-product'>{sign}</div>
                 </div>
-                <div className='col-6  m-1 col-lg-2 col-md-5 cart-size text-center'>{size}</div>
+    <div className='col-6  m-1 col-lg-2 col-md-5 cart-size text-center' >{size.l}</div>
                 <div className='col-6 m-1 col-lg-2 col-md-5 my-2 my-lg-0'>
                     <div className='d-flex justify-content-center quintity text-center'>
                         <div><span className='btn btn-black mx-1 change-count' onClick={() => decrement(id)}>-</span></div>

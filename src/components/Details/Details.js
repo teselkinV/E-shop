@@ -41,10 +41,11 @@ class Details extends React.Component {
 										<div className='select-size'>
 											<select className="size" id="size">
 												<option value="choose">Choose size</option>
-												<option value="s">S</option>
-												<option value="m">M</option>
-												<option value="l">L</option>
-												<option value="xl">XL</option>
+												<option value="s">{size.s}</option>
+												<option value="s">{size.m}</option>
+												<option value="s">{size.l}</option>
+												<option value="s">{size.xl}</option>
+												<option value="s">{size.xxl}</option>
 											</select>
 										</div>
 

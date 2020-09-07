@@ -22,7 +22,7 @@ import { Link } from 'react-router-dom';
                                         <img src={img} className='img-fluid' alt='product'></img>
                                         <h5 className='modal-title'>{title}</h5>
                                         <h5 className='modal-price'>${price}</h5>
-                                        <Link to='/men'>
+                                        <Link to='/man'>
                                             <button className='button modal-continue-btn'  onClick={() => closeModal()}>
                                                 Continue shopping
                                             </button>

@@ -49,6 +49,7 @@ export default class ProductProvider extends Component {
         product.total = price;
         const size = product.size;
         product.size = size;
+
         this.setState(() => {
             return { products: tempProducts, cart: [...this.state.cart, product]};
             },
