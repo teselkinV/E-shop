@@ -3,7 +3,6 @@ import { Switch, Route } from 'react-router-dom';
 import MainPage from './components/MainPage/MainPage';
 import Man from './components/Man/Man';
 import Women from './components/Women/Women';
-import Kids from './components/Kids/Kids';
 import ShoppingCart from './components/ShoppingCart/ShoppingCart';
 import Details from './components/Details/Details';
 import Default from './components/Default/Default';
@@ -25,7 +24,6 @@ class App extends Component {
           <Route exact path='/' component={MainPage} />
           <Route path='/man' component={Man} />
           <Route path='/women' component={Women} />
-          <Route path='/kids' component={Kids} />
           <Route path='/shoppingcart' component={ShoppingCart} />
           <Route path='/details' component={Details} />
           <Route path='/sale' component={Sale} />

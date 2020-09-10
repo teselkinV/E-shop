@@ -175,7 +175,7 @@ a.pages:hover {
   display: flex;
   align-items: center;
   justify-content: left;
-  /* padding-left: 18rem; */
+  padding-left: 18rem;
 }
 
 .slideshow-text {

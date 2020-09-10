@@ -6,16 +6,16 @@
     --secondYellow: #FCA113;
     --mainWhite: #FFFFFF;
     --secondGrey: #D8D8D8;
-  
   }
-
+ 
   .block {
     display: block;
   }
-  
   .hidden {
     display: none;
   }
+
+  
 
 .dropdown-container{
     border: 1px solid rgb(255, 255, 255);
