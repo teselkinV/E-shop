@@ -142,10 +142,10 @@ a.nav-link {
 a.nav-link:hover {
   color: var(--mainYellow);
 }
-a.nav-link-pages {
-  color: var(--mainBlack);
+a.pages {
+  color: var(--mainBlack) ;
 }
-a.nav-link-pages:hover {
+a.pages:hover {
   text-decoration: none;
   color: var(--mainYellow);
 }
