@@ -34,10 +34,10 @@ const Navbarpages = () => {
 								<li 
 									className="nav-item ml-5"
 									onMouseLeave={hideMenu}>
-									<Link to='/man' 
+									<Link
 										className='nav-link pages'
 										onMouseOver={displayMenu}
-										>Man</Link>
+										>Men</Link>
 										<DropdownMan isVisible={visible} />
 								</li>
 								<li 

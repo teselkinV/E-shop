@@ -8,7 +8,7 @@ import Navbar from '../Navbar/Navbarpages';
 import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
 
 
-class Man extends React.Component {
+class TshirtsMan extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
@@ -17,7 +17,7 @@ class Man extends React.Component {
 						<Breadcrumbs />
 						<div className='row'>
 							<div className='col-12 product-page-title mx-auto text-center'>
-							<Title name="Men's" title="products"></Title>
+							<Title name="Men's" title="T-shirts"></Title>
 							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
 							T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. 
 							Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. 
@@ -44,4 +44,4 @@ class Man extends React.Component {
 	}
 }
 
-export default Man;
+export default TshirtsMan;

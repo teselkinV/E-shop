@@ -11,7 +11,7 @@ const DropdownMan = ({isVisible}) => {
                         <div className='col-3 mx-auto'>
                             <h3 className='submenu-title'>TOPS</h3>
                             <ul className='menu-column'>
-                                <Link to='/man'><li>T-shirts</li></Link>
+                                <Link to="/men's-t-shirts"><li>T-shirts</li></Link>
                                 <Link to='/man'><li>Polo</li></Link> 
                                 <Link to='/man'><li>Shirts</li></Link>
                                 <Link to='/man'><li>Sweaters</li></Link>

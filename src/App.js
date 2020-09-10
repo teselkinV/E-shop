@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom'; 
 import MainPage from './components/MainPage/MainPage';
-import Man from './components/Man/Man';
-import Women from './components/Women/Women';
 import ShoppingCart from './components/ShoppingCart/ShoppingCart';
 import Details from './components/Details/Details';
 import Default from './components/Default/Default';
@@ -14,6 +12,8 @@ import CheckoutForm from './components/CheckoutForm/CheckoutForm';
 import TableSize from './components/Details/TableSize';
 import SummerCollection from './components/ProductsPages/SummerCollection';
 import NewArrival from './components/ProductsPages/NewArrival';
+import TshirtsMen from './components/MenProductPages/TshirtsMen';
+import Women from './components/Women/Women';
 
 
 class App extends Component {
@@ -22,7 +22,7 @@ class App extends Component {
       <React.Fragment>
         <Switch>
           <Route exact path='/' component={MainPage} />
-          <Route path='/man' component={Man} />
+          <Route path="/men's-t-shirts" component={TshirtsMen} />
           <Route path='/women' component={Women} />
           <Route path='/shoppingcart' component={ShoppingCart} />
           <Route path='/details' component={Details} />
