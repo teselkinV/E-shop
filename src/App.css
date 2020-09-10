@@ -883,6 +883,7 @@ button.modal-complete-btn:active {
   font-size: 10rem;
   margin-bottom: -0.5rem;
   line-height: 1;
+  margin-top: -5rem;
 }
 
 .text-default {

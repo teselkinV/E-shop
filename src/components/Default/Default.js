@@ -1,13 +1,11 @@
 import React from 'react';
 import '../../App.css';
 import { Link } from 'react-router-dom';
-import Navbar from '../Navbar/Navbar';
 
 class Cart extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
-				<Navbar/>
 					<div className='back-img'>
 						<div className='box'>
 						<div className='default-content'>
