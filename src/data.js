@@ -2,7 +2,7 @@ export const menProducts = [
     {
         id: 1,
         title: "T-Shirt Summer Vibes",
-        img: "../img/men-tshirt-1.png",
+        img: "img/men-tshirt-1.PNG",
         price: 19.99,
         info: "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
         size: {
