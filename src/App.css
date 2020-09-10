@@ -138,6 +138,8 @@ body {
 
 a.nav-link {
   color: var(--mainWhite);
+  text-transform: uppercase;
+  font-weight: 700;
 }
 a.nav-link:hover {
   color: var(--mainYellow);
@@ -456,6 +458,18 @@ color: #0177b5;
 .table-size-page {
   position: relative;
   margin-top: 8rem;
+}
+
+.pages-text {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  padding: 0 !important;
+  font-weight: 300;
+}
+
+.product-page-title {
+  border-bottom: 1px solid #EBEBEB;
+  margin-top: 0;
 }
 
 /* -------------------------------------------*/

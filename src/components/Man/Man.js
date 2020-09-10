@@ -16,8 +16,13 @@ class Man extends React.Component {
 					<div className="container products-page">
 						<Breadcrumbs />
 						<div className='row'>
-							<div className='col 12 product-page-title'>
+							<div className='col-12 product-page-title mx-auto text-center'>
 							<Title name="Men's" title="products"></Title>
+							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
+							T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. 
+							Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. 
+							Check out web-site for oversized T-shirts and unique patterns, and make Topman your go-to for classic black and white t-shirts.
+								</div> 
 							</div>
 						</div>
 						<div className="row">
