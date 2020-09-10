@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/E-shop/static/css/main.8b987e20.chunk.css",
+    "main.js": "/E-shop/static/js/main.3ff4a5a8.chunk.js",
+    "main.js.map": "/E-shop/static/js/main.3ff4a5a8.chunk.js.map",
+    "runtime-main.js": "/E-shop/static/js/runtime-main.e2b260d4.js",
+    "runtime-main.js.map": "/E-shop/static/js/runtime-main.e2b260d4.js.map",
+    "static/css/2.3a6be6ee.chunk.css": "/E-shop/static/css/2.3a6be6ee.chunk.css",
+    "static/js/2.03ad215e.chunk.js": "/E-shop/static/js/2.03ad215e.chunk.js",
+    "static/js/2.03ad215e.chunk.js.map": "/E-shop/static/js/2.03ad215e.chunk.js.map",
+    "index.html": "/E-shop/index.html",
+    "precache-manifest.4693d2ceca4af594d6fddacd688ba806.js": "/E-shop/precache-manifest.4693d2ceca4af594d6fddacd688ba806.js",
+    "service-worker.js": "/E-shop/service-worker.js",
+    "static/css/2.3a6be6ee.chunk.css.map": "/E-shop/static/css/2.3a6be6ee.chunk.css.map",
+    "static/css/main.8b987e20.chunk.css.map": "/E-shop/static/css/main.8b987e20.chunk.css.map",
+    "static/js/2.03ad215e.chunk.js.LICENSE.txt": "/E-shop/static/js/2.03ad215e.chunk.js.LICENSE.txt",
+    "static/media/cart-pages.svg": "/E-shop/static/media/cart-pages.a47c0b8a.svg",
+    "static/media/cart.svg": "/E-shop/static/media/cart.fbdbdd63.svg",
+    "static/media/font-awesome.min.css": "/E-shop/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/logo-color.svg": "/E-shop/static/media/logo-color.34245689.svg",
+    "static/media/logo.svg": "/E-shop/static/media/logo.b20b4a99.svg",
+    "static/media/App.css": "/E-shop/static/media/summer.1dc26c48.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b260d4.js",
+    "static/css/2.3a6be6ee.chunk.css",
+    "static/js/2.03ad215e.chunk.js",
+    "static/css/main.8b987e20.chunk.css",
+    "static/js/main.3ff4a5a8.chunk.js"
+  ]
+}

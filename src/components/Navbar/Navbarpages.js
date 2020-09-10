@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../logo-color.svg';
-import cart from '../../cart-pages.svg'
+import cart from '../../cart-pages.svg';
 import '../../App.css';
 
 class Navbarpages extends React.Component {

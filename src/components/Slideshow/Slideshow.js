@@ -9,7 +9,7 @@ class Slideshow extends React.Component {
 				<div className='slideshow-box'>
 					<div className='slideshow-content col-10 col-md-3'>
 						<h1 className='slideshow-text'>Sale of the <br/>summer <br/>collection</h1>
-						<Link to='/men'>
+						<Link to='/summer-collection'>
 							<button className='btn btn-text'><span className='btn-slideshow'>&#8594;</span>Shop now</button>
 						</Link>
 					</div>
