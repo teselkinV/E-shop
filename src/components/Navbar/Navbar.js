@@ -1,11 +1,28 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Link } from 'react-router-dom';
 import logo from '../../logo.svg';
 import cart from '../../cart.svg';
 import '../../App.css';
+import DropdownMan from './DropdownMan';
+import DropdownWomen from './DropdownWomen';
 
-class Navbar extends React.Component {
-	render() {
+const Navbar = () => {
+	const [visible, setVisible,] = useState(false)
+	const [vis, setVis,] = useState(false)
+
+    const displayMenu = () => {
+        setVisible(true)
+    }
+    const hideMenu = () => {
+        setVisible(false)
+	}
+	const display = () => {
+        setVis(true)
+    }
+    const hide = () => {
+        setVis(false)
+	}
+	
 		return (
 			<div className='container'>
 				<div className='row'>
@@ -15,15 +32,25 @@ class Navbar extends React.Component {
 								<img src={logo} alt='brand' className='brand-logo' />
 							</Link>
 							<ul className='navbar-nav align-items-center mx-auto' >
-								<li className="nav-item ml-5">
-									<Link to='/man' className='nav-link'>Man</Link>
+								<li 
+									className="nav-item ml-5"
+									onMouseLeave={hideMenu}>
+									<Link to='/man' 
+										className='nav-link'
+										onMouseOver={displayMenu}
+										>Man</Link>
+										<DropdownMan isVisible={visible} />
 								</li>
-								<li className="nav-item ml-5">
-									<Link to='/women' className='nav-link'>Women</Link>
+								<li 
+									className="nav-item ml-5"
+									onMouseLeave={hide}>
+									<Link to='/women' 
+										className='nav-link'
+										onMouseOver={display}
+										>Women</Link>
+										<DropdownWomen isVisible={vis} />
 								</li>
-								<li className="nav-item ml-5">
-									<Link to='/kids' className='nav-link'>Kids</Link>
-								</li>
+								
 								<li className="nav-item ml-5">
 									<Link to='/sale' className='nav-link'>Sale</Link>
 								</li>
@@ -37,7 +64,6 @@ class Navbar extends React.Component {
 			</div> 
 		)
 	}
-}
 
 
 
