@@ -8,7 +8,7 @@ import Navbar from '../Navbar/Navbarpages';
 import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
 
 
-class TshirtsMan extends React.Component {
+class ShirtsMen extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
@@ -17,11 +17,11 @@ class TshirtsMan extends React.Component {
 						<Breadcrumbs />
 						<div className='row'>
 							<div className='col-12 product-page-title mx-auto text-center'>
-							<Title name="Men's" title="T-shirts"></Title>
+							<Title name="Men's" title="Shirts"></Title>
 							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
-							T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. 
-							Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. 
-							Check out web-site for oversized T-shirts and unique patterns, and make Topman your go-to for classic black and white t-shirts.
+							From work to play, our collection of shirts for men covers all bases. Shop ASOS DESIGN for everything from smart shirts 
+                            for your 9-5 to denim shirts and Hawaiian shirts for your summer wardrobe. Browse iconic designs from Polo Ralph Lauren, 
+                            with check shirts, preppy hues and logo details featuring heavily.
 								</div> 
 							</div>
 						</div>
@@ -29,9 +29,9 @@ class TshirtsMan extends React.Component {
 							<ProductConsumer>
 								{value => {
 									return value.products.map(product => {
-										if (product.sex === 'men' && product.category === 'tshirt') {
-											return <Card key={product.id} product ={product} />;
-										}
+                                        if (product.sex === 'men' && product.category === 'shirt') {
+                                            return <Card key={product.id} product ={product} />;
+                                        }
 									});
 								}}
 							</ProductConsumer>
@@ -46,4 +46,4 @@ class TshirtsMan extends React.Component {
 	}
 }
 
-export default TshirtsMan;
+export default ShirtsMen;

@@ -13,6 +13,10 @@ import TableSize from './components/Details/TableSize';
 import SummerCollection from './components/ProductsPages/SummerCollection';
 import NewArrival from './components/ProductsPages/NewArrival';
 import TshirtsMen from './components/MenProductPages/TshirtsMen';
+import PoloMen from './components/MenProductPages/PoloMen';
+import ShirtsMen from './components/MenProductPages/ShirtsMen';
+import SweatersMen from './components/MenProductPages/SweatersMen';
+import OverallsMen from './components/MenProductPages/OverallsMen';
 import Women from './components/Women/Women';
 
 
@@ -23,6 +27,10 @@ class App extends Component {
         <Switch>
           <Route exact path='/' component={MainPage} />
           <Route path="/men's-t-shirts" component={TshirtsMen} />
+          <Route path="/men's-polo" component={PoloMen} />
+          <Route path="/men's-shirts" component={ShirtsMen} />
+          <Route path="/men's-sweaters" component={SweatersMen} />
+          <Route path="/men's-overalls" component={OverallsMen} />
           <Route path='/women' component={Women} />
           <Route path='/shoppingcart' component={ShoppingCart} />
           <Route path='/details' component={Details} />

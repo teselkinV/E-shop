@@ -20,7 +20,7 @@ class Details extends React.Component {
 				<Navbar />
                 <ProductConsumer>
 					{value => {
-						const {id, img, title, price, info, inCart, size, sign} = value.detailProduct;
+						const {id, img, title, price, info, inCart, size, identifier} = value.detailProduct;
 						return (
 							<div className='container product-page'>
 								<Breadcrumbs />
@@ -28,7 +28,7 @@ class Details extends React.Component {
 								{/* product info */}
 								<div className='row'>
 									<div className='col-12 mx-auto col-md-6 my-3 px-0'>
-										<img src={img} className='img-fluid' alt='product'/>
+										<img src={img} className='img-fluid details-img' alt='product'/>
 									</div>
 								
 								
@@ -63,7 +63,7 @@ class Details extends React.Component {
 											<p className="font-weight-light mb-3 details-shipment">Free within 3-6 business days</p>
 											<p className="font-weight-bold mb-1 details-shipment">Express delivery</p>
 											<p className="font-weight-light mb-3 details-shipment">$35,00 available</p>
-										<p className='text-muted font-weight-light details-shipment'>Product ID: {sign}</p>
+										<p className='text-muted font-weight-light details-shipment'>Product ID: {identifier}</p>
 									</div>
 								</div>
 							

@@ -8,7 +8,7 @@ import Navbar from '../Navbar/Navbarpages';
 import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
 
 
-class TshirtsMan extends React.Component {
+class SweatersMen extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
@@ -17,11 +17,11 @@ class TshirtsMan extends React.Component {
 						<Breadcrumbs />
 						<div className='row'>
 							<div className='col-12 product-page-title mx-auto text-center'>
-							<Title name="Men's" title="T-shirts"></Title>
+							<Title name="Men's" title="Sweaters"></Title>
 							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
-							T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. 
-							Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. 
-							Check out web-site for oversized T-shirts and unique patterns, and make Topman your go-to for classic black and white t-shirts.
+							Whether you want something to layer over shirts, pair with jeans or throw on for getting home after the gym, 
+                            our edit of men's sweaters and cardigans has everything you need to stay warm this season. ASOS DESIGN is your 
+                            go-to for everyday style heroes – from muscle-fit styles.
 								</div> 
 							</div>
 						</div>
@@ -29,9 +29,9 @@ class TshirtsMan extends React.Component {
 							<ProductConsumer>
 								{value => {
 									return value.products.map(product => {
-										if (product.sex === 'men' && product.category === 'tshirt') {
-											return <Card key={product.id} product ={product} />;
-										}
+                                        if (product.sex === 'men' && product.category === 'sweater') {
+                                            return <Card key={product.id} product ={product} />;
+                                        }
 									});
 								}}
 							</ProductConsumer>
@@ -46,4 +46,4 @@ class TshirtsMan extends React.Component {
 	}
 }
 
-export default TshirtsMan;
+export default SweatersMen;

@@ -476,6 +476,10 @@ color: #0177b5;
 /* Details */
 /* -------------------------------------------*/
 
+.details-img {
+  max-width: 75% !important;
+  height: auto !important;
+}
 
 h2.details-price {
   margin-bottom: 3.25rem;

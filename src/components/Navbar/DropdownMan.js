@@ -12,13 +12,13 @@ const DropdownMan = ({isVisible}) => {
                             <h3 className='submenu-title'>TOPS</h3>
                             <ul className='menu-column'>
                                 <Link to="/men's-t-shirts"><li>T-shirts</li></Link>
-                                <Link to='/man'><li>Polo</li></Link> 
-                                <Link to='/man'><li>Shirts</li></Link>
-                                <Link to='/man'><li>Sweaters</li></Link>
-                                <Link to='/man'><li>Blazers</li></Link>
-                                <Link to='/man'><li>Jackets</li></Link> 
+                                <Link to="/men's-polo"><li>Polo</li></Link> 
+                                <Link to="/men's-shirts"><li>Shirts</li></Link>
+                                <Link to="/men's-sweaters"><li>Sweaters & Cardigans</li></Link>
+                                <Link to="/men's-overalls"><li>Overalls & Boiler Suits</li></Link>
+                                <Link to='/man'><li>Jackets & Coats</li></Link> 
                                 <Link to='/man'><li>Hoodies</li></Link>
-                                <Link to='/man'><li>Coats</li></Link>
+                                <Link to='/man'><li>Activewear</li></Link>
 
                             </ul>
                         </div>
