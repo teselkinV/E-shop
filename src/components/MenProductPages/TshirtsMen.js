@@ -21,7 +21,7 @@ class TshirtsMan extends React.Component {
 							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
 							T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. 
 							Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. 
-							Check out web-site for oversized T-shirts and unique patterns, and make Topman your go-to for classic black and white t-shirts.
+							Check out web-site for oversized T-shirts and unique patterns.
 								</div> 
 							</div>
 						</div>
