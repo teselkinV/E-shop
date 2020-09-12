@@ -16,19 +16,19 @@ const DropdownMan = ({isVisible}) => {
                                 <Link to="/men's-shirts"><li>Shirts</li></Link>
                                 <Link to="/men's-sweaters"><li>Sweaters & Cardigans</li></Link>
                                 <Link to="/men's-overalls"><li>Overalls & Boiler Suits</li></Link>
-                                <Link to='/man'><li>Jackets & Coats</li></Link> 
-                                <Link to='/man'><li>Hoodies</li></Link>
-                                <Link to='/man'><li>Activewear</li></Link>
+                                <Link to="/men's-jackets"><li>Jackets & Coats</li></Link> 
+                                <Link to="/men's-hoodies"><li>Hoodies</li></Link>
+                                <Link to="/men's-activewear"><li>Activewear</li></Link>
 
                             </ul>
                         </div>
                         <div className='col-3 mx-auto'>
                             <h3 className='submenu-title'>BOTTOMS</h3>
                             <ul className='menu-column'>
-                                <Link to='/man'><li>Jeans</li></Link>
-                                <Link to='/man'><li>Shorts</li></Link> 
-                                <Link to='/man'><li>Pants</li></Link>
-                                <Link to='/man'><li>Joggers</li></Link>
+                                <Link to="/men's-jeans"><li>Jeans</li></Link>
+                                <Link to="/men's-shorts"><li>Shorts</li></Link> 
+                                <Link to="/men's-pants"><li>Pants</li></Link>
+                                <Link to="/men's-joggers"><li>Joggers</li></Link>
                             <br/>
 
                                 <Link to='/man'className='accesories'><li>Suites</li></Link>

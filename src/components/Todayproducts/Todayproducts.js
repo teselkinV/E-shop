@@ -28,17 +28,6 @@ class Todayproducts extends React.Component {
 						<ProductConsumer>
 								{value => {
 									return value.products.map(product => { 
-										if (product.block === 'selected-2') {
-											return <CardBlock key={product.id} product ={product} />;
-										}
-									});
-								}}
-							</ProductConsumer>
-						</div>
-						<div className='col-6 col-md-3'>
-						<ProductConsumer>
-								{value => {
-									return value.products.map(product => { 
 										if (product.block === 'today-2') {
 											return <CardBlock key={product.id} product ={product} />;
 										}
@@ -50,7 +39,18 @@ class Todayproducts extends React.Component {
 						<ProductConsumer>
 								{value => {
 									return value.products.map(product => { 
-										if (product.block === 'selected-4') {
+										if (product.block === 'today-3') {
+											return <CardBlock key={product.id} product ={product} />;
+										}
+									});
+								}}
+							</ProductConsumer>
+						</div>
+						<div className='col-6 col-md-3'>
+						<ProductConsumer>
+								{value => {
+									return value.products.map(product => { 
+										if (product.block === 'today-4') {
 											return <CardBlock key={product.id} product ={product} />;
 										}
 									});
