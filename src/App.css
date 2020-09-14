@@ -486,24 +486,29 @@ h2.details-price {
 }
 .details-size {
   font-size: 1rem;
-  font-weight: 300;
+  font-weight: 700;
   margin-bottom: 1rem;
+  letter-spacing: 0.1rem;
 }
 .size-table {
-  font-weight: 700;
+  font-weight: 300;
   padding-left: 2rem;
   color: var(--mainYellow);
+  text-decoration: underline;
+  letter-spacing: 0;
+  
 }
 
 .size-table:hover {
   text-decoration: none;
   color: var(--secondYellow);
+  text-decoration: underline;
 }
 
 select.size {
   border: 1px solid var(--mainGrey);
   border-radius: 2rem;
-  padding: 0.8rem 2rem;
+  padding: 0.6rem 4.8rem;
   color: var(--mainGrey);
   margin-bottom: 3rem;
 }

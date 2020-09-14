@@ -56,8 +56,10 @@ a {
     font-weight: 700;
 }
 
-.img-1,
-.img-2 {
+.img-arr-men,
+.img-sale-men,
+.img-arr-women,
+.img-sale-women {
     width: 100%;
     height: 23rem;
     background-position: center;
@@ -78,10 +80,18 @@ a {
     border-right: 1px solid rgb(239 239 239);
 }
 
-.img-1 {
-    background-image: url('../../images/new-arrival-2.png');
+.img-arr-men {
+    background-image: url('../../images/tshirt-man-9.jpeg');
 }
 
-.img-2 {
+.img-arr-women {
+    background-image: url('../../images/dresses-5.jpeg');
+}
+
+.img-sale-men {
     background-image: url('../../images/new-arrival-3.png');
+}
+
+.img-sale-women {
+    background-image: url('../../images/tshirt-women-4.jpeg');
 }

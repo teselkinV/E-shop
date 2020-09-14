@@ -6,6 +6,7 @@ import { ProductConsumer } from '../../context';
 import Card from '../Card/Card';
 import Navbar from '../Navbar/Navbarpages';
 import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
+import { Link } from 'react-router-dom';
 
 
 class Sale extends React.Component {
@@ -14,23 +15,21 @@ class Sale extends React.Component {
 			<React.Fragment>
 				<Navbar />
 					<div className="container products-page">
-						<Breadcrumbs />
 						<div className='row'>
-							<div className='col 12 product-page-title'>
-							<Title name="Sale" title="products"></Title>
+							<div className='col-10 col-md-6 text-center mx-auto mt-4'>
+								<Link to="/women's-sale">
+									<button className='button modal-continue-btn'>Women's sale</button>
+								</Link>
+							</div>
+						
+						
+							<div className='col-10 col-md-6 text-center mx-auto mt-4'>
+								<Link to="/men's-sale">
+									<button className='button modal-continue-btn'>Men's sale</button>
+								</Link>
 							</div>
 						</div>
-						<div className="row">
-							<ProductConsumer>
-								{value => {
-									return value.products.map(product => {
-										return <Card key={product.id} product ={product} />;
-									});
-								}}
-							</ProductConsumer>
-						</div>
 					</div>
-
 		        <Summer />
 		        <Footer />
       		</React.Fragment>

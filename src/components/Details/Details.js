@@ -36,7 +36,11 @@ class Details extends React.Component {
 										<h2 className="font-weight-light details-title">{title}</h2>
 										<h2 className='details-price'>${price}</h2>
 										<p className="details-size">Size:  <span className='size-table'>
-											<Link to='/clothing-size-charts' target='_blank' className='size-table'> See size table</Link>
+										
+											<Link to='/clothing-size-charts' target='_blank' className='size-table'> 
+												<i className="fas fa-tshirt mr-1"></i>
+												See size table
+												</Link>
 											</span></p>
 										<div className='select-size'>
 											<select className="size" id="size">
@@ -97,7 +101,6 @@ class Details extends React.Component {
 						);
 					}}
 				</ProductConsumer>
-		        <Selected />
 		        <Summer />
 		        <Footer />
       		</React.Fragment>

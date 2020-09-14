@@ -43,7 +43,7 @@ const Navbarpages = () => {
 								<li 
 									className="nav-item ml-5"
 									onMouseLeave={hide}>
-									<Link to='/women' 
+									<Link 
 										className='nav-link pages'
 										onMouseOver={display}
 										>Women</Link>

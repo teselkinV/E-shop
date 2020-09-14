@@ -31,19 +31,19 @@ const DropdownMan = ({isVisible}) => {
                                 <Link to="/men's-joggers"><li>Joggers</li></Link>
                             <br/>
 
-                                <Link to='/man'className='accesories'><li>Suites</li></Link>
-                                <Link to='/man'className='accesories'><li>Bags</li></Link>
-                                <Link to='/man'className='accesories'><li>Accesories</li></Link>
+                                <Link to="/men's-suites" className='accesories'><li>Suites</li></Link>
+                                <Link to="/men's-shoes" className='accesories'><li>Shoes</li></Link>
+                                <Link to="/men's-underwear" className='accesories'><li>Underwear</li></Link>
                                 </ul>
                             </div>
                             <div className='col-3 mx-auto'>
                                 <div className='img-1-box'>
-                                <Link to='/'><div className='img-1'></div></Link>
+                                <Link to="/men's-new-arrived"><div className='img-arr-men'></div></Link>
                                     </div>
                             </div>
                             <div className='col-3 mx-auto'>
                                 <div className='img-2-box'>
-                                    <Link to='/'><div className='img-2'></div></Link> 
+                                    <Link to="/men's-sale"><div className='img-sale-men'></div></Link> 
                             </div>
                             </div>
                     </div>
