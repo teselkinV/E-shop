@@ -12,7 +12,7 @@ class Newproducts extends React.Component {
 							<div className='new-arrival-img-1'>
 								<div className='arr-content'>
 									<h3 className='arr-text'>New arrivals<br/>are now in!</h3>
-									<Link to='/new-arrival'>
+									<Link to="/women's-new-arrived">
 										<button className='btn btn-arr'>Show collection</button>
 									</Link>
 								</div>
@@ -21,8 +21,8 @@ class Newproducts extends React.Component {
 						<div className='col-lg-3 col-sm-6'>
 							<div className='new-arrival-img-2'>
 								<div className='arr-content'>
-									<h3 className='arr-text'>Basic t-shirt<br/>$29.99</h3>
-									<Link to='/details'>
+									<h3 className='arr-text'>Men's t-shirt<br/>$19.95</h3>
+									<Link to="/men's-t-shirts">
 										<button className='btn btn-arr'>More details</button>
 									</Link>
 								</div>

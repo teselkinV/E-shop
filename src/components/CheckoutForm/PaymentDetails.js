@@ -112,22 +112,23 @@ export class PaymentDetails extends Component {
                                             />
                                     </div>
                                 </div>
+                                
                                 <div className='row'>
-                        <div className='col-10 col-md-4 mx-auto text-center my-2'>
-                            <Link onClick={this.back} className='continue-shopping'>&#8592; Back</Link>
-                        </div>
+                                    <div className='col-10 col-md-4 mx-auto text-center my-2'>
+                                        <Link onClick={this.back} className='continue-shopping'>&#8592; Back</Link>
+                                    </div>
 
-                        <div className='col-10 col-md-4 text-right my-2'>
-                            <Link to='/' className='continue-shopping continue-checkout'>Continue shopping</Link>
-                        </div>
+                                    <div className='col-10 col-md-4 text-right my-2'>
+                                        <Link to='/' className='continue-shopping continue-checkout'>Continue shopping</Link>
+                                    </div>
 
                        
-                        <button 
-                                className='button modal-continue-btn' 
-                                onClick={this.continue}>
-                                Next
-                            </button>
-                    </div>
+                                    <button 
+                                            className='button modal-continue-btn' 
+                                            onClick={this.continue}>
+                                            Next
+                                        </button>
+                                </div>
 
                             </form>
                             <p className='paymet-text'>* This form doesn't collect card information. Build for example purpose.</p>

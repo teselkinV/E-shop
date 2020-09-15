@@ -16,8 +16,13 @@ class SaleWomen extends React.Component {
 					<div className="container products-page">
 						<Breadcrumbs />
 						<div className='row'>
-							<div className='col 12 product-page-title'>
-							<Title name="Women's" title="Sale"></Title>
+						<div className='col-12 product-page-title mx-auto text-center'>
+							<Title name="Women's" title="Sale up to 70%"></Title>
+							<div className='col-12 col-md-10 col-lg-8 mx-auto text-center pages-text'>
+								Check it out our sale women's products. If you want to look fresh when working out, our edit of sports 
+								clothing is your go-to. However you decide to move, we've got the tech that stands up to the most 
+								high-impact workouts whilst looking and feeling great. 
+								</div> 
 							</div>
 						</div>
 						<div className="row">
