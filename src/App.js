@@ -10,7 +10,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Modal from './components/Modal/Modal';
 import CheckoutForm from './components/CheckoutForm/CheckoutForm';
 import TableSize from './components/Details/TableSize';
-import SummerCollection from './components/ProductsPages/SummerCollection';
 import NewArrival from './components/ProductsPages/NewArrival';
 import TshirtsMen from './components/MenProductPages/TshirtsMen';
 import PoloMen from './components/MenProductPages/PoloMen';
@@ -101,7 +100,6 @@ class App extends Component {
           <Route path='/sale' component={Sale} />
           <Route path='/checkout-details' component={CheckoutForm} />
           <Route path='/clothing-size-charts' component={TableSize} />
-          <Route path='/summer-collection' component={SummerCollection} />
           <Route path='/new-arrival' component={NewArrival} />
           <Route component={Default} />
         </Switch>

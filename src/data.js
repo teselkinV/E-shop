@@ -31,7 +31,6 @@ export const menProducts = [
         category: 'tshirt',
         sale: 'regular',
         collection: 'none',
-        block: 'selected-1',
     },
     {
         id: 2,
@@ -100,7 +99,6 @@ export const menProducts = [
         category: 'tshirt',
         sale: 'regular',
         collection: 'none',
-        block: 'selected-4',
     },
     {
         id: 5,
@@ -140,7 +138,6 @@ export const menProducts = [
         inCart: false,
         count: 0,
         total: 0,
-        block: 'today-2',
         identifier: '#216736',
         sex: 'men',
         category: 'tshirt',
@@ -238,7 +235,7 @@ export const menProducts = [
         sex: 'men',
         category: 'polo',
         sale: 'regular',
-        collection: 'new',
+        collection: 'none',
     },
     {
         id: 8,
@@ -283,6 +280,7 @@ export const menProducts = [
         category: 'polo',
         sale: 'regular',
         collection: 'none',
+        block: 'selected-4',
     },
     {
         id: 10,
@@ -393,7 +391,6 @@ export const menProducts = [
         category: 'polo',
         sale: 'regular',
         collection: 'none',
-        block: 'selected-3',
     },
     {
         id: 15,
@@ -416,7 +413,6 @@ export const menProducts = [
         category: 'polo',
         sale: 'regular',
         collection: 'none',
-        block: 'today-1',
     },
 
     // ================================================
@@ -668,7 +664,7 @@ export const menProducts = [
         sex: 'men',
         category: 'sweater',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 27,
@@ -800,7 +796,7 @@ export const menProducts = [
         sex: 'men',
         category: 'sweater',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 33,
@@ -895,7 +891,6 @@ export const menProducts = [
         category: 'overall',
         sale: 'regular',
         collection: 'none',
-        block: 'selected-2',
     },
     {
         id: 37,
@@ -1078,7 +1073,6 @@ export const menProducts = [
         category: 'jacket',
         sale: 'regular',
         collection: 'none',
-        block: 'today-3',
     },
     {
         id: 45,
@@ -1144,7 +1138,7 @@ export const menProducts = [
         sex: 'men',
         category: 'jacket',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 48,
@@ -1232,7 +1226,7 @@ export const menProducts = [
         sex: 'men',
         category: 'jacket',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
 
     // ================================================
@@ -1260,7 +1254,6 @@ export const menProducts = [
         category: 'hoodies',
         sale: 'regular',
         collection: 'none',
-        block: 'today-4',
     },
     {
         id: 53,
@@ -1393,6 +1386,7 @@ export const menProducts = [
         category: 'hoodies',
         sale: 'regular',
         collection: 'none',
+        block: 'selected-1',
     },
     {
         id: 59,
@@ -1710,7 +1704,7 @@ export const menProducts = [
         sex: 'men',
         category: 'jeans',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 73,
@@ -1978,7 +1972,7 @@ export const menProducts = [
         identifier: '#266745',
         sex: 'men',
         category: 'shorts',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     {
@@ -2000,7 +1994,7 @@ export const menProducts = [
         identifier: '#267745',
         sex: 'men',
         category: 'shorts',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     {
@@ -2247,7 +2241,7 @@ export const menProducts = [
         identifier: '#249475',
         sex: 'men',
         category: 'pants',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
 
@@ -2363,7 +2357,7 @@ export const menProducts = [
         sex: 'men',
         category: 'joggers',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 102,
@@ -2386,6 +2380,7 @@ export const menProducts = [
         category: 'joggers',
         sale: 'regular',
         collection: 'none',
+        block: 'selected-3',
     },
     {
         id: 103,
@@ -2451,7 +2446,7 @@ export const menProducts = [
         sex: 'men',
         category: 'joggers',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
 
     // ================================================
@@ -2478,7 +2473,7 @@ export const menProducts = [
         sex: 'men',
         category: 'suites',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 602,
@@ -2523,6 +2518,7 @@ export const menProducts = [
         category: 'suites',
         sale: 'regular',
         collection: 'none',
+        block: 'selected-2',
     },
     {
         id: 604,
@@ -2588,7 +2584,7 @@ export const menProducts = [
         sex: 'men',
         category: 'suites',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 607,
@@ -3184,7 +3180,7 @@ export const menProducts = [
         sex: 'women',
         category: 'dresses',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 108,
@@ -3528,6 +3524,7 @@ export const menProducts = [
         category: 'jumpsuits',
         sale: 'regular',
         collection: 'none',
+        block: 'today-2',
     },
 
 
@@ -3616,8 +3613,8 @@ export const menProducts = [
         identifier: '#734952',
         sex: 'women',
         category: 'tshirts',
-        sale: 'regular',
-        collection: 'none',
+        sale: 'onSale',
+        collection: 'new',
     },
     {
         id: 127,
@@ -3964,6 +3961,7 @@ export const menProducts = [
         category: 'coats',
         sale: 'regular',
         collection: 'none',
+        block: 'today-3',
     },
     {
         id: 143,
@@ -4241,7 +4239,7 @@ export const menProducts = [
         sex: 'women',
         category: 'cardigans',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 156,
@@ -4284,6 +4282,7 @@ export const menProducts = [
         category: 'cardigans',
         sale: 'regular',
         collection: 'none',
+        block: 'today-4',
     },
     {
         id: 158,
@@ -4304,7 +4303,7 @@ export const menProducts = [
         sex: 'women',
         category: 'cardigans',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     // ================================================
     // Hoodies Women
@@ -4434,7 +4433,7 @@ export const menProducts = [
         sex: 'women',
         category: 'hoodies',
         sale: 'regular',
-        collection: 'none',
+        collection: 'new',
     },
     {
         id: 165,
@@ -4690,7 +4689,7 @@ export const menProducts = [
         identifier: '#619279',
         sex: 'women',
         category: 'swimwear',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
 
@@ -4863,7 +4862,7 @@ export const menProducts = [
         identifier: '#638951',
         sex: 'women',
         category: 'jeans',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     {
@@ -5230,7 +5229,7 @@ export const menProducts = [
         identifier: '#647253',
         sex: 'women',
         category: 'shorts',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     {
@@ -5272,7 +5271,7 @@ export const menProducts = [
         identifier: '#649253',
         sex: 'women',
         category: 'shorts',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     
@@ -5384,7 +5383,7 @@ export const menProducts = [
         identifier: '#655271',
         sex: 'women',
         category: 'pants',
-        sale: 'regular',
+        sale: 'onSale',
         collection: 'none',
     },
     {
@@ -5643,6 +5642,7 @@ export const menProducts = [
         category: 'suites',
         sale: 'regular',
         collection: 'none',
+        block: 'today-1',
     },
     {
         id: 221,

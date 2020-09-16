@@ -29,7 +29,7 @@ class NewArrivedMen extends React.Component {
 							<ProductConsumer>
 								{value => {
 									return value.products.map(product => {
-                                        if (product.sex === 'men' && product.sale === 'onSale') {
+                                        if (product.sex === 'men' && product.collection === 'new') {
                                             return <Card key={product.id} product ={product} />;
                                         }
 									});
