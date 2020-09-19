@@ -6,6 +6,7 @@ import { ProductConsumer } from '../../context';
 import Card from '../Card/Card';
 import Navbar from '../Navbar/Navbarpages';
 import Breadcrumbs from '../Breadcrumbs/Breadcrumbs';
+import Drawer from '../Navbar/Drawer';
 
 
 class NewArrival extends React.Component {
@@ -13,6 +14,7 @@ class NewArrival extends React.Component {
 		return (
 			<React.Fragment>
 				<Navbar />
+				<Drawer />
 					<div className="container products-page">
 						<Breadcrumbs />
 						<div className='row'>

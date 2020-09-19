@@ -8,12 +8,14 @@ import Todayproducts from '../Todayproducts/Todayproducts';
 import Summer from '../Summer/Summer';
 import Footer from '../Footer/Footer';
 import Navbar from '../Navbar/Navbar';
+import Drawer from '../Navbar/Drawer';
 
 class MainPage extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
 				<Navbar />
+				<Drawer />
 		        <Slideshow />
 		        <Newproducts />
 		        <Selected />

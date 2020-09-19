@@ -10,6 +10,7 @@ import description from '../../images/description-product.png';
 import care from '../../images/care-product.png';
 import careicons from '../../images/care-icons.png';
 import { Link } from 'react-router-dom';
+import Drawer from '../Navbar/Drawer';
 
 
 
@@ -18,6 +19,7 @@ class Details extends React.Component {
 		return (
 			<React.Fragment>
 				<Navbar />
+				<Drawer />
                 <ProductConsumer>
 					{value => {
 						const {id, img, title, price, info, inCart, size, identifier} = value.detailProduct;

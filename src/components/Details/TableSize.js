@@ -2,12 +2,14 @@ import React, { Component } from 'react';
 import Title from '../Title/Title';
 import Navbar from '../Navbar/Navbarpages';
 import Footer from '../Footer/Footer';
+import Drawer from '../Navbar/Drawer';
 
 export class TableSize extends Component {
     render() {
         return (
             <React.Fragment>
                 <Navbar />
+                <Drawer />
                 <div className='container table-size-page'>
 
                     <div className='row'>
