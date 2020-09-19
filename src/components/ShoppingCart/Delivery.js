@@ -2,12 +2,14 @@ import React, { Component } from 'react'
 import Navbar from '../Navbar/Navbarpages';
 import {Link} from 'react-router-dom';
 import PaymentForm from './PaymentForm';
+import Drawer from '../Navbar/Drawer';
 
 export class Delivery extends Component {
     render() {
         return (
             <React.Fragment>
                 <Navbar />
+                <Drawer />
                 <div className='container shipping-details'>
                     <div className='row'>
                         <div className="col-10 col-md-10 col-lg-8 mx-auto my-2 text-title">

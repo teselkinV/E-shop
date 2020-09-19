@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Navbar from '../Navbar/Navbarpages';
 import {Link} from 'react-router-dom';
 import payment from '../../images/payment-cart.png';
+import Drawer from '../Navbar/Drawer';
 
 export class PaymentDetails extends Component {
     continue = e => {
@@ -20,6 +21,7 @@ export class PaymentDetails extends Component {
         return (
             <React.Fragment>
                 <Navbar />
+                <Drawer />
                 <div className='container payment-details'>
                     <div className='row'>
                     <div className="col-10 col-md-5 col-lg-4 mx-auto my-2 text-title text-center">

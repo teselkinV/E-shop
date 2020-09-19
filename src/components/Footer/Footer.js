@@ -8,7 +8,7 @@ class Footer extends React.Component {
 	render() {
 		return (
 			<React.Fragment>
-				<div className='container'>
+				<div className='container d-none d-sm-none d-md-none d-lg-block'>
 					<div className='row'>
 						<div className='col mx-auto text-left text-slanted my-5'>
 								<h6 className='footer-title'>Shopping online</h6>
@@ -27,7 +27,7 @@ class Footer extends React.Component {
 									<li className='footer-text'>Find a store</li>
 									<li className='footer-text'>Newsletter</li>
 									<li className='footer-text'>Become a member</li>
-									<li className='footer-text'>Feddback</li>
+									<li className='footer-text'>Feedback</li>
 								</ul>
 							</div>
 							<div className='col mx-auto text-left text-slanted my-5'>

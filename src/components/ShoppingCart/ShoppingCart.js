@@ -7,6 +7,7 @@ import { ProductConsumer } from '../../context';
 import CartList from './CartList';
 import CartTotals from './CartTotals';
 import Navbar from '../Navbar/Navbarpages';
+import Drawer from '../Navbar/Drawer';
 
 class ShoppingCart extends React.Component {
 	render() {
@@ -19,6 +20,7 @@ class ShoppingCart extends React.Component {
 							return (
 								<React.Fragment>
 									<Navbar />
+									<Drawer />
 									<div className='container shopping-cart'>
 										<div className='row'>
 											<div className="col-10 mx-auto my-2 text-title">

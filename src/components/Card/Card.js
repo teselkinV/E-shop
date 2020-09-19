@@ -5,10 +5,10 @@ import PropTypes from 'prop-types';
 
 class Card extends React.Component {
 	render() {
-		const {id, sign, title, img, price} = this.props.product;
+		const {id, title, img, price} = this.props.product;
 		return (
 			<React.Fragment>
-			   <div className='col-11 mx-auto col-md-5 col-lg-3 my-3 card-wrapper'>
+			   <div className='col-11 mx-auto col-md-3 col-lg-3 my-3 card-wrapper'>
 					<div className="card">
 						<ProductConsumer>
 							{(value) => (

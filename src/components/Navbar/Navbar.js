@@ -27,7 +27,7 @@ const Navbar = () => {
 			<div className='container'>
 				<div className='row'>
 					<div className='col'>
-						<div className="navbar navbar-expand-sm px-sm-5 mt-5 py-0">
+						<div className="navbar navbar-expand px-sm-5 d-none d-sm-none d-md-none d-lg-flex mt-5 py-0">
 							<Link to='/'>
 								<img src={logo} alt='brand' className='brand-logo' />
 							</Link>

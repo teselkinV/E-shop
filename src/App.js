@@ -75,6 +75,7 @@ class App extends Component {
           <Route path="/men's-sale" component={SaleMen} />
           <Route path="/men's-new-arrived" component={NewArrivedMen} />
 
+
           {/* Women's Pages */}
 
           <Route path="/women's-t-shirts" component={TshirtsWomen} />

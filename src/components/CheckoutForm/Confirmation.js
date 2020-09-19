@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Navbar from '../Navbar/Navbarpages';
 import {Link} from 'react-router-dom';
+import Drawer from '../Navbar/Drawer';
 
 export class Confirmation extends Component {
 
@@ -13,6 +14,7 @@ export class Confirmation extends Component {
         return (
             <React.Fragment>
                <Navbar />
+               <Drawer />
 
                 <div className='container shipping-details'>
                     <div className='row'>

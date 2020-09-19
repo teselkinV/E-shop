@@ -4,6 +4,7 @@ import {Link} from 'react-router-dom';
 import placeOrder from '../../images/place-order-cart.png';
 import CartTotals from '../ShoppingCart/CartTotals';
 import { ProductConsumer } from '../../context';
+import Drawer from '../Navbar/Drawer';
 
 export class SubmitOrder extends Component {
 
@@ -31,6 +32,7 @@ export class SubmitOrder extends Component {
 							return (
             <React.Fragment>
                 <Navbar />
+                <Drawer />
 
                 <div className='container summary-details'>
                     <div className='row'>
