@@ -69,6 +69,7 @@ export default class ProductProvider extends Component {
             return { modalOpen: false }
         })
     };
+
     increment = id => {
         let tempCart = [...this.state.cart];
         const selectedItem = tempCart.find(item => item.id === id);

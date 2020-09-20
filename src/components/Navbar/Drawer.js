@@ -45,6 +45,7 @@ import lingerieicon from '../../images/lingerie-women-icon.jpeg';
 
 function Drawer() {
   return (
+ 
     <Navbar>
       <NavItem icon={<i className="fas fa-bars"></i>}>
         <DropdownMenu></DropdownMenu>

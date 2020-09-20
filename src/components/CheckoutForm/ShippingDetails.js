@@ -131,11 +131,11 @@ export class ShippingDetails extends Component {
                                 </div>
                                 
                                 <div className='row'>
-                                    <div className='col-10 col-md-4 mx-auto m-2'>
+                                    <div className='col-4 col-md-4 col-lg-4 mx-auto m-2'>
                                         <Link to='/shoppingcart' className='continue-shopping'>&#8592; Back</Link>
                                     </div>
 
-                                    <div className='col-10 col-md-4 text-right m-2'>
+                                    <div className='col-12 col-md-6 col-lg-4 text-center m-2'>
                                         <Link to='/' className='continue-shopping continue-checkout'>Continue shopping</Link>
                                     </div>
 

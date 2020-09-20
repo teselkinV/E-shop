@@ -74,9 +74,9 @@ class Details extends React.Component {
 								</div>
 							
 
-							<div className='container-md description-section'>
+							<div className='container description-section'>
 								<div className='row'>
-									<div className='col-6 col-md-3 mx-auto py-6'>
+									<div className='col-8 col-md-3 mx-auto py-6'>
 										<h3 className='description'>Description</h3>
 									</div>
 								</div>

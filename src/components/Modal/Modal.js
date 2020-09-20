@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
             <ProductConsumer>
                 {(value) => {
                     const {modalOpen, closeModal} = value;
-                    const {img, title, price, size} = value.modalProduct;
+                    const {img, title, price} = value.modalProduct;
                     if(!modalOpen) {
                         return null;
                     } else {

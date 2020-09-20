@@ -77,6 +77,18 @@ class Footer extends React.Component {
 						</div>
 					</div>
 				</div>
+				<div className='footer-end-mobile d-block d-sm-block d-md-block d-lg-none'>
+					<div className='container'>
+						<div className='row'>
+							<div className='col-5 col-md-6 mx-auto copiright-footer'>
+								Design by <a href='https://teselkin.us/' className='teselkin'>TESELKIN</a>
+							</div>
+							<div className='col-5 col-md-6 mx-auto text-right copiright-footer'>
+								© E-Shop Inc. | USA
+							</div>
+						</div>
+					</div>
+				</div>
 			</React.Fragment>
 		)
 	}

@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13cf5ad3f92aa9a067138d99f201c855",
+    "revision": "5074730b92629f435c4f38771854e07d",
     "url": "/index.html"
   },
   {
-    "revision": "c71fbd14841a148510f3",
+    "revision": "97bd9e849f386c3c085d",
     "url": "/static/css/2.49ca489e.chunk.css"
   },
   {
-    "revision": "37a76674aea4c56b5550",
-    "url": "/static/css/main.f8fe0455.chunk.css"
+    "revision": "0888703a93add09f5b02",
+    "url": "/static/css/main.77a3bac0.chunk.css"
   },
   {
-    "revision": "c71fbd14841a148510f3",
-    "url": "/static/js/2.f4fa6ba6.chunk.js"
+    "revision": "97bd9e849f386c3c085d",
+    "url": "/static/js/2.688dd3d9.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/static/js/2.f4fa6ba6.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.688dd3d9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37a76674aea4c56b5550",
-    "url": "/static/js/main.3d9e2dde.chunk.js"
+    "revision": "0888703a93add09f5b02",
+    "url": "/static/js/main.51b9bc1a.chunk.js"
   },
   {
     "revision": "08cfe112bd9fdd5e2530",
     "url": "/static/js/runtime-main.e9db74a9.js"
+  },
+  {
+    "revision": "47b3ae24097bbfa5e206e63d20c3a857",
+    "url": "/static/media/cardigans-men-icon.47b3ae24.jpeg"
   },
   {
     "revision": "a47c0b8afa602d350b1e7392df6d47cd",
@@ -56,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
+    "revision": "842a093562edcc433997763d42b06133",
+    "url": "/static/media/home-page-background.842a0935.jpg"
+  },
+  {
     "revision": "3424568961bc593ae5bd7ac09f118954",
     "url": "/static/media/logo-color.34245689.svg"
   },
   {
     "revision": "b20b4a9970c6f06e397d9806ed92bcb3",
     "url": "/static/media/logo.b20b4a99.svg"
+  },
+  {
+    "revision": "7c1e144a9c8c29b06b7cd5d543b37ba9",
+    "url": "/static/media/men-icon.7c1e144a.jpeg"
   },
   {
     "revision": "75f000186a6914307e639d871cd0268d",
@@ -78,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "df187a58a55f46419d920f74527e4043",
     "url": "/static/media/new-arrival-3.df187a58.png"
+  },
+  {
+    "revision": "6957fc6c32c853c32d9a5afadcd94491",
+    "url": "/static/media/new-arrival-men-background.6957fc6c.jpg"
+  },
+  {
+    "revision": "d1f277738b64806365e317c996df493b",
+    "url": "/static/media/new-arrival-women-background.d1f27773.jpeg"
   },
   {
     "revision": "ec24824df778893f887f71d9bed2f058",
@@ -106,5 +126,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1dc26c480b8daca0a6a5c9f8f23b9c7f",
     "url": "/static/media/summer.1dc26c48.png"
+  },
+  {
+    "revision": "9a33a2e56d838461e1eda05015ebddfa",
+    "url": "/static/media/swimwear-women-icon.9a33a2e5.jpeg"
+  },
+  {
+    "revision": "56e5d37e8af94632ebc2b834f19b2745",
+    "url": "/static/media/tshirts-women-icon.56e5d37e.jpeg"
+  },
+  {
+    "revision": "4645972ae4a258e467bfa7f640b616c2",
+    "url": "/static/media/women-icon.4645972a.jpeg"
   }
 ]);

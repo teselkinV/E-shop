@@ -13,7 +13,7 @@ const Breadcrumbs = props => {
   } = props;
   const pathnames = pathname.split("/").filter(x => x);
   return (
-    <MUIBreadcrumbs className="breadcrumb">
+    <MUIBreadcrumbs className="breadcrumb d-none d-sm-none d-md-none d-lg-block">
       {pathnames.length > 0 ? (
         <Link color="inherit" onClick={() => history.push("/")}>Home</Link>
       ) : (
