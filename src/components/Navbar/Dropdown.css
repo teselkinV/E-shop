@@ -22,6 +22,7 @@
     box-shadow: 10px 10px 267px 24px rgba(44, 44, 44, 0.466);
     background-color: white;
     position: absolute;
+    top: 2.6rem;
     right: 0;
     min-width: 768px !important;
     min-width: 1000px !important;

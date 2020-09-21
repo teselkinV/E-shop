@@ -81,7 +81,6 @@ a.pages:hover {
   display: flex;
   align-items: center;
   justify-content: left;
-  padding-left: 18rem;
 }
 
 .slideshow-text {
@@ -875,6 +874,10 @@ button.btn-default {
     max-width: 1280px !important;
   }
 
+  .slideshow-box {
+    padding-left: 18rem !important;
+  }
+
 /* Details Page */
 h2.details-price {
   margin-bottom: 3.25rem !important;
@@ -914,6 +917,10 @@ h2.details-price {
   .container-sm {
     min-width: 768px !important;
   }
+
+  /* .slideshow-box {
+    padding-left: 10rem;
+  } */
 
   .container-md {
     padding: 1rem;
@@ -985,7 +992,7 @@ h2.details-price {
   }
 
   .slideshow-box {
-    padding-left: 0em !important;
+    padding-left: 0rem;
   }
 
   .breadcrumb {

@@ -7,7 +7,7 @@ class Slideshow extends React.Component {
 		return (
 			<div  className='slideshow-img'>
 				<div className='slideshow-box'>
-					<div className='slideshow-content col-10 col-md-3'>
+					<div className='slideshow-content col-10 col-md-6'>
 						<h1 className='slideshow-text'>Sale of the <br/>summer <br/>collection</h1>
 						<Link to="/women's-sale">
 							<button className='btn btn-text'><span className='btn-slideshow'>&#8594;</span>Shop now</button>

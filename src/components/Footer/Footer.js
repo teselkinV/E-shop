@@ -46,11 +46,11 @@ class Footer extends React.Component {
 									<li className='footer-text'>eshop@developer.com</li>
 									<li className='footer-text'>Hotline: +1 999 138 138</li>
 									<li className='footer-text'>
-									<a href='https://www.facebook.com' target='_blank' className='social-icon'><i class="fab fa-facebook-f"></i></a>
-									<a href='https://www.twitter.com' target='_blank' className='social-icon'><i class="fab fa-twitter"></i></a>
-									<a href='https://www.linkedin.com' target='_blank' className='social-icon'><i class="fab fa-linkedin"></i></a>
-									<a href='https://www.instagram.com' target='_blank' className='social-icon'><i class="fab fa-instagram"></i></a>
-									<a href='https://www.pinterest.com' target='_blank' className='social-icon'><i class="fab fa-pinterest"></i></a>
+									<a href='https://www.facebook.com' target='_blank' className='social-icon'><i className="fab fa-facebook-f"></i></a>
+									<a href='https://www.twitter.com' target='_blank' className='social-icon'><i className="fab fa-twitter"></i></a>
+									<a href='https://www.linkedin.com' target='_blank' className='social-icon'><i className="fab fa-linkedin"></i></a>
+									<a href='https://www.instagram.com' target='_blank' className='social-icon'><i className="fab fa-instagram"></i></a>
+									<a href='https://www.pinterest.com' target='_blank' className='social-icon'><i className="fab fa-pinterest"></i></a>
 									</li>
 								</ul>
 							</div>

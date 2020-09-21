@@ -22,6 +22,7 @@ const Navbarpages = () => {
     const hide = () => {
         setVis(false)
 	}
+	
 		return (
 			<div className='container'>
 				<div className='row'>
@@ -34,7 +35,7 @@ const Navbarpages = () => {
 								<li 
 									className="nav-item ml-5"
 									onMouseLeave={hideMenu}>
-									<Link
+									<Link to='#'
 										className='nav-link pages'
 										onMouseOver={displayMenu}
 										>Men</Link>
@@ -43,7 +44,7 @@ const Navbarpages = () => {
 								<li 
 									className="nav-item ml-5"
 									onMouseLeave={hide}>
-									<Link 
+									<Link to='#'
 										className='nav-link pages'
 										onMouseOver={display}
 										>Women</Link>
@@ -54,6 +55,7 @@ const Navbarpages = () => {
 									<Link to='/sale' className='nav-link pages'>Sale</Link>
 								</li>
 							</ul>
+
 							<Link to='/shoppingcart' className='ml-auto'>
 									<img src={cart} alt='cart' className='cart' />
 							</Link>

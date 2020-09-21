@@ -12,9 +12,8 @@ export default class ProductProvider extends Component {
         itemsTotal: 0,
         salesTax: 0,
         cartTotal: 0,
-
-
     };
+
     componentDidMount() {
         this.setProducts();
     }
@@ -69,6 +68,7 @@ export default class ProductProvider extends Component {
             return { modalOpen: false }
         })
     };
+
 
     increment = id => {
         let tempCart = [...this.state.cart];
