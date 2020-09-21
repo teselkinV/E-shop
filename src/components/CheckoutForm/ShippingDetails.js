@@ -37,6 +37,7 @@ export class ShippingDetails extends Component {
                                             className="form-control" 
                                             id="inputName1" 
                                             placeholder="First Name" 
+                                            required
                                             onChange={handleChange('firstName')}
                                             defaultValue={values.firstName}
                                         />

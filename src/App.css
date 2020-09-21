@@ -855,7 +855,8 @@ button.btn-default {
 }
 
 .sale-man-btn {
-  height: 70vh;
+  position: absolute;
+  top: 70vh;
   display: flex;
   align-items: flex-end;
   justify-content: center;
@@ -903,7 +904,6 @@ h2.details-price {
     height: auto;
   }
   
-
 }
 
 /* =================================================== */
