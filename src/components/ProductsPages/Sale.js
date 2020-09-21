@@ -13,14 +13,14 @@ class Sale extends React.Component {
 				<Drawer />
 					<div className="product-page sale-page">
 						<div className='row'>
-							<div className='col-10 col-md-6 text-center sale-man-btn'>
+							<div className='col-12 col-md-6 text-center sale-man-btn'>
 								<Link to="/men's-sale">
 									<button className='button modal-continue-btn'>Men's sale</button>
 								</Link>
 							</div>
 						
 						
-							<div className='col-10 col-md-6 text-center sale-man-btn'>
+							<div className='col-12 col-md-6 text-center sale-man-btn'>
 								<Link to="/women's-sale">
 									<button className='button modal-continue-btn'>Women's sale</button>
 								</Link>
