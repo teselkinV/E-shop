@@ -960,12 +960,6 @@ h2.details-price {
     min-width: 375px !important;
   }
 
-.container {
-  padding-left: 0;
-  padding-right: 0;
-}
-
-
   /* Details page */
 
   h2.details-price,
