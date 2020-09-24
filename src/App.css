@@ -561,6 +561,7 @@ button.modal-continue-btn {
   background-color: var(--mainYellow);
   color: rgb(48, 48, 48);
   font-weight: 700;
+  
 }
 
 button.modal-continue-btn:focus,
@@ -903,6 +904,10 @@ h2.details-price {
     max-width: 75% !important;
     height: auto;
   }
+
+  button.modal-continue-btn {
+    margin-top: 0 !important;
+  }
   
 }
 
@@ -998,8 +1003,14 @@ h2.details-price {
   .breadcrumb {
     display: none !important;
   }
+
+  .product-page {
+    margin-top: 0;
+  }
+  
+  button.modal-continue-btn {
+    margin-top: 1rem;
+  }
+
 } 
 
-.product-page {
-  margin-top: 0;
-}
