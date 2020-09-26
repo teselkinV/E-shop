@@ -3461,6 +3461,7 @@ export const menProducts = [
         category: 'jumpsuits',
         sale: 'regular',
         collection: 'none',
+        block: 'today-2',
     },
     {
         id: 120,
@@ -3524,7 +3525,7 @@ export const menProducts = [
         category: 'jumpsuits',
         sale: 'regular',
         collection: 'none',
-        block: 'today-2',
+        
     },
 
 
@@ -3961,7 +3962,7 @@ export const menProducts = [
         category: 'coats',
         sale: 'regular',
         collection: 'none',
-        block: 'today-3',
+        
     },
     {
         id: 143,
@@ -3983,6 +3984,7 @@ export const menProducts = [
         category: 'coats',
         sale: 'regular',
         collection: 'none',
+        block: 'today-3',
     },
     {
         id: 144,
@@ -4282,7 +4284,7 @@ export const menProducts = [
         category: 'cardigans',
         sale: 'regular',
         collection: 'none',
-        block: 'today-4',
+        
     },
     {
         id: 158,
@@ -4350,6 +4352,7 @@ export const menProducts = [
         category: 'hoodies',
         sale: 'regular',
         collection: 'none',
+        block: 'today-4',
     },
     {
         id: 161,
@@ -5600,6 +5603,7 @@ export const menProducts = [
         category: 'suites',
         sale: 'regular',
         collection: 'none',
+        block: 'today-1',
     },
     {
         id: 219,
@@ -5642,7 +5646,7 @@ export const menProducts = [
         category: 'suites',
         sale: 'regular',
         collection: 'none',
-        block: 'today-1',
+        
     },
     {
         id: 221,
