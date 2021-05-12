@@ -11,7 +11,7 @@ function CategoryTitle({ id, title }) {
           alt="icon"
           className="icon d-block d-sm-block d-md-block d-lg-none"
         ></img>
-        <p>{title}</p>
+        <li>{title}</li>
       </Link>
     </div>
   );
