@@ -29,6 +29,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 2,
@@ -52,6 +53,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "onSale",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 3,
@@ -75,6 +77,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 4,
@@ -98,6 +101,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 5,
@@ -121,6 +125,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 6,
@@ -144,6 +149,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "onSale",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 501,
@@ -167,6 +173,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 502,
@@ -190,6 +197,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
   {
     id: 503,
@@ -213,6 +221,7 @@ export const allProducts = [
     category: "tshirt",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-men",
   },
 
   // ================================================
@@ -241,6 +250,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 8,
@@ -264,6 +274,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 9,
@@ -288,6 +299,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-4",
+    type: "polo-men",
   },
   {
     id: 10,
@@ -311,6 +323,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 11,
@@ -334,6 +347,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 12,
@@ -357,6 +371,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 13,
@@ -380,6 +395,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 14,
@@ -403,6 +419,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
   {
     id: 15,
@@ -426,6 +443,7 @@ export const allProducts = [
     category: "polo",
     sale: "regular",
     collection: "none",
+    type: "polo-men",
   },
 
   // ================================================
@@ -3286,6 +3304,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-11",
+    type: "dresses",
   },
   {
     id: 107,
@@ -3308,6 +3327,7 @@ export const allProducts = [
     category: "dresses",
     sale: "regular",
     collection: "new",
+    type: "dresses",
   },
   {
     id: 108,
@@ -3331,6 +3351,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-12",
+    type: "dresses",
   },
   {
     id: 109,
@@ -3353,6 +3374,7 @@ export const allProducts = [
     category: "dresses",
     sale: "regular",
     collection: "none",
+    type: "dresses",
   },
   {
     id: 110,
@@ -3375,6 +3397,7 @@ export const allProducts = [
     category: "dresses",
     sale: "regular",
     collection: "none",
+    type: "dresses",
   },
   {
     id: 111,
@@ -3397,6 +3420,7 @@ export const allProducts = [
     category: "dresses",
     sale: "regular",
     collection: "none",
+    type: "dresses",
   },
   {
     id: 112,
@@ -3420,6 +3444,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-13",
+    type: "dresses",
   },
   {
     id: 113,
@@ -3442,6 +3467,7 @@ export const allProducts = [
     category: "dresses",
     sale: "regular",
     collection: "none",
+    type: "dresses",
   },
   {
     id: 114,
@@ -3465,6 +3491,7 @@ export const allProducts = [
     sale: "regular",
     collection: "new",
     block: "selected-14",
+    type: "dresses",
   },
 
   // ================================================
@@ -3491,6 +3518,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 116,
@@ -3513,9 +3541,10 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
-    id: 116,
+    id: 1160,
     title: "Shirred waist jumpsuit in meadow floral",
     img: "img/women/jumpsuits-women-3.jpeg",
     price: 36.95,
@@ -3535,6 +3564,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "onSale",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 117,
@@ -3557,6 +3587,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 118,
@@ -3579,6 +3610,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 119,
@@ -3602,6 +3634,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "today-2",
+    type: "jumpsuits",
   },
   {
     id: 120,
@@ -3624,6 +3657,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 121,
@@ -3646,6 +3680,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
   {
     id: 122,
@@ -3668,6 +3703,7 @@ export const allProducts = [
     category: "jumpsuits",
     sale: "regular",
     collection: "none",
+    type: "jumpsuits",
   },
 
   // ================================================
