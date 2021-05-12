@@ -45,6 +45,8 @@ import SuitesWomen from "./WomenProductPages/SuitesWomen";
 import ShoesWomen from "./WomenProductPages/ShoesWomen";
 import UnderwearWomen from "./WomenProductPages/UnderwearWomen";
 
+import CategoryDetails from "./MainProducts/CategoryDetails";
+
 function Routing() {
   return (
     <React.Fragment>
@@ -90,6 +92,8 @@ function Routing() {
         <Route path="/women's-suites" component={SuitesWomen} />
         <Route path="/women's-shoes" component={ShoesWomen} />
         <Route path="/women's-lingerie" component={UnderwearWomen} />
+
+        <Route path="/:id" component={CategoryDetails} />
 
         <Route path="/shoppingcart" component={ShoppingCart} />
         <Route path="/details" component={Details} />
