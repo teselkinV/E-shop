@@ -472,6 +472,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 17,
@@ -495,6 +496,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 18,
@@ -518,6 +520,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 19,
@@ -541,6 +544,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 20,
@@ -564,6 +568,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 21,
@@ -587,6 +592,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 22,
@@ -610,6 +616,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 23,
@@ -633,6 +640,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
   {
     id: 24,
@@ -656,6 +664,7 @@ export const allProducts = [
     category: "shirt",
     sale: "regular",
     collection: "none",
+    type: "shirts-men",
   },
 
   // ================================================
