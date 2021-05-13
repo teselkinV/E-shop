@@ -7,7 +7,7 @@ import CategoryMen from "../MainProducts/CategoryMen";
 const DropdownMan = ({ isVisible }) => {
   return (
     <React.Fragment>
-      <div className="absolute">
+      <div className={`${isVisible ? "block" : "hidden"} absolute`}>
         <div className="container-sm dropdown-container">
           <div className="row">
             <div className="col-3 mx-auto">
