@@ -693,6 +693,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 26,
@@ -716,6 +717,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "new",
+    type: "sweaters-men",
   },
   {
     id: 27,
@@ -739,6 +741,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 28,
@@ -762,6 +765,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 29,
@@ -785,6 +789,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 30,
@@ -808,6 +813,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 31,
@@ -831,6 +837,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
   {
     id: 32,
@@ -854,6 +861,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "new",
+    type: "sweaters-men",
   },
   {
     id: 33,
@@ -877,6 +885,7 @@ export const allProducts = [
     category: "sweater",
     sale: "regular",
     collection: "none",
+    type: "sweaters-men",
   },
 
   // ================================================
