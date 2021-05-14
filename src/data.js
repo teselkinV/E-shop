@@ -914,6 +914,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 35,
@@ -937,6 +938,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 36,
@@ -960,6 +962,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 37,
@@ -983,6 +986,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 38,
@@ -1006,6 +1010,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 39,
@@ -1029,6 +1034,7 @@ export const allProducts = [
     category: "overall",
     sale: "onSale",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 40,
@@ -1052,6 +1058,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 41,
@@ -1075,6 +1082,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
   {
     id: 42,
@@ -1098,6 +1106,7 @@ export const allProducts = [
     category: "overall",
     sale: "regular",
     collection: "none",
+    type: "overalls-men",
   },
 
   // ================================================

@@ -14,12 +14,7 @@ const DropdownMan = ({ isVisible }) => {
               <h3 className="submenu-title">TOPS</h3>
               <ul className="menu-column">
                 <CategoryMen />
-                <Link to="/men's-shirts">
-                  <li>Shirts</li>
-                </Link>
-                <Link to="/men's-sweaters">
-                  <li>Sweaters & Cardigans</li>
-                </Link>
+
                 <Link to="/men's-overalls">
                   <li>Overalls & Boiler Suits</li>
                 </Link>
