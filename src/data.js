@@ -1135,6 +1135,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 44,
@@ -1158,6 +1159,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 45,
@@ -1181,6 +1183,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 46,
@@ -1204,6 +1207,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 47,
@@ -1227,6 +1231,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "new",
+    type: "jackets-men",
   },
   {
     id: 48,
@@ -1250,6 +1255,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 49,
@@ -1273,6 +1279,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 50,
@@ -1296,6 +1303,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "none",
+    type: "jackets-men",
   },
   {
     id: 51,
@@ -1319,6 +1327,7 @@ export const allProducts = [
     category: "jacket",
     sale: "regular",
     collection: "new",
+    type: "jackets-men",
   },
 
   // ================================================
@@ -1347,6 +1356,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 53,
@@ -1370,6 +1380,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 54,
@@ -1393,6 +1404,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 55,
@@ -1416,6 +1428,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 56,
@@ -1439,6 +1452,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 57,
@@ -1462,6 +1476,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 58,
@@ -1486,6 +1501,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-1",
+    type: "hoodies-men",
   },
   {
     id: 59,
@@ -1509,6 +1525,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
   {
     id: 60,
@@ -1532,6 +1549,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-men",
   },
 
   // ================================================
@@ -1560,6 +1578,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 62,
@@ -1583,6 +1602,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 63,
@@ -1606,6 +1626,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 64,
@@ -1629,6 +1650,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 65,
@@ -1652,6 +1674,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 66,
@@ -1675,6 +1698,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 67,
@@ -1698,6 +1722,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 68,
@@ -1721,6 +1746,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
   {
     id: 69,
@@ -1744,6 +1770,7 @@ export const allProducts = [
     category: "activewear",
     sale: "regular",
     collection: "none",
+    type: "activewear-men",
   },
 
   // ================================================
