@@ -15,24 +15,6 @@ const DropdownWomen = ({ isVisible }) => {
               <h3 className="submenu-title">TOPS</h3>
               <ul className="menu-column">
                 <CategoryWomen />
-                <Link to="/women's-t-shirts">
-                  <li>T-shirts</li>
-                </Link>
-                <Link to="/women's-t-loungewear">
-                  <li>Loungewear</li>
-                </Link>
-                <Link to="/women's-t-coats">
-                  <li>Coats & Jackets</li>
-                </Link>
-                <Link to="/women's-t-cardigans">
-                  <li>Cardigans</li>
-                </Link>
-                <Link to="/women's-t-hoodies">
-                  <li>Hoodies & Sweatshirts</li>
-                </Link>
-                <Link to="/women's-t-swimwear">
-                  <li>Swimwear & Beachwear</li>
-                </Link>
               </ul>
             </div>
             <div className="col-3 mx-auto">

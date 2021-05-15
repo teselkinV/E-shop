@@ -3785,6 +3785,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 124,
@@ -3807,6 +3808,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "onSale",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 125,
@@ -3829,6 +3831,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 126,
@@ -3851,6 +3854,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "onSale",
     collection: "new",
+    type: "t-shirt-women",
   },
   {
     id: 127,
@@ -3873,6 +3877,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 128,
@@ -3895,6 +3900,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 129,
@@ -3917,6 +3923,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 130,
@@ -3939,6 +3946,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
   {
     id: 131,
@@ -3961,6 +3969,7 @@ export const allProducts = [
     category: "tshirts",
     sale: "regular",
     collection: "none",
+    type: "t-shirt-women",
   },
 
   // ================================================
@@ -3988,6 +3997,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 133,
@@ -4010,6 +4020,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 134,
@@ -4032,6 +4043,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 135,
@@ -4054,6 +4066,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 136,
@@ -4076,6 +4089,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 137,
@@ -4098,6 +4112,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 138,
@@ -4120,6 +4135,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "onSale",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 139,
@@ -4142,6 +4158,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
   {
     id: 140,
@@ -4164,6 +4181,7 @@ export const allProducts = [
     category: "loungewear",
     sale: "regular",
     collection: "none",
+    type: "loungewear-women",
   },
 
   // ================================================
@@ -4191,6 +4209,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 142,
@@ -4213,6 +4232,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 143,
@@ -4236,6 +4256,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "today-3",
+    type: "jackets-women",
   },
   {
     id: 144,
@@ -4258,6 +4279,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 145,
@@ -4280,6 +4302,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 146,
@@ -4302,6 +4325,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 147,
@@ -4324,6 +4348,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 148,
@@ -4346,6 +4371,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
   {
     id: 149,
@@ -4368,6 +4394,7 @@ export const allProducts = [
     category: "coats",
     sale: "regular",
     collection: "none",
+    type: "jackets-women",
   },
 
   // ================================================
@@ -4395,6 +4422,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 151,
@@ -4417,6 +4445,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 152,
@@ -4439,6 +4468,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 153,
@@ -4461,6 +4491,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 154,
@@ -4483,6 +4514,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 155,
@@ -4505,6 +4537,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "new",
+    type: "cardigans-women",
   },
   {
     id: 156,
@@ -4527,6 +4560,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 157,
@@ -4549,6 +4583,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "none",
+    type: "cardigans-women",
   },
   {
     id: 158,
@@ -4571,6 +4606,7 @@ export const allProducts = [
     category: "cardigans",
     sale: "regular",
     collection: "new",
+    type: "cardigans-women",
   },
   // ================================================
   // Hoodies Women
@@ -4597,6 +4633,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 160,
@@ -4620,6 +4657,7 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "today-4",
+    type: "hoodies-women",
   },
   {
     id: 161,
@@ -4642,6 +4680,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 162,
@@ -4664,6 +4703,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 163,
@@ -4686,6 +4726,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 164,
@@ -4708,6 +4749,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "new",
+    type: "hoodies-women",
   },
   {
     id: 165,
@@ -4730,6 +4772,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 166,
@@ -4752,6 +4795,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
   {
     id: 167,
@@ -4774,6 +4818,7 @@ export const allProducts = [
     category: "hoodies",
     sale: "regular",
     collection: "none",
+    type: "hoodies-women",
   },
 
   // ================================================
@@ -4801,6 +4846,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 169,
@@ -4823,6 +4869,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 170,
@@ -4845,6 +4892,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 171,
@@ -4867,6 +4915,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 172,
@@ -4889,6 +4938,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 173,
@@ -4911,6 +4961,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 174,
@@ -4933,6 +4984,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 175,
@@ -4955,6 +5007,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "regular",
     collection: "none",
+    type: "swimwear-women",
   },
   {
     id: 176,
@@ -4977,6 +5030,7 @@ export const allProducts = [
     category: "swimwear",
     sale: "onSale",
     collection: "none",
+    type: "swimwear-women",
   },
 
   // ================================================
