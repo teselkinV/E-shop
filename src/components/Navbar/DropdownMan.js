@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./Dropdown.css";
 
-import CategoryMen from "../MainProducts/CategoryMen";
 import CategoryTitle from "../MainProducts/CategoryTitle";
 
 const DropdownMan = ({ isVisible }) => {

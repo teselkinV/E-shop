@@ -1,11 +1,21 @@
-import React, { Component } from "react";
+import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./Dropdown.css";
 
-import CategroyWomen from "../MainProducts/CategoryWomen";
-import CategoryWomen from "../MainProducts/CategoryWomen";
+import CategoryTitle from "../MainProducts/CategoryTitle";
 
 const DropdownWomen = ({ isVisible }) => {
+  const [categories, setCategories] = useState([]);
+  const URL = "https://gastronomia-api.herokuapp.com/categoryShop";
+  useEffect(() => {
+    fetch(URL)
+      .then((res) => res.json())
+      .then((data) => {
+        setCategories(data);
+        console.log(data);
+      });
+  }, []);
+
   return (
     <React.Fragment>
       <div className={`${isVisible ? "block" : "hidden"} absolute`}>
@@ -14,7 +24,20 @@ const DropdownWomen = ({ isVisible }) => {
             <div className="col-3 mx-auto">
               <h3 className="submenu-title">TOPS</h3>
               <ul className="menu-column">
-                <CategoryWomen />
+                <li>
+                  {categories.map((category) => {
+                    if (category.sex === "female") {
+                      return (
+                        <CategoryTitle
+                          id={category.id}
+                          title={category.title}
+                          type={category.type}
+                          key={category.id}
+                        />
+                      );
+                    }
+                  })}
+                </li>
               </ul>
             </div>
             <div className="col-3 mx-auto">
