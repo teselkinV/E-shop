@@ -1799,6 +1799,7 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 71,
