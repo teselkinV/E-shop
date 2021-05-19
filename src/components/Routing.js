@@ -56,20 +56,6 @@ function Routing() {
         {/* Men's Pages */}
 
         <Route path="/men's-t-shirts" component={TshirtsMen} />
-        <Route path="/men's-polo" component={PoloMen} />
-        <Route path="/men's-shirts" component={ShirtsMen} />
-        <Route path="/men's-sweaters" component={SweatersMen} />
-        <Route path="/men's-overalls" component={OverallsMen} />
-        <Route path="/men's-jackets" component={JacketMen} />
-        <Route path="/men's-hoodies" component={HoodiesMen} />
-        <Route path="/men's-activewear" component={ActivewearMen} />
-        <Route path="/men's-jeans" component={JeansMen} />
-        <Route path="/men's-shorts" component={ShortsMen} />
-        <Route path="/men's-pants" component={PantsMen} />
-        <Route path="/men's-joggers" component={JoggersMen} />
-        <Route path="/men's-suites" component={SuitesMen} />
-        <Route path="/men's-shoes" component={ShoesMen} />
-        <Route path="/men's-underwear" component={UnderwearMen} />
         <Route path="/men's-sale" component={SaleMen} />
         <Route path="/men's-new-arrived" component={NewArrivedMen} />
 
