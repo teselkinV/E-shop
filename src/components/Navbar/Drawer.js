@@ -13,22 +13,6 @@ import googleplay from "../../images/google-play-badge.png";
 
 import tshirticon from "../../images/tshirts-men-icon.jpeg";
 
-import dressesicon from "../../images/dresses-women-icon.jpeg";
-import jumpsuitsicon from "../../images/jumpsuits-women-icon.jpeg";
-import tshirtsicon from "../../images/tshirts-women-icon.jpeg";
-import loungewearicon from "../../images/loungewear-women-icon.jpeg";
-import coatsicon from "../../images/coats-women-icon.jpeg";
-import jumpersicon from "../../images/jumpers-women-icon.jpeg";
-import hoodieswomenicon from "../../images/hoodies-women-icon.jpeg";
-import swimwearicon from "../../images/swimwear-women-icon.jpeg";
-import jeanswomenicon from "../../images/jeans-women-icon.jpeg";
-import skirtswomenicon from "../../images/skirts-women-icon.jpeg";
-import shortswomenicon from "../../images/shorts-women-icon.jpeg";
-import legginsicon from "../../images/pants-women-icon.jpeg";
-import suiteswomenicon from "../../images/suites-women-icon.jpeg";
-import shoeswomenicon from "../../images/shoes-women-icon.jpeg";
-import lingerieicon from "../../images/lingerie-women-icon.jpeg";
-
 function Drawer() {
   return (
     <Navbar>
@@ -375,15 +359,6 @@ function DropdownMenu() {
               {" "}
               Shop by product
             </h5>
-          </DropdownItem>
-
-          <DropdownItem>
-            <div className="category-title">
-              <img src={dressesicon} alt="icon" className="icon"></img>
-              <Link to="/women's-t-dresses" className="category-item">
-                Dresses
-              </Link>
-            </div>
           </DropdownItem>
           <DropdownItem>
             <div>
