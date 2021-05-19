@@ -36,6 +36,7 @@ const DropdownWomen = ({ isVisible }) => {
                           title={category.title}
                           type={category.type}
                           key={category.id}
+                          image={category.image}
                         />
                       );
                     }
