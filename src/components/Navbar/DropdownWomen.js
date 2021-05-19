@@ -26,7 +26,10 @@ const DropdownWomen = ({ isVisible }) => {
               <ul className="menu-column">
                 <li>
                   {categories.map((category) => {
-                    if (category.sex === "female") {
+                    if (
+                      category.sex === "female" &&
+                      category.section === "top"
+                    ) {
                       return (
                         <CategoryTitle
                           id={category.id}
@@ -43,29 +46,42 @@ const DropdownWomen = ({ isVisible }) => {
             <div className="col-3 mx-auto">
               <h3 className="submenu-title">BOTTOMS</h3>
               <ul className="menu-column">
-                <Link to="/women's-t-jeans">
-                  <li>Jeans</li>
-                </Link>
-                <Link to="/women's-t-skirts">
-                  <li>Skirts</li>
-                </Link>
-                <Link to="/women's-t-shorts">
-                  <li>Shorts</li>
-                </Link>
-                <Link to="/women's-t-paints">
-                  <li>Pants & Leggings</li>
-                </Link>
+                <li>
+                  {categories.map((category) => {
+                    if (
+                      category.sex === "female" &&
+                      category.section === "bottom"
+                    ) {
+                      return (
+                        <CategoryTitle
+                          id={category.id}
+                          title={category.title}
+                          type={category.type}
+                          key={category.id}
+                        />
+                      );
+                    }
+                  })}
+                </li>
                 <br />
 
-                <Link to="/women's-suites" className="accesories">
-                  <li>Suits & Tailoring</li>
-                </Link>
-                <Link to="/women's-shoes" className="accesories">
-                  <li>Shoes</li>
-                </Link>
-                <Link to="/women's-lingerie" className="accesories">
-                  <li>Lingerie</li>
-                </Link>
+                <li className="accesories">
+                  {categories.map((category) => {
+                    if (
+                      category.sex === "female" &&
+                      category.section === "other"
+                    ) {
+                      return (
+                        <CategoryTitle
+                          id={category.id}
+                          title={category.title}
+                          type={category.type}
+                          key={category.id}
+                        />
+                      );
+                    }
+                  })}
+                </li>
               </ul>
             </div>
             <div className="col-3 mx-auto">
