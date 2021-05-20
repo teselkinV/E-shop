@@ -5,7 +5,7 @@ import tshirticon from "../../images/tshirts-men-icon.jpeg";
 function CategoryTitle({ id, title, image }) {
   return (
     <div>
-      <Link to={`/${id}`}>
+      <Link to={`/products/${id}`}>
         <ul>
           <li className=" d-none d-sm-none d-md-none d-lg-block">{title}</li>
           <li className="category-title d-block d-sm-block d-md-block d-lg-none">

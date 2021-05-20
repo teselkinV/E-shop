@@ -3,7 +3,7 @@ import { Switch, Route } from "react-router-dom";
 // *******
 import MainPage from "./MainPage/MainPage";
 import ShoppingCart from "./ShoppingCart/ShoppingCart";
-import Details from "./Details/Details";
+import Details from "../components/Details/Details";
 import Default from "./Default/Default";
 import Sale from "./ProductsPages/Sale";
 import Modal from "./Modal/Modal";
@@ -36,7 +36,7 @@ function Routing() {
         <Route path="/women's-sale" component={SaleWomen} />
         <Route path="/women's-new-arrived" component={NewArrivedWomen} />
 
-        <Route path="/:id" component={CategoryDetails} />
+        <Route path="/products/:id" component={CategoryDetails} />
 
         <Route path="/shoppingcart" component={ShoppingCart} />
         <Route path="/details" component={Details} />
