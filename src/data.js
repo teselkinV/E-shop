@@ -10,7 +10,7 @@ export const allProducts = [
   {
     id: 1,
     title: "T-Shirt Summer Vibes",
-    img: "img/tshirt-man-1.jpeg",
+    img: "/img/tshirt-man-1.jpeg",
     price: 19.95,
     info:
       "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -34,7 +34,7 @@ export const allProducts = [
   {
     id: 2,
     title: "Loose Knit 3/4 Sleeve",
-    img: "img/tshirt-man-2.jpeg",
+    img: "/img/tshirt-man-2.jpeg",
     price: 29.95,
     info:
       "Loose Knit 3/4 Sleeve in the uiKit line with a colorful print. Made of jersey cotton. Loose fits perfectly with jeans, pants or shorts.",
@@ -58,7 +58,7 @@ export const allProducts = [
   {
     id: 3,
     title: "Basic Slim Fit T-Shirt",
-    img: "img/tshirt-man-3.jpeg",
+    img: "/img/tshirt-man-3.jpeg",
     price: 25.95,
     info:
       "Basic Slim Fit T-Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -82,7 +82,7 @@ export const allProducts = [
   {
     id: 4,
     title: "Oxford Dress Shirt",
-    img: "img/tshirt-man-4.jpeg",
+    img: "/img/tshirt-man-4.jpeg",
     price: 22.95,
     info:
       "Oxford Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -106,7 +106,7 @@ export const allProducts = [
   {
     id: 5,
     title: "Premium Dress Shirt",
-    img: "img/tshirt-man-5.jpeg",
+    img: "/img/tshirt-man-5.jpeg",
     price: 31.95,
     info:
       "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -130,7 +130,7 @@ export const allProducts = [
   {
     id: 6,
     title: "Patterned Dress Shirt",
-    img: "img/tshirt-man-6.jpeg",
+    img: "/img/tshirt-man-6.jpeg",
     price: 15.95,
     info:
       "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -154,7 +154,7 @@ export const allProducts = [
   {
     id: 501,
     title: "Premium Dress Shirt",
-    img: "img/tshirt-man-7.jpeg",
+    img: "/img/tshirt-man-7.jpeg",
     price: 21.95,
     info:
       "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -178,7 +178,7 @@ export const allProducts = [
   {
     id: 502,
     title: "Premium Dress Shirt",
-    img: "img/tshirt-man-8.jpeg",
+    img: "/img/tshirt-man-8.jpeg",
     price: 19.95,
     info:
       "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -202,7 +202,7 @@ export const allProducts = [
   {
     id: 503,
     title: "Premium Dress Shirt",
-    img: "img/tshirt-man-9.jpeg",
+    img: "/img/tshirt-man-9.jpeg",
     price: 15.95,
     info:
       "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -231,7 +231,7 @@ export const allProducts = [
   {
     id: 7,
     title: "Patterned Dress Polo",
-    img: "img/polo-man-1.jpeg",
+    img: "/img/polo-man-1.jpeg",
     price: 49.95,
     info:
       "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -255,7 +255,7 @@ export const allProducts = [
   {
     id: 8,
     title: "River Island waffle polo",
-    img: "img/polo-man-2.jpeg",
+    img: "/img/polo-man-2.jpeg",
     price: 69.95,
     info:
       "River Island waffle polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -279,7 +279,7 @@ export const allProducts = [
   {
     id: 9,
     title: "Muscle fit jersey polo",
-    img: "img/polo-man-3.jpeg",
+    img: "/img/polo-man-3.jpeg",
     price: 45.95,
     info:
       "Muscle fit jersey polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -304,7 +304,7 @@ export const allProducts = [
   {
     id: 10,
     title: "Long sleeve tipped polo",
-    img: "img/polo-man-4.jpeg",
+    img: "/img/polo-man-4.jpeg",
     price: 52.95,
     info:
       "Long sleeve tipped polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -328,7 +328,7 @@ export const allProducts = [
   {
     id: 11,
     title: "Tonal batwing logo pique polo",
-    img: "img/polo-man-5.jpeg",
+    img: "/img/polo-man-5.jpeg",
     price: 33.95,
     info:
       "Tonal batwing logo pique polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -352,7 +352,7 @@ export const allProducts = [
   {
     id: 12,
     title: "Selected Homme polo shirt",
-    img: "img/polo-man-6.jpeg",
+    img: "/img/polo-man-6.jpeg",
     price: 38.95,
     info:
       "Selected Homme polo shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -376,7 +376,7 @@ export const allProducts = [
   {
     id: 13,
     title: "Crooked Tongues rugby polo",
-    img: "img/polo-man-7.jpeg",
+    img: "/img/polo-man-7.jpeg",
     price: 55.95,
     info:
       "Crooked Tongues rugby polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -400,7 +400,7 @@ export const allProducts = [
   {
     id: 14,
     title: "Fred Perry bomber collar polo",
-    img: "img/polo-man-8.jpeg",
+    img: "/img/polo-man-8.jpeg",
     price: 45.95,
     info:
       "Fred Perry bomber collar polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -424,7 +424,7 @@ export const allProducts = [
   {
     id: 15,
     title: "Selected Homme knitted polo",
-    img: "img/polo-man-9.jpeg",
+    img: "/img/polo-man-9.jpeg",
     price: 75.95,
     info:
       "Selected Homme knitted polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -453,7 +453,7 @@ export const allProducts = [
   {
     id: 16,
     title: "Selected Homme knitted shirt",
-    img: "img/shirt-man-1.jpeg",
+    img: "/img/shirt-man-1.jpeg",
     price: 35.95,
     info:
       "Selected Homme knitted shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -477,7 +477,7 @@ export const allProducts = [
   {
     id: 17,
     title: "Relaxed revere windowpane shirt",
-    img: "img/shirt-man-2.jpeg",
+    img: "/img/shirt-man-2.jpeg",
     price: 38.95,
     info:
       "Relaxed revere windowpane shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -501,7 +501,7 @@ export const allProducts = [
   {
     id: 18,
     title: "Stretch skinny fit shirt",
-    img: "img/shirt-man-3.jpeg",
+    img: "/img/shirt-man-3.jpeg",
     price: 69.95,
     info:
       "Stretch skinny fit shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -525,7 +525,7 @@ export const allProducts = [
   {
     id: 19,
     title: "Revere slub cotton shirt",
-    img: "img/shirt-man-4.jpeg",
+    img: "/img/shirt-man-4.jpeg",
     price: 29.95,
     info:
       "Revere slub cotton shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -549,7 +549,7 @@ export const allProducts = [
   {
     id: 20,
     title: "Stretch slim fit work shirt",
-    img: "img/shirt-man-5.jpeg",
+    img: "/img/shirt-man-5.jpeg",
     price: 49.95,
     info:
       "Stretch slim fit work shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -573,7 +573,7 @@ export const allProducts = [
   {
     id: 21,
     title: "Selected Homme organic cotton grandad",
-    img: "img/shirt-man-6.jpeg",
+    img: "/img/shirt-man-6.jpeg",
     price: 42.95,
     info:
       "Selected Homme organic cotton grandad cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -597,7 +597,7 @@ export const allProducts = [
   {
     id: 22,
     title: "Skinny fit stripe shirt in navy",
-    img: "img/shirt-man-7.jpeg",
+    img: "/img/shirt-man-7.jpeg",
     price: 38.95,
     info:
       "Skinny fit stripe shirt in navy cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -621,7 +621,7 @@ export const allProducts = [
   {
     id: 23,
     title: "Weekday Marwin Nylon short sleeve",
-    img: "img/shirt-man-8.jpeg",
+    img: "/img/shirt-man-8.jpeg",
     price: 25.95,
     info:
       "Weekday Marwin Nylon short sleeve cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -645,7 +645,7 @@ export const allProducts = [
   {
     id: 24,
     title: "New Look long sleeve poplin shirt",
-    img: "img/shirt-man-9.jpeg",
+    img: "/img/shirt-man-9.jpeg",
     price: 42.95,
     info:
       "New Look long sleeve poplin shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -674,7 +674,7 @@ export const allProducts = [
   {
     id: 25,
     title: "Knitted wide rib turtle sweate",
-    img: "img/sweater-man-1.jpeg",
+    img: "/img/sweater-man-1.jpeg",
     price: 62.95,
     info:
       "Knitted wide rib turtle sweate cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -698,7 +698,7 @@ export const allProducts = [
   {
     id: 26,
     title: "Knitted wide-rib turtleneck sweater",
-    img: "img/sweater-man-2.jpeg",
+    img: "/img/sweater-man-2.jpeg",
     price: 69.95,
     info:
       "Knitted wide-rib turtleneck sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -722,7 +722,7 @@ export const allProducts = [
   {
     id: 27,
     title: "Selected Homme sweater in white",
-    img: "img/sweater-man-3.jpeg",
+    img: "/img/sweater-man-3.jpeg",
     price: 49.95,
     info:
       "Selected Homme sweater in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -746,7 +746,7 @@ export const allProducts = [
   {
     id: 28,
     title: "Jack & Jones Essentials sweater",
-    img: "img/sweater-man-4.jpeg",
+    img: "/img/sweater-man-4.jpeg",
     price: 65.95,
     info:
       "Jack & Jones Essentials sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -770,7 +770,7 @@ export const allProducts = [
   {
     id: 29,
     title: "Muscle fit ribbed sweater in black",
-    img: "img/sweater-man-5.jpeg",
+    img: "/img/sweater-man-5.jpeg",
     price: 35.95,
     info:
       "Muscle fit ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -794,7 +794,7 @@ export const allProducts = [
   {
     id: 30,
     title: "River Island ribbed sweater",
-    img: "img/sweater-man-6.jpeg",
+    img: "/img/sweater-man-6.jpeg",
     price: 45.95,
     info:
       "River Island ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -818,7 +818,7 @@ export const allProducts = [
   {
     id: 31,
     title: "New Look crew neck sweater",
-    img: "img/sweater-man-7.jpeg",
+    img: "/img/sweater-man-7.jpeg",
     price: 75.95,
     info:
       "New Look crew neck sweater in dark gray in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -842,7 +842,7 @@ export const allProducts = [
   {
     id: 32,
     title: "Knitted oversized textured yarn",
-    img: "img/sweater-man-8.jpeg",
+    img: "/img/sweater-man-8.jpeg",
     price: 39.95,
     info:
       "Knitted oversized textured yarn in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -866,7 +866,7 @@ export const allProducts = [
   {
     id: 33,
     title: "River Island long sleeve knitted",
-    img: "img/sweater-man-9.jpeg",
+    img: "/img/sweater-man-9.jpeg",
     price: 38.95,
     info:
       "River Island long sleeve knitted in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -895,7 +895,7 @@ export const allProducts = [
   {
     id: 34,
     title: "One Above Another denim jumpsuit",
-    img: "img/overall-man-1.jpeg",
+    img: "/img/overall-man-1.jpeg",
     price: 68.95,
     info:
       "One Above Another denim jumpsuit in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -919,7 +919,7 @@ export const allProducts = [
   {
     id: 35,
     title: "Denim short boilersuit in blue",
-    img: "img/overall-man-2.jpeg",
+    img: "/img/overall-man-2.jpeg",
     price: 79.95,
     info:
       "Denim short boilersuit in blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -943,7 +943,7 @@ export const allProducts = [
   {
     id: 36,
     title: "Denim overalls in dusky pink",
-    img: "img/overall-man-3.jpeg",
+    img: "/img/overall-man-3.jpeg",
     price: 49.95,
     info:
       "Denim overalls in dusky pink in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -967,7 +967,7 @@ export const allProducts = [
   {
     id: 37,
     title: "Boilersuit in blue with pocket",
-    img: "img/overall-man-4.jpeg",
+    img: "/img/overall-man-4.jpeg",
     price: 59.95,
     info:
       "Boilersuit in blue with pocket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -991,7 +991,7 @@ export const allProducts = [
   {
     id: 38,
     title: "Topman overalls in washed blue",
-    img: "img/overall-man-5.jpeg",
+    img: "/img/overall-man-5.jpeg",
     price: 54.95,
     info:
       "Topman overalls in washed blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1015,7 +1015,7 @@ export const allProducts = [
   {
     id: 39,
     title: "Tall short boilersuit with cut",
-    img: "img/overall-man-6.jpeg",
+    img: "/img/overall-man-6.jpeg",
     price: 34.95,
     info:
       "Tall short boilersuit with cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1039,7 +1039,7 @@ export const allProducts = [
   {
     id: 40,
     title: "Skinny overalls in black",
-    img: "img/overall-man-7.jpeg",
+    img: "/img/overall-man-7.jpeg",
     price: 64.95,
     info:
       "Skinny overalls in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1063,7 +1063,7 @@ export const allProducts = [
   {
     id: 41,
     title: "Baggy denim overall in stone",
-    img: "img/overall-man-8.jpeg",
+    img: "/img/overall-man-8.jpeg",
     price: 59.95,
     info:
       "Baggy denim overall in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1087,7 +1087,7 @@ export const allProducts = [
   {
     id: 42,
     title: "Denim overalls in indigo length",
-    img: "img/overall-man-9.jpeg",
+    img: "/img/overall-man-9.jpeg",
     price: 51.95,
     info:
       "Denim overalls in indigo length in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1116,7 +1116,7 @@ export const allProducts = [
   {
     id: 43,
     title: "Denim jacket with detachable fleece",
-    img: "img/jacket-man-1.jpeg",
+    img: "/img/jacket-man-1.jpeg",
     price: 79.95,
     info:
       "Denim jacket with detachable fleece in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1140,7 +1140,7 @@ export const allProducts = [
   {
     id: 44,
     title: "Pull&Bear denim jacket in brown",
-    img: "img/jacket-man-2.jpeg",
+    img: "/img/jacket-man-2.jpeg",
     price: 71.95,
     info:
       "Pull&Bear denim jacket in brown in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1164,7 +1164,7 @@ export const allProducts = [
   {
     id: 45,
     title: "Pull&Bear denim jacket in black",
-    img: "img/jacket-man-3.jpeg",
+    img: "/img/jacket-man-3.jpeg",
     price: 46.95,
     info:
       "Pull&Bear denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1188,7 +1188,7 @@ export const allProducts = [
   {
     id: 46,
     title: "Commuter coat with contrast binding",
-    img: "img/jacket-man-4.jpeg",
+    img: "/img/jacket-man-4.jpeg",
     price: 65.95,
     info:
       "Commuter coat with contrast binding in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1212,7 +1212,7 @@ export const allProducts = [
   {
     id: 47,
     title: "DESIGN skinny western denim jacket in black",
-    img: "img/jacket-man-5.jpeg",
+    img: "/img/jacket-man-5.jpeg",
     price: 56.95,
     info:
       "DESIGN skinny western denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1236,7 +1236,7 @@ export const allProducts = [
   {
     id: 48,
     title: "DESIGN skinny denim jacket in gray",
-    img: "img/jacket-man-6.jpeg",
+    img: "/img/jacket-man-6.jpeg",
     price: 41.95,
     info:
       "DESIGN skinny denim jacket in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1260,7 +1260,7 @@ export const allProducts = [
   {
     id: 49,
     title: "Pull&Bear denim jacket in mid blue",
-    img: "img/jacket-man-7.jpeg",
+    img: "/img/jacket-man-7.jpeg",
     price: 47.95,
     info:
       "Pull&Bear denim jacket in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1284,7 +1284,7 @@ export const allProducts = [
   {
     id: 50,
     title: "DESIGN denim jacket in white with rips",
-    img: "img/jacket-man-8.jpeg",
+    img: "/img/jacket-man-8.jpeg",
     price: 36.95,
     info:
       "DESIGN denim jacket in white with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1308,7 +1308,7 @@ export const allProducts = [
   {
     id: 51,
     title: "Bershka faux leather biker jacket",
-    img: "img/jacket-man-9.jpeg",
+    img: "/img/jacket-man-9.jpeg",
     price: 39.95,
     info:
       "Bershka faux leather biker jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1337,7 +1337,7 @@ export const allProducts = [
   {
     id: 52,
     title: "COLLUSION drop shoulder sweatshirt",
-    img: "img/hoodies-man-1.jpeg",
+    img: "/img/hoodies-man-1.jpeg",
     price: 29.95,
     info:
       "COLLUSION drop shoulder sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1361,7 +1361,7 @@ export const allProducts = [
   {
     id: 53,
     title: "Vintage inspired oversized hoodie",
-    img: "img/hoodies-man-2.jpeg",
+    img: "/img/hoodies-man-2.jpeg",
     price: 32.95,
     info:
       "Vintage inspired oversized hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1385,7 +1385,7 @@ export const allProducts = [
   {
     id: 54,
     title: "AllSaints Raven ramskull hoodie",
-    img: "img/hoodies-man-3.jpeg",
+    img: "/img/hoodies-man-3.jpeg",
     price: 41.95,
     info:
       "AllSaints Raven ramskull hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1409,7 +1409,7 @@ export const allProducts = [
   {
     id: 55,
     title: "Oversized sweatshirt with split",
-    img: "img/hoodies-man-4.jpeg",
+    img: "/img/hoodies-man-4.jpeg",
     price: 45.95,
     info:
       "Oversized sweatshirt with split in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1433,7 +1433,7 @@ export const allProducts = [
   {
     id: 56,
     title: "Sweatshirt with Los Angeles text print",
-    img: "img/hoodies-man-5.jpeg",
+    img: "/img/hoodies-man-5.jpeg",
     price: 29.95,
     info:
       "Sweatshirt with Los Angeles text print in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1457,7 +1457,7 @@ export const allProducts = [
   {
     id: 57,
     title: "Oversized hoodie with t-shirt hem in red",
-    img: "img/hoodies-man-6.jpeg",
+    img: "/img/hoodies-man-6.jpeg",
     price: 39.95,
     info:
       "Oversized hoodie with t-shirt hem in red in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1481,7 +1481,7 @@ export const allProducts = [
   {
     id: 58,
     title: "New Look hoodie in cream with taping",
-    img: "img/hoodies-man-7.jpeg",
+    img: "/img/hoodies-man-7.jpeg",
     price: 23.95,
     info:
       "New Look hoodie in cream with taping in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1506,7 +1506,7 @@ export const allProducts = [
   {
     id: 59,
     title: "Teddy borg hoodie in khaki with rib",
-    img: "img/hoodies-man-8.jpeg",
+    img: "/img/hoodies-man-8.jpeg",
     price: 31.95,
     info:
       "Teddy borg hoodie in khaki with rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1530,7 +1530,7 @@ export const allProducts = [
   {
     id: 60,
     title: "Iridescent patch crew neck sweatshirt",
-    img: "img/hoodies-man-9.jpeg",
+    img: "/img/hoodies-man-9.jpeg",
     price: 37.95,
     info:
       "Iridescent patch crew neck sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1559,7 +1559,7 @@ export const allProducts = [
   {
     id: 61,
     title: "Fast Running Fast shorts in gray",
-    img: "img/activewear-man-1.jpeg",
+    img: "/img/activewear-man-1.jpeg",
     price: 32.95,
     info:
       "Fast Running Fast shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1583,7 +1583,7 @@ export const allProducts = [
   {
     id: 62,
     title: "Nike Soccer academy sweatpants in navy",
-    img: "img/activewear-man-2.jpeg",
+    img: "/img/activewear-man-2.jpeg",
     price: 42.95,
     info:
       "Nike Soccer academy sweatpants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1607,7 +1607,7 @@ export const allProducts = [
   {
     id: 63,
     title: "4505 icon training stringer tank",
-    img: "img/activewear-man-3.jpeg",
+    img: "/img/activewear-man-3.jpeg",
     price: 26.95,
     info:
       "4505 icon training stringer tank in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1631,7 +1631,7 @@ export const allProducts = [
   {
     id: 64,
     title: "ASOS Yoga dry hoodie in gray",
-    img: "img/activewear-man-4.jpeg",
+    img: "/img/activewear-man-4.jpeg",
     price: 41.55,
     info:
       "ASOS Yoga dry hoodie in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1655,7 +1655,7 @@ export const allProducts = [
   {
     id: 65,
     title: "Soccer FC box logo T-shirt in gray",
-    img: "img/activewear-man-5.jpeg",
+    img: "/img/activewear-man-5.jpeg",
     price: 62.95,
     info:
       "Soccer FC box logo T-shirt in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1679,7 +1679,7 @@ export const allProducts = [
   {
     id: 66,
     title: "Under Armour woven graphic short",
-    img: "img/activewear-man-6.jpeg",
+    img: "/img/activewear-man-6.jpeg",
     price: 28.95,
     info:
       "Under Armour woven graphic short in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1703,7 +1703,7 @@ export const allProducts = [
   {
     id: 67,
     title: "Adidas Training 3 stripe hoodie",
-    img: "img/activewear-man-7.jpeg",
+    img: "/img/activewear-man-7.jpeg",
     price: 44.95,
     info:
       "Adidas Training 3 stripe hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1727,7 +1727,7 @@ export const allProducts = [
   {
     id: 68,
     title: "Nike Basketball zip thru flight jacket",
-    img: "img/activewear-man-8.jpeg",
+    img: "/img/activewear-man-8.jpeg",
     price: 57.95,
     info:
       "Nike Basketball zip thru flight jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1751,7 +1751,7 @@ export const allProducts = [
   {
     id: 69,
     title: "Nike Running Wild Element long sleeve",
-    img: "img/activewear-man-9.jpeg",
+    img: "/img/activewear-man-9.jpeg",
     price: 68.95,
     info:
       "Nike Running Wild Element long sleeve in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1780,7 +1780,7 @@ export const allProducts = [
   {
     id: 70,
     title: "Skinny jeans in vintage dark blue",
-    img: "img/jeans-man-1.jpeg",
+    img: "/img/jeans-man-1.jpeg",
     price: 33.95,
     info:
       "Skinny jeans in vintage dark blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
