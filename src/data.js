@@ -1804,7 +1804,7 @@ export const allProducts = [
   {
     id: 71,
     title: "'Cigarette' skinny jeans in mid blue",
-    img: "img/jeans-man-2.jpeg",
+    img: "/img/jeans-man-2.jpeg",
     price: 36.95,
     info:
       "'Cigarette' skinny jeans in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1823,11 +1823,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 72,
     title: "Spray on 'vintage look' jeans with power",
-    img: "img/jeans-man-3.jpeg",
+    img: "/img/jeans-man-3.jpeg",
     price: 43.95,
     info:
       "Spray on 'vintage look' jeans with power in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1846,11 +1847,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "new",
+    type: "jeans-men",
   },
   {
     id: 73,
     title: "Iridescent patch crew neck jeans",
-    img: "img/jeans-man-4.jpeg",
+    img: "/img/jeans-man-4.jpeg",
     price: 56.95,
     info:
       "Iridescent patch crew neck jeans in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1869,11 +1871,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 74,
     title: "Levi's skinny jeans in distressed",
-    img: "img/jeans-man-5.jpeg",
+    img: "/img/jeans-man-5.jpeg",
     price: 31.95,
     info:
       "Levi's skinny jeans in distressed in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1892,11 +1895,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 75,
     title: "Jack & Jones Intelligence Liam skinny",
-    img: "img/jeans-man-6.jpeg",
+    img: "/img/jeans-man-6.jpeg",
     price: 39.95,
     info:
       "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1915,11 +1919,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 76,
     title: "New Look slim jeans in gray",
-    img: "img/jeans-man-7.jpeg",
+    img: "/img/jeans-man-7.jpeg",
     price: 52.95,
     info:
       "New Look slim jeans in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1938,11 +1943,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 77,
     title: "Jack & Jones Intelligence Liam skinny",
-    img: "img/jeans-man-8.jpeg",
+    img: "/img/jeans-man-8.jpeg",
     price: 35.95,
     info:
       "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1961,11 +1967,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
   {
     id: 78,
     title: "Skinny fit jeans in brick wall advanced",
-    img: "img/jeans-man-9.jpeg",
+    img: "/img/jeans-man-9.jpeg",
     price: 31.95,
     info:
       "Skinny fit jeans in brick wall advanced in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -1984,6 +1991,7 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-men",
   },
 
   // ================================================
@@ -1993,7 +2001,7 @@ export const allProducts = [
   {
     id: 79,
     title: "ASOS DESIGN slim chino shorts in stone",
-    img: "img/shorts-man-1.jpeg",
+    img: "/img/shorts-man-1.jpeg",
     price: 26.95,
     info:
       "ASOS DESIGN slim chino shorts in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2012,11 +2020,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 80,
     title: "Converse Star Chevron archive shorts",
-    img: "img/shorts-man-2.jpeg",
+    img: "/img/shorts-man-2.jpeg",
     price: 22.95,
     info:
       "Converse Star Chevron archive shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2035,11 +2044,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 81,
     title: "Topman skinny denim shorts with rips",
-    img: "img/shorts-man-3.jpeg",
+    img: "/img/shorts-man-3.jpeg",
     price: 29.95,
     info:
       "Topman skinny denim shorts with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2058,11 +2068,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 82,
     title: "Under Armour woven graphic shorts",
-    img: "img/shorts-man-4.jpeg",
+    img: "/img/shorts-man-4.jpeg",
     price: 31.95,
     info:
       "Under Armour woven graphic shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2081,11 +2092,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 83,
     title: "New Look vertical stripe short in white",
-    img: "img/shorts-man-5.jpeg",
+    img: "/img/shorts-man-5.jpeg",
     price: 21.95,
     info:
       "New Look vertical stripe short in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2104,11 +2116,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 84,
     title: "ASOS DESIGN skinny chino shorts",
-    img: "img/shorts-man-6.jpeg",
+    img: "/img/shorts-man-6.jpeg",
     price: 25.95,
     info:
       "ASOS DESIGN skinny chino shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2127,11 +2140,12 @@ export const allProducts = [
     category: "shorts",
     sale: "onSale",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 85,
     title: "New Look skinny denim shorts in gray",
-    img: "img/shorts-man-7.jpeg",
+    img: "/img/shorts-man-7.jpeg",
     price: 19.95,
     info:
       "New Look skinny denim shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2150,11 +2164,12 @@ export const allProducts = [
     category: "shorts",
     sale: "onSale",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 86,
     title: "Topman shorts in gray stripe",
-    img: "img/shorts-man-8.jpeg",
+    img: "/img/shorts-man-8.jpeg",
     price: 13.95,
     info:
       "Topman shorts in gray stripe in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2173,11 +2188,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
   {
     id: 87,
     title: "Levi's lightweight walk shorts in muddy",
-    img: "img/shorts-man-9.jpeg",
+    img: "/img/shorts-man-9.jpeg",
     price: 29.95,
     info:
       "Levi's lightweight walk shorts in muddy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2196,6 +2212,7 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-men",
   },
 
   // ================================================
@@ -2205,7 +2222,7 @@ export const allProducts = [
   {
     id: 88,
     title: "Lockstock textured pants with elastic",
-    img: "img/pant-man-1.jpeg",
+    img: "/img/pant-man-1.jpeg",
     price: 39.95,
     info:
       "Lockstock textured pants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2224,11 +2241,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 89,
     title: "Topman skinny smart pants in toffee",
-    img: "img/pant-man-2.jpeg",
+    img: "/img/pant-man-2.jpeg",
     price: 32.95,
     info:
       "Topman skinny smart pants in toffee in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2247,11 +2265,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 90,
     title: "ASOS DESIGN super skinny pants",
-    img: "img/pant-man-3.jpeg",
+    img: "/img/pant-man-3.jpeg",
     price: 27.95,
     info:
       "ASOS DESIGN super skinny pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2270,11 +2289,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 91,
     title: "Bershka skinny checked pants in navy",
-    img: "img/pant-man-4.jpeg",
+    img: "/img/pant-man-4.jpeg",
     price: 35.95,
     info:
       "Bershka skinny checked pants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2293,11 +2313,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 92,
     title: "Selected Homme straight fit chino",
-    img: "img/pant-man-5.jpeg",
+    img: "/img/pant-man-5.jpeg",
     price: 44.95,
     info:
       "Selected Homme straight fit chino in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2316,11 +2337,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 93,
     title: "Only & Sons check pants in tapered",
-    img: "img/pant-man-6.jpeg",
+    img: "/img/pant-man-6.jpeg",
     price: 19.95,
     info:
       "Only & Sons check pants in tapered in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2339,11 +2361,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 94,
     title: "ASOS DESIGN super skinny smart pants",
-    img: "img/pant-man-7.jpeg",
+    img: "/img/pant-man-7.jpeg",
     price: 21.95,
     info:
       "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2362,11 +2385,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 95,
     title: "ASOS DESIGN super skinny smart pants",
-    img: "img/pant-man-8.jpeg",
+    img: "/img/pant-man-8.jpeg",
     price: 39.95,
     info:
       "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2385,11 +2409,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-men",
   },
   {
     id: 96,
     title: "Lockstock cargo pants in black texture",
-    img: "img/pant-man-9.jpeg",
+    img: "/img/pant-man-9.jpeg",
     price: 31.95,
     info:
       "Lockstock cargo pants in black texture in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2408,6 +2433,7 @@ export const allProducts = [
     category: "pants",
     sale: "onSale",
     collection: "none",
+    type: "pants-men",
   },
 
   // ================================================
@@ -2417,7 +2443,7 @@ export const allProducts = [
   {
     id: 97,
     title: "ASOS DESIGN oversized sweatpants",
-    img: "img/jogger-man-1.jpeg",
+    img: "/img/jogger-man-1.jpeg",
     price: 39.95,
     info:
       "ASOS DESIGN oversized sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2436,11 +2462,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 98,
     title: "Organic tracksuit with striped rib",
-    img: "img/jogger-man-2.jpeg",
+    img: "/img/jogger-man-2.jpeg",
     price: 44.95,
     info:
       "Organic tracksuit with striped rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2459,11 +2486,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 99,
     title: "Puma Rebel logo sweatpants in black",
-    img: "img/jogger-man-3.jpeg",
+    img: "/img/jogger-man-3.jpeg",
     price: 31.95,
     info:
       "Puma Rebel logo sweatpants in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2482,11 +2510,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 100,
     title: "Originals Sweatpants with Embroidery",
-    img: "img/jogger-man-4.jpeg",
+    img: "/img/jogger-man-4.jpeg",
     price: 28.95,
     info:
       "Originals Sweatpants with Embroidery in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2505,11 +2534,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 101,
     title: "Super skinny lightweight sweatpants",
-    img: "img/jogger-man-5.jpeg",
+    img: "/img/jogger-man-5.jpeg",
     price: 31.95,
     info:
       "Super skinny lightweight sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2528,11 +2558,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "new",
+    type: "joggers-men",
   },
   {
     id: 102,
     title: "Oversized tapered cargo sweatpants",
-    img: "img/jogger-man-6.jpeg",
+    img: "/img/jogger-man-6.jpeg",
     price: 35.95,
     info:
       "Oversized tapered cargo sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2552,11 +2583,12 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-3",
+    type: "joggers-men",
   },
   {
     id: 103,
     title: "Topman pants with elasticated waistband",
-    img: "img/jogger-man-7.jpeg",
+    img: "/img/jogger-man-7.jpeg",
     price: 25.95,
     info:
       "Topman pants with elasticated waistband in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2575,11 +2607,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 104,
     title: "Topman smart sweatpants with elastic",
-    img: "img/jogger-man-8.jpeg",
+    img: "/img/jogger-man-8.jpeg",
     price: 19.95,
     info:
       "Topman smart sweatpants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2598,11 +2631,12 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "none",
+    type: "joggers-men",
   },
   {
     id: 105,
     title: "Muscle tracksuit with rib in beige",
-    img: "img/jogger-man-9.jpeg",
+    img: "/img/jogger-man-9.jpeg",
     price: 39.95,
     info:
       "Muscle tracksuit with rib in beige in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
@@ -2621,6 +2655,7 @@ export const allProducts = [
     category: "joggers",
     sale: "regular",
     collection: "new",
+    type: "joggers-men",
   },
 
   // ================================================
@@ -2630,7 +2665,7 @@ export const allProducts = [
   {
     id: 601,
     title: "Super skinny suit in four way stretch",
-    img: "img/suites-men-1.jpeg",
+    img: "/img/suites-men-1.jpeg",
     price: 189.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2649,11 +2684,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "new",
+    type: "suites-men",
   },
   {
     id: 602,
     title: "Super skinny suit in four way stretch",
-    img: "img/suites-men-2.jpeg",
+    img: "/img/suites-men-2.jpeg",
     price: 129.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2672,11 +2708,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
   {
     id: 603,
     title: "Super skinny suit in forest green",
-    img: "img/suites-men-3.jpeg",
+    img: "/img/suites-men-3.jpeg",
     price: 112.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2696,11 +2733,12 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "selected-2",
+    type: "suites-men",
   },
   {
     id: 604,
     title: "Wedding super skinny suit in navy",
-    img: "img/suites-men-4.jpeg",
+    img: "/img/suites-men-4.jpeg",
     price: 89.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2719,11 +2757,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
   {
     id: 605,
     title: "Super skinny wool mix suit in camel",
-    img: "img/suites-men-5.jpeg",
+    img: "/img/suites-men-5.jpeg",
     price: 209.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2742,11 +2781,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
   {
     id: 606,
     title: "Wedding super skinny suit in ice gray",
-    img: "img/suites-men-6.jpeg",
+    img: "/img/suites-men-6.jpeg",
     price: 129.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2765,11 +2805,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "new",
+    type: "suites-men",
   },
   {
     id: 607,
     title: "Wedding super skinny suit in light blue",
-    img: "img/suites-men-7.jpeg",
+    img: "/img/suites-men-7.jpeg",
     price: 99.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2788,11 +2829,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
   {
     id: 608,
     title: "Super skinny tuxedo blazer",
-    img: "img/suites-men-8.jpeg",
+    img: "/img/suites-men-8.jpeg",
     price: 149.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2811,11 +2853,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
   {
     id: 609,
     title: "Wedding super skinny suit in rose cross",
-    img: "img/suites-men-9.jpeg",
+    img: "/img/suites-men-9.jpeg",
     price: 175.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -2834,6 +2877,7 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suites-men",
   },
 
   // ================================================
@@ -2843,7 +2887,7 @@ export const allProducts = [
   {
     id: 611,
     title: "Nike Training SuperRep Go trainers",
-    img: "img/shoes/shoes-men-1.jpeg",
+    img: "/img/shoes/shoes-men-1.jpeg",
     price: 82.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2862,11 +2906,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 612,
     title: "Nike Air Max 2090 sneakers",
-    img: "img/shoes/shoes-men-2.jpeg",
+    img: "/img/shoes/shoes-men-2.jpeg",
     price: 91.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2885,11 +2930,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 613,
     title: "Reebok Classic nylon sneakers in",
-    img: "img/shoes/shoes-men-3.jpeg",
+    img: "/img/shoes/shoes-men-3.jpeg",
     price: 48.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2908,11 +2954,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 614,
     title: "Nike Tailwind '79 sneakers in red",
-    img: "img/shoes/shoes-men-4.jpeg",
+    img: "/img/shoes/shoes-men-4.jpeg",
     price: 112.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2931,11 +2978,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 615,
     title: "adidas Originals nmd sneakers",
-    img: "img/shoes/shoes-men-5.jpeg",
+    img: "/img/shoes/shoes-men-5.jpeg",
     price: 180.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2954,11 +3002,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 616,
     title: "Puma Future Rider sneakers",
-    img: "img/shoes/shoes-men-6.jpeg",
+    img: "/img/shoes/shoes-men-6.jpeg",
     price: 72.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -2977,11 +3026,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 617,
     title: "Tassel loafers in black patent",
-    img: "img/shoes/shoes-men-7.jpeg",
+    img: "/img/shoes/shoes-men-7.jpeg",
     price: 37.95,
     info:
       "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
@@ -3000,11 +3050,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 618,
     title: "Loafers in tan faux leather with tassel",
-    img: "img/shoes/shoes-men-8.jpeg",
+    img: "/img/shoes/shoes-men-8.jpeg",
     price: 60.95,
     info:
       "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
@@ -3023,11 +3074,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 619,
     title: "Walk London west tassel loafers",
-    img: "img/shoes/shoes-men-9.jpeg",
+    img: "/img/shoes/shoes-men-9.jpeg",
     price: 80.95,
     info:
       "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
@@ -3046,11 +3098,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 620,
     title: "ASOS DESIGN chelsea boots in black",
-    img: "img/shoes/shoes-men-10.jpeg",
+    img: "/img/shoes/shoes-men-10.jpeg",
     price: 67.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -3069,11 +3122,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 621,
     title: "Desert chukka boots in brown suede",
-    img: "img/shoes/shoes-men-11.jpeg",
+    img: "/img/shoes/shoes-men-11.jpeg",
     price: 80.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -3092,11 +3146,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
   {
     id: 622,
     title: "ASOS DESIGN chelsea boots in gray",
-    img: "img/shoes/shoes-men-12.jpeg",
+    img: "/img/shoes/shoes-men-12.jpeg",
     price: 67.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -3115,6 +3170,7 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-men",
   },
 
   // ================================================
@@ -3124,7 +3180,7 @@ export const allProducts = [
   {
     id: 631,
     title: "Calvin Klein trunks 3 pack in cotton",
-    img: "img/underwear/underwear-man-1.jpeg",
+    img: "/img/underwear/underwear-man-1.jpeg",
     price: 25.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3133,7 +3189,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3143,11 +3198,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 632,
     title: "Boxers in black and charcoal marl",
-    img: "img/underwear/underwear-man-2.jpeg",
+    img: "/img/underwear/underwear-man-2.jpeg",
     price: 21.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3156,7 +3212,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3166,11 +3221,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 633,
     title: "Trunk in black green and gray organic",
-    img: "img/underwear/underwear-man-3.jpeg",
+    img: "/img/underwear/underwear-man-3.jpeg",
     price: 19.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3179,7 +3235,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3189,11 +3244,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 634,
     title: "ASOS DESIGN jersey boxers in black",
-    img: "img/underwear/underwear-man-4.jpeg",
+    img: "/img/underwear/underwear-man-4.jpeg",
     price: 9.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3202,7 +3258,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3212,11 +3267,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 635,
     title: "Calvin Klein 3 pack cotton classic",
-    img: "img/underwear/underwear-man-5.jpeg",
+    img: "/img/underwear/underwear-man-5.jpeg",
     price: 28.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3225,7 +3281,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3235,11 +3290,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 636,
     title: "River Island trunks with branded",
-    img: "img/underwear/underwear-man-6.jpeg",
+    img: "/img/underwear/underwear-man-6.jpeg",
     price: 16.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3248,7 +3304,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3258,11 +3313,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 637,
     title: "Jack & Jones 3 pack woven boxers",
-    img: "img/underwear/underwear-man-7.jpeg",
+    img: "/img/underwear/underwear-man-7.jpeg",
     price: 25.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3271,7 +3327,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3281,11 +3336,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 638,
     title: "ASOS DESIGN 2 pack woven boxers",
-    img: "img/underwear/underwear-man-8.jpeg",
+    img: "/img/underwear/underwear-man-8.jpeg",
     price: 21.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3294,7 +3350,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3304,11 +3359,12 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
   {
     id: 639,
     title: "CK One Micro low rise trunks in blue",
-    img: "img/underwear/underwear-man-9.jpeg",
+    img: "/img/underwear/underwear-man-9.jpeg",
     price: 11.95,
     info:
       "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
@@ -3317,7 +3373,6 @@ export const allProducts = [
       m: "M",
       l: "L",
       xl: "XL",
-      xxl: "XXL",
     },
     inCart: false,
     count: 0,
@@ -3327,6 +3382,7 @@ export const allProducts = [
     category: "underwear",
     sale: "regular",
     collection: "none",
+    type: "underwear-men",
   },
 
   // ==============================================================================================================================================================
