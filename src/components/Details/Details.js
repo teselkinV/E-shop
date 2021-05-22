@@ -116,7 +116,7 @@ function Details() {
                       <img
                         className="description-img"
                         src={description}
-                        alt="image"
+                        alt="product"
                       />
                       <h4 className="description-title">
                         Details and product description
@@ -127,12 +127,16 @@ function Details() {
 
                   <div className="col-10 col-md-6 col-lg-6 mx-auto text-center">
                     <div className="material-content">
-                      <img className="material-img" src={care} alt="image" />
+                      <img className="material-img" src={care} alt="product" />
                       <h4 className="material-title">Material(s) and care</h4>
                       <p className="material-text">
                         Body: 98% COTTON - 2% ELASTANE
                       </p>
-                      <img className="care-icons" src={careicons} alt="image" />
+                      <img
+                        className="care-icons"
+                        src={careicons}
+                        alt="product"
+                      />
                     </div>
                   </div>
                 </div>
