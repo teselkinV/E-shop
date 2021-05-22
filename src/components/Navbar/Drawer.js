@@ -131,6 +131,7 @@ function DropdownMenu() {
               <a
                 href="https://www.facebook.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="social-icon"
               >
                 <i class="fab fa-facebook-f"></i>
@@ -138,6 +139,7 @@ function DropdownMenu() {
               <a
                 href="https://www.twitter.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="social-icon"
               >
                 <i class="fab fa-twitter"></i>
@@ -145,6 +147,7 @@ function DropdownMenu() {
               <a
                 href="https://www.linkedin.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="social-icon"
               >
                 <i class="fab fa-linkedin"></i>
@@ -152,6 +155,7 @@ function DropdownMenu() {
               <a
                 href="https://www.instagram.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="social-icon"
               >
                 <i class="fab fa-instagram"></i>
@@ -159,6 +163,7 @@ function DropdownMenu() {
               <a
                 href="https://www.pinterest.com"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="social-icon"
               >
                 <i class="fab fa-pinterest"></i>
@@ -241,7 +246,11 @@ function DropdownMenu() {
 
           <DropdownItem>
             <div className="downloads-icon-mobile">
-              <a href="https://www.apple.com/ios/app-store/" target="_blank">
+              <a
+                href="https://www.apple.com/ios/app-store/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <img src={appstore} alt="icon" className="mx-1" />
               </a>
               <a href="https://play.google.com/store">

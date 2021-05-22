@@ -3396,7 +3396,7 @@ export const allProducts = [
   {
     id: 106,
     title: "Cotton poplin tiered maxi dress in floral",
-    img: "img/women/dresses-1.jpeg",
+    img: "/img/women/dresses-1.jpeg",
     price: 49.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3420,7 +3420,7 @@ export const allProducts = [
   {
     id: 107,
     title: "Tie back beach maxi dress with twist",
-    img: "img/women/dresses-2.jpeg",
+    img: "/img/women/dresses-2.jpeg",
     price: 79.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3443,7 +3443,7 @@ export const allProducts = [
   {
     id: 108,
     title: "Sophia plunge lace wedding dress",
-    img: "img/women/dresses-3.jpeg",
+    img: "/img/women/dresses-3.jpeg",
     price: 189.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3467,7 +3467,7 @@ export const allProducts = [
   {
     id: 109,
     title: "Fold front bardot midi pencil dress",
-    img: "img/women/dresses-4.jpeg",
+    img: "/img/women/dresses-4.jpeg",
     price: 68.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3490,7 +3490,7 @@ export const allProducts = [
   {
     id: 110,
     title: "Femme Luxe plunge front puff sleeve",
-    img: "img/women/dresses-5.jpeg",
+    img: "/img/women/dresses-5.jpeg",
     price: 89.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3513,7 +3513,7 @@ export const allProducts = [
   {
     id: 111,
     title: "Maxi dress with cut out back and oversized",
-    img: "img/women/dresses-6.jpeg",
+    img: "/img/women/dresses-6.jpeg",
     price: 65.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3536,7 +3536,7 @@ export const allProducts = [
   {
     id: 112,
     title: "Never Fully Dressed shirred peplum",
-    img: "img/women/dresses-7.jpeg",
+    img: "/img/women/dresses-7.jpeg",
     price: 47.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3560,7 +3560,7 @@ export const allProducts = [
   {
     id: 113,
     title: "Never Fully Dressed puff sleeve tie",
-    img: "img/women/dresses-8.jpeg",
+    img: "/img/women/dresses-8.jpeg",
     price: 36.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3583,7 +3583,7 @@ export const allProducts = [
   {
     id: 114,
     title: "JDY mini dress with tie waist in ditsy",
-    img: "img/women/dresses-9.jpeg",
+    img: "/img/women/dresses-9.jpeg",
     price: 56.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
