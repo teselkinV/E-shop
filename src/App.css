@@ -383,7 +383,6 @@ a.teselkin {
 
 .product-page-title {
   border-bottom: 1px solid #ebebeb;
-  margin-top: 0;
 }
 
 /* -------------------------------------------*/
@@ -419,6 +418,8 @@ select.size {
   padding: 0.6rem 4.8rem;
   color: var(--mainGrey);
   margin-bottom: 3rem;
+  cursor: pointer;
+  background-color: rgb(255, 255, 255);
 }
 
 select.size {
@@ -890,6 +891,10 @@ button.btn-default {
   button.modal-continue-btn {
     margin-top: 0 !important;
   }
+
+  /* .product-page-title {
+    margin-top: 0;
+  } */
 }
 
 /* =================================================== */
@@ -937,6 +942,10 @@ button.btn-default {
 
   .checkout-img {
     margin-top: 2.5rem !important;
+  }
+
+  .product-page-title {
+    margin-top: 0rem;
   }
 }
 
@@ -990,5 +999,9 @@ button.btn-default {
 
   button.modal-continue-btn {
     margin-top: 1rem;
+  }
+
+  .product-page-title {
+    margin-top: 0;
   }
 }
