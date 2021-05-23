@@ -5945,7 +5945,7 @@ export const allProducts = [
   {
     id: 213,
     title: "Double breasted slim dad 3 piece",
-    img: "img/women/suites-women-1.jpeg",
+    img: "/img/women/suites-women-1.jpeg",
     price: 112.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5963,11 +5963,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 214,
     title: "Mix & match tailored suit in blush",
-    img: "img/women/suites-women-2.jpeg",
+    img: "/img/women/suites-women-2.jpeg",
     price: 92.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5985,11 +5986,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 215,
     title: "ASOS DESIGN jersey suit in black",
-    img: "img/women/suites-women-3.jpeg",
+    img: "/img/women/suites-women-3.jpeg",
     price: 61.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6007,11 +6009,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 216,
     title: "Tailored a-line shorts with pleat front",
-    img: "img/women/suites-women-4.jpeg",
+    img: "/img/women/suites-women-4.jpeg",
     price: 37.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6029,11 +6032,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 217,
     title: "Jersey tie waist suit in black",
-    img: "img/women/suites-women-5.jpeg",
+    img: "/img/women/suites-women-5.jpeg",
     price: 58.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6051,11 +6055,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 218,
     title: "ASOS DESIGN jersey suit in blush",
-    img: "img/women/suites-women-6.jpeg",
+    img: "/img/women/suites-women-6.jpeg",
     price: 63.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6074,11 +6079,12 @@ export const allProducts = [
     sale: "regular",
     collection: "none",
     block: "today-1",
+    type: "suits-women",
   },
   {
     id: 219,
     title: "ASOS DESIGN soft satin suit in floral",
-    img: "img/women/suites-women-7.jpeg",
+    img: "/img/women/suites-women-7.jpeg",
     price: 92.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6096,11 +6102,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 220,
     title: "Wrap suit in jersey pink sequin",
-    img: "img/women/suites-women-8.jpeg",
+    img: "/img/women/suites-women-8.jpeg",
     price: 121.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6118,11 +6125,12 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
   {
     id: 221,
     title: "Jersey wrap suit in pale blue",
-    img: "img/women/suites-women-9.jpeg",
+    img: "/img/women/suites-women-9.jpeg",
     price: 62.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6140,6 +6148,7 @@ export const allProducts = [
     category: "suites",
     sale: "regular",
     collection: "none",
+    type: "suits-women",
   },
 
   // ================================================
