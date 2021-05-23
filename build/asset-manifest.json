@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.d037d616.chunk.css",
-    "main.js": "/static/js/main.300fd352.chunk.js",
-    "main.js.map": "/static/js/main.300fd352.chunk.js.map",
+    "main.css": "/static/css/main.c8df307e.chunk.css",
+    "main.js": "/static/js/main.cd94a387.chunk.js",
+    "main.js.map": "/static/js/main.cd94a387.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e9db74a9.js",
     "runtime-main.js.map": "/static/js/runtime-main.e9db74a9.js.map",
-    "static/css/2.49ca489e.chunk.css": "/static/css/2.49ca489e.chunk.css",
-    "static/js/2.688dd3d9.chunk.js": "/static/js/2.688dd3d9.chunk.js",
-    "static/js/2.688dd3d9.chunk.js.map": "/static/js/2.688dd3d9.chunk.js.map",
+    "static/css/2.8554d837.chunk.css": "/static/css/2.8554d837.chunk.css",
+    "static/js/2.1197c447.chunk.js": "/static/js/2.1197c447.chunk.js",
+    "static/js/2.1197c447.chunk.js.map": "/static/js/2.1197c447.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.499adccc687d2bfb2a161aeca9ee3e15.js": "/precache-manifest.499adccc687d2bfb2a161aeca9ee3e15.js",
+    "precache-manifest.56abeb3a8e856a53087c3cdb214a3d0a.js": "/precache-manifest.56abeb3a8e856a53087c3cdb214a3d0a.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.49ca489e.chunk.css.map": "/static/css/2.49ca489e.chunk.css.map",
-    "static/css/main.d037d616.chunk.css.map": "/static/css/main.d037d616.chunk.css.map",
-    "static/js/2.688dd3d9.chunk.js.LICENSE.txt": "/static/js/2.688dd3d9.chunk.js.LICENSE.txt",
-    "static/media/cardigans-men-icon.jpeg": "/static/media/cardigans-men-icon.47b3ae24.jpeg",
+    "static/css/2.8554d837.chunk.css.map": "/static/css/2.8554d837.chunk.css.map",
+    "static/css/main.c8df307e.chunk.css.map": "/static/css/main.c8df307e.chunk.css.map",
+    "static/js/2.1197c447.chunk.js.LICENSE.txt": "/static/js/2.1197c447.chunk.js.LICENSE.txt",
     "static/media/cart-pages.svg": "/static/media/cart-pages.a47c0b8a.svg",
     "static/media/cart.svg": "/static/media/cart.fbdbdd63.svg",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
@@ -22,15 +21,13 @@
     "static/media/logo-color.svg": "/static/media/logo-color.da81fa4b.svg",
     "static/media/logo.svg": "/static/media/logo.7574cc7e.svg",
     "static/media/Dropdown.css": "/static/media/sale-women-nav.ef91e4f3.jpeg",
-    "static/media/App.css": "/static/media/summer.1dc26c48.png",
-    "static/media/swimwear-women-icon.jpeg": "/static/media/swimwear-women-icon.9a33a2e5.jpeg",
-    "static/media/tshirts-women-icon.jpeg": "/static/media/tshirts-women-icon.56e5d37e.jpeg"
+    "static/media/App.css": "/static/media/summer.1dc26c48.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e9db74a9.js",
-    "static/css/2.49ca489e.chunk.css",
-    "static/js/2.688dd3d9.chunk.js",
-    "static/css/main.d037d616.chunk.css",
-    "static/js/main.300fd352.chunk.js"
+    "static/css/2.8554d837.chunk.css",
+    "static/js/2.1197c447.chunk.js",
+    "static/css/main.c8df307e.chunk.css",
+    "static/js/main.cd94a387.chunk.js"
   ]
 }

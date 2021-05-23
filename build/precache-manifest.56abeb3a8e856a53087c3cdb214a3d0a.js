@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7641be59eb11739fe518decf3c385877",
+    "revision": "afcd5ed92273bfea6dbc7bb57ac5ca9d",
     "url": "/index.html"
   },
   {
-    "revision": "97bd9e849f386c3c085d",
-    "url": "/static/css/2.49ca489e.chunk.css"
+    "revision": "59662d54d96d80164295",
+    "url": "/static/css/2.8554d837.chunk.css"
   },
   {
-    "revision": "5cef7fd8f0abaf78cf44",
-    "url": "/static/css/main.d037d616.chunk.css"
+    "revision": "8ac40a460be24b629816",
+    "url": "/static/css/main.c8df307e.chunk.css"
   },
   {
-    "revision": "97bd9e849f386c3c085d",
-    "url": "/static/js/2.688dd3d9.chunk.js"
+    "revision": "59662d54d96d80164295",
+    "url": "/static/js/2.1197c447.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/static/js/2.688dd3d9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.1197c447.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cef7fd8f0abaf78cf44",
-    "url": "/static/js/main.300fd352.chunk.js"
+    "revision": "8ac40a460be24b629816",
+    "url": "/static/js/main.cd94a387.chunk.js"
   },
   {
     "revision": "08cfe112bd9fdd5e2530",
     "url": "/static/js/runtime-main.e9db74a9.js"
-  },
-  {
-    "revision": "47b3ae24097bbfa5e206e63d20c3a857",
-    "url": "/static/media/cardigans-men-icon.47b3ae24.jpeg"
   },
   {
     "revision": "a47c0b8afa602d350b1e7392df6d47cd",
@@ -126,14 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1dc26c480b8daca0a6a5c9f8f23b9c7f",
     "url": "/static/media/summer.1dc26c48.png"
-  },
-  {
-    "revision": "9a33a2e56d838461e1eda05015ebddfa",
-    "url": "/static/media/swimwear-women-icon.9a33a2e5.jpeg"
-  },
-  {
-    "revision": "56e5d37e8af94632ebc2b834f19b2745",
-    "url": "/static/media/tshirts-women-icon.56e5d37e.jpeg"
   },
   {
     "revision": "4645972ae4a258e467bfa7f640b616c2",
