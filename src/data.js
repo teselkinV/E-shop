@@ -6158,7 +6158,7 @@ export const allProducts = [
   {
     id: 222,
     title: "Reebok Classic Club C Vintage Sneakers",
-    img: "img/women/shoes-women-1.jpeg",
+    img: "/img/women/shoes-women-1.jpeg",
     price: 72.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6177,11 +6177,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 223,
     title: "Nike white Ryz 365 trainers",
-    img: "img/women/shoes-women-2.jpeg",
+    img: "/img/women/shoes-women-2.jpeg",
     price: 82.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6200,11 +6201,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 224,
     title: "Originals SC Premiere sneaker",
-    img: "img/women/shoes-women-3.jpeg",
+    img: "/img/women/shoes-women-3.jpeg",
     price: 102.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6223,11 +6225,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 225,
     title: "Nike Vista Lite sneakers in white red",
-    img: "img/women/shoes-women-4.jpeg",
+    img: "/img/women/shoes-women-4.jpeg",
     price: 99.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6246,11 +6249,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 226,
     title: "Nike Air Max 270 React trainers",
-    img: "img/women/shoes-women-5.jpeg",
+    img: "/img/women/shoes-women-5.jpeg",
     price: 162.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6269,11 +6273,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 227,
     title: "Adidas Originals 3MC sneakers",
-    img: "img/women/shoes-women-6.jpeg",
+    img: "/img/women/shoes-women-6.jpeg",
     price: 62.95,
     info:
       "Canvas upper. It's versatile and dependable Lining: 100% Textile, Sole: 100% Other materials, Upper: 50% Other materials, 50% Textile. Wipe clean with a damp cloth or sponge",
@@ -6292,11 +6297,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 228,
     title: "Monki Julie ginham double strap low",
-    img: "img/women/shoes-women-7.jpeg",
+    img: "/img/women/shoes-women-7.jpeg",
     price: 62.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6315,11 +6321,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 229,
     title: "Perfection cut out stiletto in rose gold",
-    img: "img/women/shoes-women-8.jpeg",
+    img: "/img/women/shoes-women-8.jpeg",
     price: 46.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6338,11 +6345,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 230,
     title: "Public Desire Classy tie up heeled",
-    img: "img/women/shoes-women-9.jpeg",
+    img: "/img/women/shoes-women-9.jpeg",
     price: 42.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6361,11 +6369,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 231,
     title: "Dr Martens Jadon Flatform Chunky",
-    img: "img/women/shoes-women-10.jpeg",
+    img: "/img/women/shoes-women-10.jpeg",
     price: 162.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6384,11 +6393,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 232,
     title: "AllSaints Katy lace up heeled leathere",
-    img: "img/women/shoes-women-11.jpeg",
+    img: "/img/women/shoes-women-11.jpeg",
     price: 362.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6407,11 +6417,12 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 233,
     title: "RAID Kola white ankle boots",
-    img: "img/women/shoes-women-12.jpeg",
+    img: "/img/women/shoes-women-12.jpeg",
     price: 42.95,
     info:
       "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
@@ -6430,6 +6441,7 @@ export const allProducts = [
     category: "shoes",
     sale: "regular",
     collection: "none",
+    type: "shoes-women",
   },
   {
     id: 234,
