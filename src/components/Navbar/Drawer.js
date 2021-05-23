@@ -303,14 +303,14 @@ function DropdownMenu() {
           {/* Men's categories */}
           {/* -------- */}
 
-          <DropdownItem>
+          {/* <DropdownItem>
             <div className="category-title">
               <img src={tshirticon} alt="icon" className="icon"></img>
               <Link to="/men's-t-shirts" className="category-item">
                 T-shirts
               </Link>
             </div>
-          </DropdownItem>
+          </DropdownItem> */}
           <DropdownItem>
             <div>
               {categories.map((category) => {
