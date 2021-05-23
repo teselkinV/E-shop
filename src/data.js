@@ -6520,7 +6520,7 @@ export const allProducts = [
   {
     id: 237,
     title: "Ella lace padded longline triangle",
-    img: "img/women/lingerie-women-1.jpeg",
+    img: "/img/women/lingerie-women-1.jpeg",
     price: 41.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6539,11 +6539,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 238,
     title: "New Look essentials strapless",
-    img: "img/women/lingerie-women-2.jpeg",
+    img: "/img/women/lingerie-women-2.jpeg",
     price: 65.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6562,11 +6563,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 239,
     title: "Pour Moi Eden lace trim lingerie",
-    img: "img/women/lingerie-women-3.jpeg",
+    img: "/img/women/lingerie-women-3.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6585,11 +6587,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 240,
     title: "Keena mesh lace up brazilian brief",
-    img: "img/women/lingerie-women-4.jpeg",
+    img: "/img/women/lingerie-women-4.jpeg",
     price: 17.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6608,11 +6611,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 241,
     title: "Arabella Lace High Leg Bodysuit",
-    img: "img/women/lingerie-women-5.jpeg",
+    img: "/img/women/lingerie-women-5.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6631,11 +6635,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 242,
     title: "Bluebella Tove mesh high waisted",
-    img: "img/women/lingerie-women-6.jpeg",
+    img: "/img/women/lingerie-women-6.jpeg",
     price: 34.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6654,11 +6659,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 243,
     title: "ASOS DESIGN Scarlet padded strappy",
-    img: "img/women/lingerie-women-7.jpeg",
+    img: "/img/women/lingerie-women-7.jpeg",
     price: 58.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6677,11 +6683,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 244,
     title: "Arabella lace thong in beige",
-    img: "img/women/lingerie-women-8.jpeg",
+    img: "/img/women/lingerie-women-8.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6700,11 +6707,12 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
   {
     id: 245,
     title: "Ivory Rose Underwired Lace Mesh Fuller",
-    img: "img/women/lingerie-women-9.jpeg",
+    img: "/img/women/lingerie-women-9.jpeg",
     price: 36.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -6723,6 +6731,7 @@ export const allProducts = [
     category: "lingerie",
     sale: "regular",
     collection: "none",
+    type: "lingerie-women",
   },
 
   // =================================================================================================================================================================
