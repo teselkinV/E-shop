@@ -3611,7 +3611,7 @@ export const allProducts = [
   {
     id: 115,
     title: "ASOS DESIGN tie waist jumpsuit in stone",
-    img: "img/women/jumpsuits-women-1.jpeg",
+    img: "/img/women/jumpsuits-women-1.jpeg",
     price: 56.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3634,7 +3634,7 @@ export const allProducts = [
   {
     id: 116,
     title: "Missguided jumpsuit with tie waist",
-    img: "img/women/jumpsuits-women-2.jpeg",
+    img: "/img/women/jumpsuits-women-2.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3657,7 +3657,7 @@ export const allProducts = [
   {
     id: 1160,
     title: "Shirred waist jumpsuit in meadow floral",
-    img: "img/women/jumpsuits-women-3.jpeg",
+    img: "/img/women/jumpsuits-women-3.jpeg",
     price: 36.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3680,7 +3680,7 @@ export const allProducts = [
   {
     id: 117,
     title: "Other Stories ribbed jumpsuit in black",
-    img: "img/women/jumpsuits-women-4.jpeg",
+    img: "/img/women/jumpsuits-women-4.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3703,7 +3703,7 @@ export const allProducts = [
   {
     id: 118,
     title: "Esmee Exclusive beach jumpsuit in white",
-    img: "img/women/jumpsuits-women-5.jpeg",
+    img: "/img/women/jumpsuits-women-5.jpeg",
     price: 52.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3726,7 +3726,7 @@ export const allProducts = [
   {
     id: 119,
     title: "ASOS DESIGN button back tea jumpsuit",
-    img: "img/women/jumpsuits-women-6.jpeg",
+    img: "/img/women/jumpsuits-women-6.jpeg",
     price: 45.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3750,7 +3750,7 @@ export const allProducts = [
   {
     id: 120,
     title: "Missguided belted denim boilersuit",
-    img: "img/women/jumpsuits-women-7.jpeg",
+    img: "/img/women/jumpsuits-women-7.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3773,7 +3773,7 @@ export const allProducts = [
   {
     id: 121,
     title: "vintage collar tea jumpsuit in ditsy",
-    img: "img/women/jumpsuits-women-8.jpeg",
+    img: "/img/women/jumpsuits-women-8.jpeg",
     price: 26.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3796,7 +3796,7 @@ export const allProducts = [
   {
     id: 122,
     title: "Topshop tea romper with frill detail",
-    img: "img/women/jumpsuits-women-9.jpeg",
+    img: "/img/women/jumpsuits-women-9.jpeg",
     price: 47.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3824,7 +3824,7 @@ export const allProducts = [
   {
     id: 123,
     title: "ASOS DESIGN t-shirt with low key",
-    img: "img/women/tshirt-women-1.jpeg",
+    img: "/img/women/tshirt-women-1.jpeg",
     price: 22.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3847,7 +3847,7 @@ export const allProducts = [
   {
     id: 124,
     title: "Ultimate organic cotton t-shirt",
-    img: "img/women/tshirt-women-2.jpeg",
+    img: "/img/women/tshirt-women-2.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3870,7 +3870,7 @@ export const allProducts = [
   {
     id: 125,
     title: "Levi's Riley t-shirt in white",
-    img: "img/women/tshirt-women-3.jpeg",
+    img: "/img/women/tshirt-women-3.jpeg",
     price: 24.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3893,7 +3893,7 @@ export const allProducts = [
   {
     id: 126,
     title: "Fila oversized boyfriend t-shirt",
-    img: "img/women/tshirt-women-4.jpeg",
+    img: "/img/women/tshirt-women-4.jpeg",
     price: 16.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3916,7 +3916,7 @@ export const allProducts = [
   {
     id: 127,
     title: "Topshop tea t-shirt with frill detail",
-    img: "img/women/tshirt-women-5.jpeg",
+    img: "/img/women/tshirt-women-5.jpeg",
     price: 20.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3939,7 +3939,7 @@ export const allProducts = [
   {
     id: 128,
     title: "Bershka volume shoulder t-shirt",
-    img: "img/women/tshirt-women-6.jpeg",
+    img: "/img/women/tshirt-women-6.jpeg",
     price: 17.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3962,7 +3962,7 @@ export const allProducts = [
   {
     id: 129,
     title: "Levi's baby rib long sleeve t-shirt",
-    img: "img/women/tshirt-women-7.jpeg",
+    img: "/img/women/tshirt-women-7.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -3985,7 +3985,7 @@ export const allProducts = [
   {
     id: 130,
     title: "Daisy Street relaxed t-shirt ",
-    img: "img/women/tshirt-women-8.jpeg",
+    img: "/img/women/tshirt-women-8.jpeg",
     price: 21.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4008,7 +4008,7 @@ export const allProducts = [
   {
     id: 131,
     title: "The North Face Heavyweight Box t-shirt",
-    img: "img/women/tshirt-women-9.jpeg",
+    img: "/img/women/tshirt-women-9.jpeg",
     price: 22.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4036,7 +4036,7 @@ export const allProducts = [
   {
     id: 132,
     title: "Drawstring jersey slub romper",
-    img: "img/women/loungewear-women-1.jpeg",
+    img: "/img/women/loungewear-women-1.jpeg",
     price: 32.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4059,7 +4059,7 @@ export const allProducts = [
   {
     id: 133,
     title: "Mix & match lounge rib tee in blue",
-    img: "img/women/loungewear-women-2.jpeg",
+    img: "/img/women/loungewear-women-2.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4082,7 +4082,7 @@ export const allProducts = [
   {
     id: 134,
     title: "Missguided cropped romper",
-    img: "img/women/loungewear-women-3.jpeg",
+    img: "/img/women/loungewear-women-3.jpeg",
     price: 41.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4105,7 +4105,7 @@ export const allProducts = [
   {
     id: 135,
     title: "Loungeable mix & match soft knit rib",
-    img: "img/women/loungewear-women-4.jpeg",
+    img: "/img/women/loungewear-women-4.jpeg",
     price: 31.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4128,7 +4128,7 @@ export const allProducts = [
   {
     id: 136,
     title: "Tracksuit hoodie / slim jogger",
-    img: "img/women/loungewear-women-5.jpeg",
+    img: "/img/women/loungewear-women-5.jpeg",
     price: 52.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4151,7 +4151,7 @@ export const allProducts = [
   {
     id: 137,
     title: "Mix & match lounge rib hooded",
-    img: "img/women/loungewear-women-6.jpeg",
+    img: "/img/women/loungewear-women-6.jpeg",
     price: 35.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4174,7 +4174,7 @@ export const allProducts = [
   {
     id: 138,
     title: "Curve exclusive lounge two-piece",
-    img: "img/women/loungewear-women-7.jpeg",
+    img: "/img/women/loungewear-women-7.jpeg",
     price: 30.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4197,7 +4197,7 @@ export const allProducts = [
   {
     id: 139,
     title: "Mix & match lounge towelling",
-    img: "img/women/loungewear-women-8.jpeg",
+    img: "/img/women/loungewear-women-8.jpeg",
     price: 33.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4220,7 +4220,7 @@ export const allProducts = [
   {
     id: 140,
     title: "Style x Billie Faiers loungewear",
-    img: "img/women/loungewear-women-9.jpeg",
+    img: "/img/women/loungewear-women-9.jpeg",
     price: 24.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4248,7 +4248,7 @@ export const allProducts = [
   {
     id: 141,
     title: "Vero Moda double breasted trench",
-    img: "img/women/coats-women-1.jpeg",
+    img: "/img/women/coats-women-1.jpeg",
     price: 65.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4271,7 +4271,7 @@ export const allProducts = [
   {
     id: 142,
     title: "Belted luxe maxi coat in camel",
-    img: "img/women/coats-women-2.jpeg",
+    img: "/img/women/coats-women-2.jpeg",
     price: 75.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4294,7 +4294,7 @@ export const allProducts = [
   {
     id: 143,
     title: "Pull&Bear faux leather biker jacket",
-    img: "img/women/coats-women-3.jpeg",
+    img: "/img/women/coats-women-3.jpeg",
     price: 49.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4318,7 +4318,7 @@ export const allProducts = [
   {
     id: 144,
     title: "Fashion Union trench coat",
-    img: "img/women/coats-women-4.jpeg",
+    img: "/img/women/coats-women-4.jpeg",
     price: 55.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4341,7 +4341,7 @@ export const allProducts = [
   {
     id: 145,
     title: "Stand faux fur collar coat in white",
-    img: "img/women/coats-women-5.jpeg",
+    img: "/img/women/coats-women-5.jpeg",
     price: 52.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4364,7 +4364,7 @@ export const allProducts = [
   {
     id: 146,
     title: "Longline trench coat in khaki",
-    img: "img/women/coats-women-6.jpeg",
+    img: "/img/women/coats-women-6.jpeg",
     price: 65.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4387,7 +4387,7 @@ export const allProducts = [
   {
     id: 147,
     title: "Brushed luxe maxi coat in camel",
-    img: "img/women/coats-women-7.jpeg",
+    img: "/img/women/coats-women-7.jpeg",
     price: 45.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4410,7 +4410,7 @@ export const allProducts = [
   {
     id: 148,
     title: "Ultimate faux leather biker jacket",
-    img: "img/women/coats-women-8.jpeg",
+    img: "/img/women/coats-women-8.jpeg",
     price: 58.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4433,7 +4433,7 @@ export const allProducts = [
   {
     id: 149,
     title: "Longline trench coat in stone",
-    img: "img/women/coats-women-9.jpeg",
+    img: "/img/women/coats-women-9.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4461,7 +4461,7 @@ export const allProducts = [
   {
     id: 150,
     title: "Fashion Union fitted cardigan",
-    img: "img/women/cardigans-women-1.jpeg",
+    img: "/img/women/cardigans-women-1.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4484,7 +4484,7 @@ export const allProducts = [
   {
     id: 151,
     title: "Vero Moda sweater with high neck",
-    img: "img/women/cardigans-women-2.jpeg",
+    img: "/img/women/cardigans-women-2.jpeg",
     price: 35.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4507,7 +4507,7 @@ export const allProducts = [
   {
     id: 152,
     title: "Edge to edge boxy cardigan",
-    img: "img/women/cardigans-women-3.jpeg",
+    img: "/img/women/cardigans-women-3.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4530,7 +4530,7 @@ export const allProducts = [
   {
     id: 153,
     title: "New Look crew neck sweater in camel",
-    img: "img/women/cardigans-women-4.jpeg",
+    img: "/img/women/cardigans-women-4.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4553,7 +4553,7 @@ export const allProducts = [
   {
     id: 154,
     title: "Free People Rickie Top in Army Green",
-    img: "img/women/cardigans-women-5.jpeg",
+    img: "/img/women/cardigans-women-5.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4576,7 +4576,7 @@ export const allProducts = [
   {
     id: 155,
     title: "Fashion Union wrap front ballet",
-    img: "img/women/cardigans-women-6.jpeg",
+    img: "/img/women/cardigans-women-6.jpeg",
     price: 46.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4599,7 +4599,7 @@ export const allProducts = [
   {
     id: 156,
     title: "Maxi edge to edge cardigan",
-    img: "img/women/cardigans-women-7.jpeg",
+    img: "/img/women/cardigans-women-7.jpeg",
     price: 31.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4622,7 +4622,7 @@ export const allProducts = [
   {
     id: 157,
     title: "Oversize cardigan in mint green",
-    img: "img/women/cardigans-women-8.jpeg",
+    img: "/img/women/cardigans-women-8.jpeg",
     price: 33.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4645,7 +4645,7 @@ export const allProducts = [
   {
     id: 158,
     title: "Titch detail edge to edge cardi",
-    img: "img/women/cardigans-women-9.jpeg",
+    img: "/img/women/cardigans-women-9.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4672,7 +4672,7 @@ export const allProducts = [
   {
     id: 159,
     title: "Pull&Bear sweatshirt in mint",
-    img: "img/women/hoodies-women-1.jpeg",
+    img: "/img/women/hoodies-women-1.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4695,7 +4695,7 @@ export const allProducts = [
   {
     id: 160,
     title: "New Look sweatshirt in light blue",
-    img: "img/women/hoodies-women-2.jpeg",
+    img: "/img/women/hoodies-women-2.jpeg",
     price: 28.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4719,7 +4719,7 @@ export const allProducts = [
   {
     id: 161,
     title: "Topshop New York sweatshirt in green",
-    img: "img/women/hoodies-women-3.jpeg",
+    img: "/img/women/hoodies-women-3.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4742,7 +4742,7 @@ export const allProducts = [
   {
     id: 162,
     title: "Levi's crew neck long sleeve tee",
-    img: "img/women/hoodies-women-4.jpeg",
+    img: "/img/women/hoodies-women-4.jpeg",
     price: 26.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4765,7 +4765,7 @@ export const allProducts = [
   {
     id: 163,
     title: "Pull&Bear varsity sweatshirt in orange",
-    img: "img/women/hoodies-women-5.jpeg",
+    img: "/img/women/hoodies-women-5.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4788,7 +4788,7 @@ export const allProducts = [
   {
     id: 164,
     title: "New Girl Order oversized lazy beach",
-    img: "img/women/hoodies-women-6.jpeg",
+    img: "/img/women/hoodies-women-6.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4811,7 +4811,7 @@ export const allProducts = [
   {
     id: 165,
     title: "Organic cotton super oversized",
-    img: "img/women/hoodies-women-7.jpeg",
+    img: "/img/women/hoodies-women-7.jpeg",
     price: 21.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4834,8 +4834,8 @@ export const allProducts = [
   {
     id: 166,
     title: "Oversized sweatshirt with cards",
-    img: "img/women/hoodies-women-8.jpeg",
-    price: 19.95,
+    img: "/img/women/hoodies-women-8.jpeg",
+    price: 49.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
@@ -4857,7 +4857,7 @@ export const allProducts = [
   {
     id: 167,
     title: "Washed sweatshirt in cornflower blue",
-    img: "img/women/hoodies-women-9.jpeg",
+    img: "/img/women/hoodies-women-9.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4885,7 +4885,7 @@ export const allProducts = [
   {
     id: 168,
     title: "Glam tie front cut out sleeved",
-    img: "img/women/swimwear-women-1.jpeg",
+    img: "/img/women/swimwear-women-1.jpeg",
     price: 45.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4908,7 +4908,7 @@ export const allProducts = [
   {
     id: 169,
     title: "South Beach Recycled mix and match",
-    img: "img/women/swimwear-women-2.jpeg",
+    img: "/img/women/swimwear-women-2.jpeg",
     price: 31.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4931,7 +4931,7 @@ export const allProducts = [
   {
     id: 170,
     title: "Accessorize Exclusive tie knot crop",
-    img: "img/women/swimwear-women-3.jpeg",
+    img: "/img/women/swimwear-women-3.jpeg",
     price: 46.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4954,7 +4954,7 @@ export const allProducts = [
   {
     id: 171,
     title: "Esmee Exclusive cropped bardot beach",
-    img: "img/women/swimwear-women-4.jpeg",
+    img: "/img/women/swimwear-women-4.jpeg",
     price: 37.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -4977,7 +4977,7 @@ export const allProducts = [
   {
     id: 172,
     title: "Recycled mix and match high leg",
-    img: "img/women/swimwear-women-5.jpeg",
+    img: "/img/women/swimwear-women-5.jpeg",
     price: 59.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5000,7 +5000,7 @@ export const allProducts = [
   {
     id: 173,
     title: "Mix and match crinkle bikini range",
-    img: "img/women/swimwear-women-6.jpeg",
+    img: "/img/women/swimwear-women-6.jpeg",
     price: 46.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5023,7 +5023,7 @@ export const allProducts = [
   {
     id: 174,
     title: "Fuller bust mix and match ribbed knot",
-    img: "img/women/swimwear-women-7.jpeg",
+    img: "/img/women/swimwear-women-7.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5046,7 +5046,7 @@ export const allProducts = [
   {
     id: 175,
     title: "Rib knot front bikini top in dolly pink",
-    img: "img/women/swimwear-women-8.jpeg",
+    img: "/img/women/swimwear-women-8.jpeg",
     price: 51.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5069,7 +5069,7 @@ export const allProducts = [
   {
     id: 176,
     title: "SWIM GLAM mix and match in exotic",
-    img: "img/women/swimwear-women-9.jpeg",
+    img: "/img/women/swimwear-women-9.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5097,7 +5097,7 @@ export const allProducts = [
   {
     id: 177,
     title: "High rise ridley 'skinny' jeans",
-    img: "img/women/jeans-women-1.jpeg",
+    img: "/img/women/jeans-women-1.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5115,11 +5115,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 178,
     title: "Missguided Tall riot highwaisted",
-    img: "img/women/jeans-women-2.jpeg",
+    img: "/img/women/jeans-women-2.jpeg",
     price: 42.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5137,11 +5138,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 179,
     title: "Stradivarius coated push up jean",
-    img: "img/women/jeans-women-3.jpeg",
+    img: "/img/women/jeans-women-3.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5159,11 +5161,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 180,
     title: "Urban Bliss ripped boyfriend jean",
-    img: "img/women/jeans-women-4.jpeg",
+    img: "/img/women/jeans-women-4.jpeg",
     price: 34.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5181,11 +5184,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 181,
     title: "Dr Denim Nora sky high mom",
-    img: "img/women/jeans-women-5.jpeg",
+    img: "/img/women/jeans-women-5.jpeg",
     price: 38.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5203,11 +5207,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 182,
     title: "Stradivarius Petite slim mom jean",
-    img: "img/women/jeans-women-6.jpeg",
+    img: "/img/women/jeans-women-6.jpeg",
     price: 41.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5225,11 +5230,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 183,
     title: "High-rise 'sassy' cigarette jeans",
-    img: "img/women/jeans-women-7.jpeg",
+    img: "/img/women/jeans-women-7.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5247,11 +5253,12 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 184,
     title: "Other Stories organic cotton mid",
-    img: "img/women/jeans-women-8.jpeg",
+    img: "/img/women/jeans-women-8.jpeg",
     price: 26.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5269,11 +5276,12 @@ export const allProducts = [
     category: "jeans",
     sale: "onSale",
     collection: "none",
+    type: "jeans-women",
   },
   {
     id: 185,
     title: "Recycled high rise farleigh",
-    img: "img/women/jeans-women-9.jpeg",
+    img: "/img/women/jeans-women-9.jpeg",
     price: 30.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5291,6 +5299,7 @@ export const allProducts = [
     category: "jeans",
     sale: "regular",
     collection: "none",
+    type: "jeans-women",
   },
 
   // ================================================
@@ -5300,7 +5309,7 @@ export const allProducts = [
   {
     id: 186,
     title: "Pleated midi skirt in black",
-    img: "img/women/skirts-women-1.jpeg",
+    img: "/img/women/skirts-women-1.jpeg",
     price: 32.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5318,11 +5327,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 187,
     title: "Shirred body-conscious mini skirt",
-    img: "img/women/skirts-women-2.jpeg",
+    img: "/img/women/skirts-women-2.jpeg",
     price: 39.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5340,11 +5350,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 188,
     title: "Monki Vanessa floral print jersey",
-    img: "img/women/skirts-women-3.jpeg",
+    img: "/img/women/skirts-women-3.jpeg",
     price: 50.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5362,11 +5373,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 189,
     title: "Monki Mandy dot print midi skirt in blue",
-    img: "img/women/skirts-women-4.jpeg",
+    img: "/img/women/skirts-women-4.jpeg",
     price: 28.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5384,11 +5396,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 190,
     title: "Midi bias slip skirt in spliced floral",
-    img: "img/women/skirts-women-5.jpeg",
+    img: "/img/women/skirts-women-5.jpeg",
     price: 47.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5406,11 +5419,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 191,
     title: "One Above Another mini pleated tennis",
-    img: "img/women/skirts-women-6.jpeg",
+    img: "/img/women/skirts-women-6.jpeg",
     price: 33.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5428,11 +5442,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 192,
     title: "Mobi dias slip skirt in spliced",
-    img: "img/women/skirts-women-7.jpeg",
+    img: "/img/women/skirts-women-7.jpeg",
     price: 30.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5450,11 +5465,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 193,
     title: "Other Stories floral print button",
-    img: "img/women/skirts-women-8.jpeg",
+    img: "/img/women/skirts-women-8.jpeg",
     price: 35.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5472,11 +5488,12 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
   {
     id: 194,
     title: "Metallic pleated midi skirt in silver",
-    img: "img/women/skirts-women-9.jpeg",
+    img: "/img/women/skirts-women-9.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5494,6 +5511,7 @@ export const allProducts = [
     category: "skirts",
     sale: "regular",
     collection: "none",
+    type: "skirts-women",
   },
 
   // ================================================
@@ -5503,7 +5521,7 @@ export const allProducts = [
   {
     id: 195,
     title: "Emory Park boyfriend denim shorts",
-    img: "img/women/shorts-women-1.jpeg",
+    img: "/img/women/shorts-women-1.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5521,11 +5539,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 196,
     title: "Levi's Ribcage denim shorts in blue",
-    img: "img/women/shorts-women-2.jpeg",
+    img: "/img/women/shorts-women-2.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5543,11 +5562,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 197,
     title: "Stradivarius skort with frill in print",
-    img: "img/women/shorts-women-3.jpeg",
+    img: "/img/women/shorts-women-3.jpeg",
     price: 21.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5565,11 +5585,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 198,
     title: "Other Stories high waist scallop",
-    img: "img/women/shorts-women-4.jpeg",
+    img: "/img/women/shorts-women-4.jpeg",
     price: 15.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5587,11 +5608,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 199,
     title: "Weekday Wanda tie-dye relaxed",
-    img: "img/women/shorts-women-5.jpeg",
+    img: "/img/women/shorts-women-5.jpeg",
     price: 26.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5609,11 +5631,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 200,
     title: "Other Stories linen bermuda shorts",
-    img: "img/women/shorts-women-6.jpeg",
+    img: "/img/women/shorts-women-6.jpeg",
     price: 31.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5631,11 +5654,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 201,
     title: "Other Stories organic cotton acid",
-    img: "img/women/shorts-women-7.jpeg",
+    img: "/img/women/shorts-women-7.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5653,11 +5677,12 @@ export const allProducts = [
     category: "shorts",
     sale: "onSale",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 202,
     title: "Stradivarius jersey short in gray",
-    img: "img/women/shorts-women-8.jpeg",
+    img: "/img/women/shorts-women-8.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5675,11 +5700,12 @@ export const allProducts = [
     category: "shorts",
     sale: "regular",
     collection: "none",
+    type: "shorts-women",
   },
   {
     id: 203,
     title: "Missguided tie waist runner short",
-    img: "img/women/shorts-women-9.jpeg",
+    img: "/img/women/shorts-women-9.jpeg",
     price: 20.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5697,6 +5723,7 @@ export const allProducts = [
     category: "shorts",
     sale: "onSale",
     collection: "none",
+    type: "shorts-women",
   },
 
   // ================================================
@@ -5706,7 +5733,7 @@ export const allProducts = [
   {
     id: 204,
     title: "Vila leggings with seam detail in black",
-    img: "img/women/pants-women-1.jpeg",
+    img: "/img/women/pants-women-1.jpeg",
     price: 29.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5724,11 +5751,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 205,
     title: "Columbia Lodge leggings in black",
-    img: "img/women/pants-women-2.jpeg",
+    img: "/img/women/pants-women-2.jpeg",
     price: 32.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5746,11 +5774,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 206,
     title: "Other Stories organic cotton straight",
-    img: "img/women/pants-women-3.jpeg",
+    img: "/img/women/pants-women-3.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5768,11 +5797,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 207,
     title: "Weekday Sidra contrast stitch leggings",
-    img: "img/women/pants-women-4.jpeg",
+    img: "/img/women/pants-women-4.jpeg",
     price: 25.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5790,11 +5820,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 208,
     title: "Pull&Bear jogger in gray",
-    img: "img/women/pants-women-5.jpeg",
+    img: "/img/women/pants-women-5.jpeg",
     price: 28.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5812,11 +5843,12 @@ export const allProducts = [
     category: "pants",
     sale: "onSale",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 209,
     title: "Missguided cigarette pants in black",
-    img: "img/women/pants-women-6.jpeg",
+    img: "/img/women/pants-women-6.jpeg",
     price: 19.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5834,11 +5866,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 210,
     title: "Tailored smart mix & match cigarette",
-    img: "img/women/pants-women-7.jpeg",
+    img: "/img/women/pants-women-7.jpeg",
     price: 21.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5856,11 +5889,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 211,
     title: "Basic jogger tie in organic cotton",
-    img: "img/women/pants-women-8.jpeg",
+    img: "/img/women/pants-women-8.jpeg",
     price: 23.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5878,11 +5912,12 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
   {
     id: 212,
     title: "Y.A.S tailored pants with elastic",
-    img: "img/women/pants-women-9.jpeg",
+    img: "/img/women/pants-women-9.jpeg",
     price: 20.95,
     info:
       "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
@@ -5900,6 +5935,7 @@ export const allProducts = [
     category: "pants",
     sale: "regular",
     collection: "none",
+    type: "pants-women",
   },
 
   // ================================================
