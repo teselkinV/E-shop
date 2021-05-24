@@ -587,31 +587,41 @@ button.modal-complete-btn:active {
   /* border-radius: 50%; */
 }
 
+.cart-content {
+  padding-top: 2rem;
+}
+
 .quintity {
   background-color: var(--mainWhite);
   border: 0.06rem solid var(--secondGrey);
   border-radius: 20px;
   width: 8.125rem;
+  margin-top: -0.9rem;
 }
 
 .cart-price,
-.cart-title-product,
 .count-cart {
   font-weight: 700 !important;
 }
 
+.cart-title-block {
+  width: 17rem;
+}
+
+.cart-title-product {
+  display: inline;
+  font-weight: 300;
+}
+
 .cart-remove {
   cursor: pointer;
+  font-size: 0.875rem;
+  font-weight: 300;
+  opacity: 0.8;
 }
 
 .change-count:active {
   color: var(--secondGrey) !important;
-}
-
-.cart-title-product {
-  padding-left: 0 !important;
-  margin: 0;
-  display: inline;
 }
 
 .id-product {
