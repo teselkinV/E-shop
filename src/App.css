@@ -34,7 +34,7 @@ body {
 
 .navbar-pages {
   border-bottom: 1px solid #ebebeb;
-  padding-bottom: 2rem !important;
+  padding-bottom: 1rem !important;
   position: relative !important;
 }
 
@@ -393,14 +393,10 @@ a.teselkin {
   margin-bottom: 3.25rem;
 }
 .details-size {
-  font-size: 1rem;
-  font-weight: 700;
   margin-bottom: 1rem;
-  letter-spacing: 0.1rem;
 }
 .size-table {
   font-weight: 300;
-  padding-left: 2rem;
   color: var(--mainYellow);
   text-decoration: underline;
   letter-spacing: 0;
@@ -417,7 +413,7 @@ select.size {
   border-radius: 2rem;
   padding: 0.6rem 4.8rem;
   color: var(--mainGrey);
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   cursor: pointer;
   background-color: rgb(255, 255, 255);
 }
@@ -865,8 +861,14 @@ button.btn-default {
   }
 
   /* Details Page */
+  h2.details-title {
+    font-size: 1.875rem !important;
+    margin-top: 1.5rem;
+  }
+
   h2.details-price {
-    margin-bottom: 3.25rem !important;
+    font-size: 1.5rem !important;
+    margin-bottom: 3rem !important;
   }
 
   .cart-content {
@@ -917,10 +919,20 @@ button.btn-default {
     padding: 1rem;
   }
 
-  h2.details-price,
   h2.details-title {
-    font-size: 1.875rem !important;
+    font-size: 1.875rem;
+    letter-spacing: 0.1rem;
+    margin-top: 1.5rem;
   }
+
+  h2.details-price {
+    font-size: 1.5rem;
+    letter-spacing: 0.2rem;
+    font-weight: 600;
+    opacity: 0.8;
+    margin-bottom: 2rem;
+  }
+
   .details-size,
   .select-size,
   .add-cart-btn {
@@ -929,6 +941,7 @@ button.btn-default {
 
   .details-img {
     width: 100%;
+    margin-top: 1.5rem;
   }
 
   .cart-content {
@@ -963,11 +976,19 @@ button.btn-default {
 
   /* Details page */
 
-  h2.details-price,
   h2.details-title {
     font-size: 1.275rem;
+    letter-spacing: 0.1rem;
+  }
+
+  h2.details-price {
+    font-size: 1.15rem;
+    letter-spacing: 0.2rem;
+    font-weight: 600;
+    opacity: 0.8;
     margin-bottom: 1rem;
   }
+
   .details-size,
   .select-size,
   .add-cart-btn {
