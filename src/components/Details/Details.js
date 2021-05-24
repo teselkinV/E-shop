@@ -38,7 +38,7 @@ function Details() {
 
               {/* product info */}
               <div className="row">
-                <div className="col-12 mx-auto col-md-6 my-3 px-0">
+                <div className="col-12 mx-auto col-md-6 mb-3 px-0">
                   <img
                     src={img}
                     className="img-fluid details-img"
@@ -46,21 +46,18 @@ function Details() {
                   />
                 </div>
 
-                <div className="col-10 mx-auto col-md-6 my-3">
+                <div className="col-10 mx-auto col-md-6">
                   <h2 className="font-weight-light details-title">{title}</h2>
                   <h2 className="details-price">${price}</h2>
                   <p className="details-size">
-                    Size:{" "}
-                    <span className="size-table">
-                      <Link
-                        to="/clothing-size-charts"
-                        target="_blank"
-                        className="size-table"
-                      >
-                        <i className="fas fa-tshirt mr-1"></i>
-                        See size table
-                      </Link>
-                    </span>
+                    <Link
+                      to="/clothing-size-charts"
+                      target="_blank"
+                      className="size-table"
+                    >
+                      <i className="fas fa-tshirt mr-1"></i>
+                      See size table
+                    </Link>
                   </p>
                   <div className="select-size">
                     <select className="size" id="size">
