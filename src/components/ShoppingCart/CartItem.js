@@ -11,11 +11,10 @@ export default function CartItem({ item, value }) {
           <img src={img} className="image-fluid cart-img" alt="product" />
         </div>
         <div className="col-8 col-lg-10 col-md-8 cart-content">
-          <div className="d-flex-column">
-            <div className="col-6 col-lg-2 col-md-5 cart-title-product">
+          <div className="d-flex-column cart-title-block">
+            <div className="col-6 col-lg-2 col-md-5 px-0 cart-title-product">
               {title}
             </div>
-            <div className="col-6 col-lg-2 col-md-5 id-product">{sign}</div>
           </div>
           <div className="col-6  m-1 col-lg-2 col-md-5 cart-size text-center">
             {size.l}
@@ -49,7 +48,7 @@ export default function CartItem({ item, value }) {
             className="col-6 m-1 col-lg-2 col-md-5 cart-remove"
             onClick={() => removeItem(id)}
           >
-            Delete
+            Remove
           </div>
         </div>
       </div>
