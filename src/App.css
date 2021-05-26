@@ -579,7 +579,6 @@ button.modal-complete-btn:active {
 .title-summary {
   font-weight: 700;
   font-size: 1.25rem;
-  margin-top: 2.5rem;
 }
 
 .quintity {
@@ -587,7 +586,6 @@ button.modal-complete-btn:active {
   border: 0.06rem solid var(--secondGrey);
   border-radius: 20px;
   width: 8.125rem;
-  margin-top: -0.9rem;
 }
 
 .cart-price,
@@ -900,6 +898,9 @@ button.btn-default {
   .cart-title-block {
     width: 17rem !important;
   }
+  .quintity {
+    margin-top: -0.25rem !important;
+  }
 }
 
 /* =================================================== */
@@ -1041,5 +1042,15 @@ button.btn-default {
 
   .cart-title-block {
     width: 12rem;
+  }
+
+  .change-count,
+  .count-cart {
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .quintity {
+    margin-top: -1rem;
   }
 }

@@ -29,18 +29,18 @@ export default function CartItem({ item, value }) {
             <div className="d-flex justify-content-center quintity text-center">
               <div>
                 <span
-                  className="btn btn-black mx-1 change-count"
+                  className="btn btn-black py-0 change-count"
                   onClick={() => decrement(id)}
                 >
                   -
                 </span>
               </div>
               <div>
-                <span className="btn  mx-1 py-auto count-cart">{count}</span>
+                <span className="btn py-0 count-cart">{count}</span>
               </div>
               <div>
                 <span
-                  className="btn btn-black mx-1 change-count"
+                  className="btn btn-black py-0 change-count"
                   onClick={() => increment(id)}
                 >
                   +
