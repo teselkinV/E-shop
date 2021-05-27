@@ -60,6 +60,7 @@ export default function CartItem({ item, value }) {
           </div>
         </div>
       </div>
+      <hr />
     </div>
   );
 }
