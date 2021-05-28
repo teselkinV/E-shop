@@ -2,7 +2,7 @@ import React from "react";
 import "../../App.css";
 
 export default function CartItem({ item, value }) {
-  const { id, title, img, price, size, count, sign } = item;
+  const { id, title, img, price, size, count } = item;
   const { increment, decrement, removeItem } = value;
   return (
     <div className="container">
