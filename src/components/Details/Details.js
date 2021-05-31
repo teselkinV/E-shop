@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import styled from "styled-components";
 import Selected from "../Selected/Selected";
 import Summer from "../Summer/Summer";
@@ -16,6 +16,14 @@ function Details() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
+
+  const [selected, setSelected] = useState("Choose size");
+
+  function handleSelect(e) {
+    console.log(e.target.value);
+    setSelected(e.target.value);
+  }
+
   return (
     <React.Fragment>
       <Navbar />
@@ -29,9 +37,9 @@ function Details() {
             price,
             info,
             inCart,
-            size,
             identifier,
           } = value.detailProduct;
+
           return (
             <div className="container product-page">
               <Breadcrumbs />
@@ -60,13 +68,13 @@ function Details() {
                     </Link>
                   </p>
                   <div className="select-size">
-                    <select className="size" id="size">
+                    <select className="size" id="size" onChange={handleSelect}>
                       <option value="choose">Choose size</option>
-                      <option value="s">{size.s}</option>
-                      <option value="s">{size.m}</option>
-                      <option value="s">{size.l}</option>
-                      <option value="s">{size.xl}</option>
-                      <option value="s">{size.xxl}</option>
+                      <option value="small">small</option>
+                      <option value="medium">medium</option>
+                      <option value="large">large</option>
+                      <option value="xlarge">xlarge</option>
+                      <option value="xxlarge">xxlarge</option>
                     </select>
                   </div>
 

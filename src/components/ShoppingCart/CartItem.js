@@ -1,9 +1,10 @@
 import React from "react";
 import "../../App.css";
 
-export default function CartItem({ item, value }) {
+export default function CartItem({ item, value, select }) {
   const { id, title, img, price, size, count } = item;
   const { increment, decrement, removeItem } = value;
+  console.log("SELECT", select);
   return (
     <div className="container">
       <div className="row my-2">
@@ -23,7 +24,7 @@ export default function CartItem({ item, value }) {
             <span className="d-content d-sm-content d-md-none d-lg-none">
               size:{" "}
             </span>
-            {size.l}
+            {select}
           </div>
           <div className="col-6 mx-0 my-4 px-0 col-lg-2 col-md-5 my-lg-0">
             <div className="d-flex justify-content-center quintity text-center">
