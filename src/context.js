@@ -12,6 +12,7 @@ export default class ProductProvider extends Component {
     itemsTotal: 0,
     salesTax: 0,
     cartTotal: 0,
+    size: [],
   };
 
   componentDidMount() {
@@ -161,6 +162,10 @@ export default class ProductProvider extends Component {
         cartTotal: total,
       };
     });
+  };
+
+  addSize = () => {
+    this.size.map();
   };
 
   render() {
