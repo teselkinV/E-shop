@@ -3258,7 +3258,7 @@ export const allProducts = [
   {
     id: 106,
     title: "Cotton poplin tiered maxi dress in floral",
-    img: "public/img/women/dresses-1.jpeg",
+    img: "/img/women/dresses-1.jpeg",
     price: 49.95,
     info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
