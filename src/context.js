@@ -1,11 +1,12 @@
 import React, { Component } from "react";
-import { allProducts, detailProduct } from "./data";
+import { allProducts, detailProduct, categoryShop } from "./data";
 const ProductContext = React.createContext();
 
 export default class ProductProvider extends Component {
   state = {
     products: [],
     detailProduct: detailProduct,
+    categoryShop: categoryShop,
     cart: [],
     modalOpen: false,
     modalProduct: detailProduct,

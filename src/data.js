@@ -12,8 +12,7 @@ export const allProducts = [
     title: "T-Shirt Summer Vibes",
     img: "/img/tshirt-man-1.jpeg",
     price: 19.95,
-    info:
-      "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -36,8 +35,7 @@ export const allProducts = [
     title: "Loose Knit 3/4 Sleeve",
     img: "/img/tshirt-man-2.jpeg",
     price: 29.95,
-    info:
-      "Loose Knit 3/4 Sleeve in the uiKit line with a colorful print. Made of jersey cotton. Loose fits perfectly with jeans, pants or shorts.",
+    info: "Loose Knit 3/4 Sleeve in the uiKit line with a colorful print. Made of jersey cotton. Loose fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -60,8 +58,7 @@ export const allProducts = [
     title: "Basic Slim Fit T-Shirt",
     img: "/img/tshirt-man-3.jpeg",
     price: 25.95,
-    info:
-      "Basic Slim Fit T-Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Basic Slim Fit T-Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -84,8 +81,7 @@ export const allProducts = [
     title: "Oxford Dress Shirt",
     img: "/img/tshirt-man-4.jpeg",
     price: 22.95,
-    info:
-      "Oxford Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Oxford Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -108,8 +104,7 @@ export const allProducts = [
     title: "Premium Dress Shirt",
     img: "/img/tshirt-man-5.jpeg",
     price: 31.95,
-    info:
-      "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -132,8 +127,7 @@ export const allProducts = [
     title: "Patterned Dress Shirt",
     img: "/img/tshirt-man-6.jpeg",
     price: 15.95,
-    info:
-      "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -156,8 +150,7 @@ export const allProducts = [
     title: "Premium Dress Shirt",
     img: "/img/tshirt-man-7.jpeg",
     price: 21.95,
-    info:
-      "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -180,8 +173,7 @@ export const allProducts = [
     title: "Premium Dress Shirt",
     img: "/img/tshirt-man-8.jpeg",
     price: 19.95,
-    info:
-      "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -204,8 +196,7 @@ export const allProducts = [
     title: "Premium Dress Shirt",
     img: "/img/tshirt-man-9.jpeg",
     price: 15.95,
-    info:
-      "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Premium Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -233,8 +224,7 @@ export const allProducts = [
     title: "Patterned Dress Polo",
     img: "/img/polo-man-1.jpeg",
     price: 49.95,
-    info:
-      "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Patterned Dress Shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -257,8 +247,7 @@ export const allProducts = [
     title: "River Island waffle polo",
     img: "/img/polo-man-2.jpeg",
     price: 69.95,
-    info:
-      "River Island waffle polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "River Island waffle polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -281,8 +270,7 @@ export const allProducts = [
     title: "Muscle fit jersey polo",
     img: "/img/polo-man-3.jpeg",
     price: 45.95,
-    info:
-      "Muscle fit jersey polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Muscle fit jersey polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -306,8 +294,7 @@ export const allProducts = [
     title: "Long sleeve tipped polo",
     img: "/img/polo-man-4.jpeg",
     price: 52.95,
-    info:
-      "Long sleeve tipped polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Long sleeve tipped polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -330,8 +317,7 @@ export const allProducts = [
     title: "Tonal batwing logo pique polo",
     img: "/img/polo-man-5.jpeg",
     price: 33.95,
-    info:
-      "Tonal batwing logo pique polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Tonal batwing logo pique polo in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -354,8 +340,7 @@ export const allProducts = [
     title: "Selected Homme polo shirt",
     img: "/img/polo-man-6.jpeg",
     price: 38.95,
-    info:
-      "Selected Homme polo shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme polo shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -378,8 +363,7 @@ export const allProducts = [
     title: "Crooked Tongues rugby polo",
     img: "/img/polo-man-7.jpeg",
     price: 55.95,
-    info:
-      "Crooked Tongues rugby polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Crooked Tongues rugby polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -402,8 +386,7 @@ export const allProducts = [
     title: "Fred Perry bomber collar polo",
     img: "/img/polo-man-8.jpeg",
     price: 45.95,
-    info:
-      "Fred Perry bomber collar polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Fred Perry bomber collar polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -426,8 +409,7 @@ export const allProducts = [
     title: "Selected Homme knitted polo",
     img: "/img/polo-man-9.jpeg",
     price: 75.95,
-    info:
-      "Selected Homme knitted polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme knitted polo cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -455,8 +437,7 @@ export const allProducts = [
     title: "Selected Homme knitted shirt",
     img: "/img/shirt-man-1.jpeg",
     price: 35.95,
-    info:
-      "Selected Homme knitted shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme knitted shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -479,8 +460,7 @@ export const allProducts = [
     title: "Relaxed revere windowpane shirt",
     img: "/img/shirt-man-2.jpeg",
     price: 38.95,
-    info:
-      "Relaxed revere windowpane shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Relaxed revere windowpane shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -503,8 +483,7 @@ export const allProducts = [
     title: "Stretch skinny fit shirt",
     img: "/img/shirt-man-3.jpeg",
     price: 69.95,
-    info:
-      "Stretch skinny fit shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Stretch skinny fit shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -527,8 +506,7 @@ export const allProducts = [
     title: "Revere slub cotton shirt",
     img: "/img/shirt-man-4.jpeg",
     price: 29.95,
-    info:
-      "Revere slub cotton shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Revere slub cotton shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -551,8 +529,7 @@ export const allProducts = [
     title: "Stretch slim fit work shirt",
     img: "/img/shirt-man-5.jpeg",
     price: 49.95,
-    info:
-      "Stretch slim fit work shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Stretch slim fit work shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -575,8 +552,7 @@ export const allProducts = [
     title: "Selected Homme organic cotton grandad",
     img: "/img/shirt-man-6.jpeg",
     price: 42.95,
-    info:
-      "Selected Homme organic cotton grandad cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme organic cotton grandad cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -599,8 +575,7 @@ export const allProducts = [
     title: "Skinny fit stripe shirt in navy",
     img: "/img/shirt-man-7.jpeg",
     price: 38.95,
-    info:
-      "Skinny fit stripe shirt in navy cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Skinny fit stripe shirt in navy cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -623,8 +598,7 @@ export const allProducts = [
     title: "Weekday Marwin Nylon short sleeve",
     img: "/img/shirt-man-8.jpeg",
     price: 25.95,
-    info:
-      "Weekday Marwin Nylon short sleeve cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Weekday Marwin Nylon short sleeve cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -647,8 +621,7 @@ export const allProducts = [
     title: "New Look long sleeve poplin shirt",
     img: "/img/shirt-man-9.jpeg",
     price: 42.95,
-    info:
-      "New Look long sleeve poplin shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look long sleeve poplin shirt cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -676,8 +649,7 @@ export const allProducts = [
     title: "Knitted wide rib turtle sweate",
     img: "/img/sweater-man-1.jpeg",
     price: 62.95,
-    info:
-      "Knitted wide rib turtle sweate cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Knitted wide rib turtle sweate cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -700,8 +672,7 @@ export const allProducts = [
     title: "Knitted wide-rib turtleneck sweater",
     img: "/img/sweater-man-2.jpeg",
     price: 69.95,
-    info:
-      "Knitted wide-rib turtleneck sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Knitted wide-rib turtleneck sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -724,8 +695,7 @@ export const allProducts = [
     title: "Selected Homme sweater in white",
     img: "/img/sweater-man-3.jpeg",
     price: 49.95,
-    info:
-      "Selected Homme sweater in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme sweater in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -748,8 +718,7 @@ export const allProducts = [
     title: "Jack & Jones Essentials sweater",
     img: "/img/sweater-man-4.jpeg",
     price: 65.95,
-    info:
-      "Jack & Jones Essentials sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Jack & Jones Essentials sweater in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -772,8 +741,7 @@ export const allProducts = [
     title: "Muscle fit ribbed sweater in black",
     img: "/img/sweater-man-5.jpeg",
     price: 35.95,
-    info:
-      "Muscle fit ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Muscle fit ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -796,8 +764,7 @@ export const allProducts = [
     title: "River Island ribbed sweater",
     img: "/img/sweater-man-6.jpeg",
     price: 45.95,
-    info:
-      "River Island ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "River Island ribbed sweater in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -820,8 +787,7 @@ export const allProducts = [
     title: "New Look crew neck sweater",
     img: "/img/sweater-man-7.jpeg",
     price: 75.95,
-    info:
-      "New Look crew neck sweater in dark gray in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look crew neck sweater in dark gray in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -844,8 +810,7 @@ export const allProducts = [
     title: "Knitted oversized textured yarn",
     img: "/img/sweater-man-8.jpeg",
     price: 39.95,
-    info:
-      "Knitted oversized textured yarn in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Knitted oversized textured yarn in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -868,8 +833,7 @@ export const allProducts = [
     title: "River Island long sleeve knitted",
     img: "/img/sweater-man-9.jpeg",
     price: 38.95,
-    info:
-      "River Island long sleeve knitted in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "River Island long sleeve knitted in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -897,8 +861,7 @@ export const allProducts = [
     title: "One Above Another denim jumpsuit",
     img: "/img/overall-man-1.jpeg",
     price: 68.95,
-    info:
-      "One Above Another denim jumpsuit in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "One Above Another denim jumpsuit in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -921,8 +884,7 @@ export const allProducts = [
     title: "Denim short boilersuit in blue",
     img: "/img/overall-man-2.jpeg",
     price: 79.95,
-    info:
-      "Denim short boilersuit in blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Denim short boilersuit in blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -945,8 +907,7 @@ export const allProducts = [
     title: "Denim overalls in dusky pink",
     img: "/img/overall-man-3.jpeg",
     price: 49.95,
-    info:
-      "Denim overalls in dusky pink in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Denim overalls in dusky pink in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -969,8 +930,7 @@ export const allProducts = [
     title: "Boilersuit in blue with pocket",
     img: "/img/overall-man-4.jpeg",
     price: 59.95,
-    info:
-      "Boilersuit in blue with pocket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Boilersuit in blue with pocket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -993,8 +953,7 @@ export const allProducts = [
     title: "Topman overalls in washed blue",
     img: "/img/overall-man-5.jpeg",
     price: 54.95,
-    info:
-      "Topman overalls in washed blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman overalls in washed blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1017,8 +976,7 @@ export const allProducts = [
     title: "Tall short boilersuit with cut",
     img: "/img/overall-man-6.jpeg",
     price: 34.95,
-    info:
-      "Tall short boilersuit with cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Tall short boilersuit with cut in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1041,8 +999,7 @@ export const allProducts = [
     title: "Skinny overalls in black",
     img: "/img/overall-man-7.jpeg",
     price: 64.95,
-    info:
-      "Skinny overalls in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Skinny overalls in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1065,8 +1022,7 @@ export const allProducts = [
     title: "Baggy denim overall in stone",
     img: "/img/overall-man-8.jpeg",
     price: 59.95,
-    info:
-      "Baggy denim overall in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Baggy denim overall in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1089,8 +1045,7 @@ export const allProducts = [
     title: "Denim overalls in indigo length",
     img: "/img/overall-man-9.jpeg",
     price: 51.95,
-    info:
-      "Denim overalls in indigo length in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Denim overalls in indigo length in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1118,8 +1073,7 @@ export const allProducts = [
     title: "Denim jacket with detachable fleece",
     img: "/img/jacket-man-1.jpeg",
     price: 79.95,
-    info:
-      "Denim jacket with detachable fleece in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Denim jacket with detachable fleece in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1142,8 +1096,7 @@ export const allProducts = [
     title: "Pull&Bear denim jacket in brown",
     img: "/img/jacket-man-2.jpeg",
     price: 71.95,
-    info:
-      "Pull&Bear denim jacket in brown in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Pull&Bear denim jacket in brown in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1166,8 +1119,7 @@ export const allProducts = [
     title: "Pull&Bear denim jacket in black",
     img: "/img/jacket-man-3.jpeg",
     price: 46.95,
-    info:
-      "Pull&Bear denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Pull&Bear denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1190,8 +1142,7 @@ export const allProducts = [
     title: "Commuter coat with contrast binding",
     img: "/img/jacket-man-4.jpeg",
     price: 65.95,
-    info:
-      "Commuter coat with contrast binding in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Commuter coat with contrast binding in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1214,8 +1165,7 @@ export const allProducts = [
     title: "DESIGN skinny western denim jacket in black",
     img: "/img/jacket-man-5.jpeg",
     price: 56.95,
-    info:
-      "DESIGN skinny western denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "DESIGN skinny western denim jacket in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1238,8 +1188,7 @@ export const allProducts = [
     title: "DESIGN skinny denim jacket in gray",
     img: "/img/jacket-man-6.jpeg",
     price: 41.95,
-    info:
-      "DESIGN skinny denim jacket in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "DESIGN skinny denim jacket in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1262,8 +1211,7 @@ export const allProducts = [
     title: "Pull&Bear denim jacket in mid blue",
     img: "/img/jacket-man-7.jpeg",
     price: 47.95,
-    info:
-      "Pull&Bear denim jacket in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Pull&Bear denim jacket in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1286,8 +1234,7 @@ export const allProducts = [
     title: "DESIGN denim jacket in white with rips",
     img: "/img/jacket-man-8.jpeg",
     price: 36.95,
-    info:
-      "DESIGN denim jacket in white with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "DESIGN denim jacket in white with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1310,8 +1257,7 @@ export const allProducts = [
     title: "Bershka faux leather biker jacket",
     img: "/img/jacket-man-9.jpeg",
     price: 39.95,
-    info:
-      "Bershka faux leather biker jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Bershka faux leather biker jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1339,8 +1285,7 @@ export const allProducts = [
     title: "COLLUSION drop shoulder sweatshirt",
     img: "/img/hoodies-man-1.jpeg",
     price: 29.95,
-    info:
-      "COLLUSION drop shoulder sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "COLLUSION drop shoulder sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1363,8 +1308,7 @@ export const allProducts = [
     title: "Vintage inspired oversized hoodie",
     img: "/img/hoodies-man-2.jpeg",
     price: 32.95,
-    info:
-      "Vintage inspired oversized hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Vintage inspired oversized hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1387,8 +1331,7 @@ export const allProducts = [
     title: "AllSaints Raven ramskull hoodie",
     img: "/img/hoodies-man-3.jpeg",
     price: 41.95,
-    info:
-      "AllSaints Raven ramskull hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "AllSaints Raven ramskull hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1411,8 +1354,7 @@ export const allProducts = [
     title: "Oversized sweatshirt with split",
     img: "/img/hoodies-man-4.jpeg",
     price: 45.95,
-    info:
-      "Oversized sweatshirt with split in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Oversized sweatshirt with split in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1435,8 +1377,7 @@ export const allProducts = [
     title: "Sweatshirt with Los Angeles text print",
     img: "/img/hoodies-man-5.jpeg",
     price: 29.95,
-    info:
-      "Sweatshirt with Los Angeles text print in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Sweatshirt with Los Angeles text print in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1459,8 +1400,7 @@ export const allProducts = [
     title: "Oversized hoodie with t-shirt hem in red",
     img: "/img/hoodies-man-6.jpeg",
     price: 39.95,
-    info:
-      "Oversized hoodie with t-shirt hem in red in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Oversized hoodie with t-shirt hem in red in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1483,8 +1423,7 @@ export const allProducts = [
     title: "New Look hoodie in cream with taping",
     img: "/img/hoodies-man-7.jpeg",
     price: 23.95,
-    info:
-      "New Look hoodie in cream with taping in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look hoodie in cream with taping in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1508,8 +1447,7 @@ export const allProducts = [
     title: "Teddy borg hoodie in khaki with rib",
     img: "/img/hoodies-man-8.jpeg",
     price: 31.95,
-    info:
-      "Teddy borg hoodie in khaki with rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Teddy borg hoodie in khaki with rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1532,8 +1470,7 @@ export const allProducts = [
     title: "Iridescent patch crew neck sweatshirt",
     img: "/img/hoodies-man-9.jpeg",
     price: 37.95,
-    info:
-      "Iridescent patch crew neck sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Iridescent patch crew neck sweatshirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1561,8 +1498,7 @@ export const allProducts = [
     title: "Fast Running Fast shorts in gray",
     img: "/img/activewear-man-1.jpeg",
     price: 32.95,
-    info:
-      "Fast Running Fast shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Fast Running Fast shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1585,8 +1521,7 @@ export const allProducts = [
     title: "Nike Soccer academy sweatpants in navy",
     img: "/img/activewear-man-2.jpeg",
     price: 42.95,
-    info:
-      "Nike Soccer academy sweatpants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Nike Soccer academy sweatpants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1609,8 +1544,7 @@ export const allProducts = [
     title: "4505 icon training stringer tank",
     img: "/img/activewear-man-3.jpeg",
     price: 26.95,
-    info:
-      "4505 icon training stringer tank in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "4505 icon training stringer tank in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1633,8 +1567,7 @@ export const allProducts = [
     title: "ASOS Yoga dry hoodie in gray",
     img: "/img/activewear-man-4.jpeg",
     price: 41.55,
-    info:
-      "ASOS Yoga dry hoodie in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS Yoga dry hoodie in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1657,8 +1590,7 @@ export const allProducts = [
     title: "Soccer FC box logo T-shirt in gray",
     img: "/img/activewear-man-5.jpeg",
     price: 62.95,
-    info:
-      "Soccer FC box logo T-shirt in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Soccer FC box logo T-shirt in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1681,8 +1613,7 @@ export const allProducts = [
     title: "Under Armour woven graphic short",
     img: "/img/activewear-man-6.jpeg",
     price: 28.95,
-    info:
-      "Under Armour woven graphic short in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Under Armour woven graphic short in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1705,8 +1636,7 @@ export const allProducts = [
     title: "Adidas Training 3 stripe hoodie",
     img: "/img/activewear-man-7.jpeg",
     price: 44.95,
-    info:
-      "Adidas Training 3 stripe hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Adidas Training 3 stripe hoodie in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1729,8 +1659,7 @@ export const allProducts = [
     title: "Nike Basketball zip thru flight jacket",
     img: "/img/activewear-man-8.jpeg",
     price: 57.95,
-    info:
-      "Nike Basketball zip thru flight jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Nike Basketball zip thru flight jacket in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1753,8 +1682,7 @@ export const allProducts = [
     title: "Nike Running Wild Element long sleeve",
     img: "/img/activewear-man-9.jpeg",
     price: 68.95,
-    info:
-      "Nike Running Wild Element long sleeve in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Nike Running Wild Element long sleeve in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1782,8 +1710,7 @@ export const allProducts = [
     title: "Skinny jeans in vintage dark blue",
     img: "/img/jeans-man-1.jpeg",
     price: 33.95,
-    info:
-      "Skinny jeans in vintage dark blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Skinny jeans in vintage dark blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1806,8 +1733,7 @@ export const allProducts = [
     title: "'Cigarette' skinny jeans in mid blue",
     img: "/img/jeans-man-2.jpeg",
     price: 36.95,
-    info:
-      "'Cigarette' skinny jeans in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "'Cigarette' skinny jeans in mid blue in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1830,8 +1756,7 @@ export const allProducts = [
     title: "Spray on 'vintage look' jeans with power",
     img: "/img/jeans-man-3.jpeg",
     price: 43.95,
-    info:
-      "Spray on 'vintage look' jeans with power in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Spray on 'vintage look' jeans with power in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1854,8 +1779,7 @@ export const allProducts = [
     title: "Iridescent patch crew neck jeans",
     img: "/img/jeans-man-4.jpeg",
     price: 56.95,
-    info:
-      "Iridescent patch crew neck jeans in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Iridescent patch crew neck jeans in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1878,8 +1802,7 @@ export const allProducts = [
     title: "Levi's skinny jeans in distressed",
     img: "/img/jeans-man-5.jpeg",
     price: 31.95,
-    info:
-      "Levi's skinny jeans in distressed in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Levi's skinny jeans in distressed in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1902,8 +1825,7 @@ export const allProducts = [
     title: "Jack & Jones Intelligence Liam skinny",
     img: "/img/jeans-man-6.jpeg",
     price: 39.95,
-    info:
-      "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1926,8 +1848,7 @@ export const allProducts = [
     title: "New Look slim jeans in gray",
     img: "/img/jeans-man-7.jpeg",
     price: 52.95,
-    info:
-      "New Look slim jeans in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look slim jeans in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1950,8 +1871,7 @@ export const allProducts = [
     title: "Jack & Jones Intelligence Liam skinny",
     img: "/img/jeans-man-8.jpeg",
     price: 35.95,
-    info:
-      "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Jack & Jones Intelligence Liam skinny in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -1974,8 +1894,7 @@ export const allProducts = [
     title: "Skinny fit jeans in brick wall advanced",
     img: "/img/jeans-man-9.jpeg",
     price: 31.95,
-    info:
-      "Skinny fit jeans in brick wall advanced in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Skinny fit jeans in brick wall advanced in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2003,8 +1922,7 @@ export const allProducts = [
     title: "ASOS DESIGN slim chino shorts in stone",
     img: "/img/shorts-man-1.jpeg",
     price: 26.95,
-    info:
-      "ASOS DESIGN slim chino shorts in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN slim chino shorts in stone in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2027,8 +1945,7 @@ export const allProducts = [
     title: "Converse Star Chevron archive shorts",
     img: "/img/shorts-man-2.jpeg",
     price: 22.95,
-    info:
-      "Converse Star Chevron archive shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Converse Star Chevron archive shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2051,8 +1968,7 @@ export const allProducts = [
     title: "Topman skinny denim shorts with rips",
     img: "/img/shorts-man-3.jpeg",
     price: 29.95,
-    info:
-      "Topman skinny denim shorts with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman skinny denim shorts with rips in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2075,8 +1991,7 @@ export const allProducts = [
     title: "Under Armour woven graphic shorts",
     img: "/img/shorts-man-4.jpeg",
     price: 31.95,
-    info:
-      "Under Armour woven graphic shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Under Armour woven graphic shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2099,8 +2014,7 @@ export const allProducts = [
     title: "New Look vertical stripe short in white",
     img: "/img/shorts-man-5.jpeg",
     price: 21.95,
-    info:
-      "New Look vertical stripe short in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look vertical stripe short in white in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2123,8 +2037,7 @@ export const allProducts = [
     title: "ASOS DESIGN skinny chino shorts",
     img: "/img/shorts-man-6.jpeg",
     price: 25.95,
-    info:
-      "ASOS DESIGN skinny chino shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN skinny chino shorts in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2147,8 +2060,7 @@ export const allProducts = [
     title: "New Look skinny denim shorts in gray",
     img: "/img/shorts-man-7.jpeg",
     price: 19.95,
-    info:
-      "New Look skinny denim shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "New Look skinny denim shorts in gray in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2171,8 +2083,7 @@ export const allProducts = [
     title: "Topman shorts in gray stripe",
     img: "/img/shorts-man-8.jpeg",
     price: 13.95,
-    info:
-      "Topman shorts in gray stripe in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman shorts in gray stripe in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2195,8 +2106,7 @@ export const allProducts = [
     title: "Levi's lightweight walk shorts in muddy",
     img: "/img/shorts-man-9.jpeg",
     price: 29.95,
-    info:
-      "Levi's lightweight walk shorts in muddy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Levi's lightweight walk shorts in muddy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2224,8 +2134,7 @@ export const allProducts = [
     title: "Lockstock textured pants with elastic",
     img: "/img/pant-man-1.jpeg",
     price: 39.95,
-    info:
-      "Lockstock textured pants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Lockstock textured pants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2248,8 +2157,7 @@ export const allProducts = [
     title: "Topman skinny smart pants in toffee",
     img: "/img/pant-man-2.jpeg",
     price: 32.95,
-    info:
-      "Topman skinny smart pants in toffee in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman skinny smart pants in toffee in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2272,8 +2180,7 @@ export const allProducts = [
     title: "ASOS DESIGN super skinny pants",
     img: "/img/pant-man-3.jpeg",
     price: 27.95,
-    info:
-      "ASOS DESIGN super skinny pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN super skinny pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2296,8 +2203,7 @@ export const allProducts = [
     title: "Bershka skinny checked pants in navy",
     img: "/img/pant-man-4.jpeg",
     price: 35.95,
-    info:
-      "Bershka skinny checked pants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Bershka skinny checked pants in navy in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2320,8 +2226,7 @@ export const allProducts = [
     title: "Selected Homme straight fit chino",
     img: "/img/pant-man-5.jpeg",
     price: 44.95,
-    info:
-      "Selected Homme straight fit chino in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Selected Homme straight fit chino in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2344,8 +2249,7 @@ export const allProducts = [
     title: "Only & Sons check pants in tapered",
     img: "/img/pant-man-6.jpeg",
     price: 19.95,
-    info:
-      "Only & Sons check pants in tapered in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Only & Sons check pants in tapered in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2368,8 +2272,7 @@ export const allProducts = [
     title: "ASOS DESIGN super skinny smart pants",
     img: "/img/pant-man-7.jpeg",
     price: 21.95,
-    info:
-      "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2392,8 +2295,7 @@ export const allProducts = [
     title: "ASOS DESIGN super skinny smart pants",
     img: "/img/pant-man-8.jpeg",
     price: 39.95,
-    info:
-      "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN super skinny smart pants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2416,8 +2318,7 @@ export const allProducts = [
     title: "Lockstock cargo pants in black texture",
     img: "/img/pant-man-9.jpeg",
     price: 31.95,
-    info:
-      "Lockstock cargo pants in black texture in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Lockstock cargo pants in black texture in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2445,8 +2346,7 @@ export const allProducts = [
     title: "ASOS DESIGN oversized sweatpants",
     img: "/img/jogger-man-1.jpeg",
     price: 39.95,
-    info:
-      "ASOS DESIGN oversized sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "ASOS DESIGN oversized sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2469,8 +2369,7 @@ export const allProducts = [
     title: "Organic tracksuit with striped rib",
     img: "/img/jogger-man-2.jpeg",
     price: 44.95,
-    info:
-      "Organic tracksuit with striped rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Organic tracksuit with striped rib in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2493,8 +2392,7 @@ export const allProducts = [
     title: "Puma Rebel logo sweatpants in black",
     img: "/img/jogger-man-3.jpeg",
     price: 31.95,
-    info:
-      "Puma Rebel logo sweatpants in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Puma Rebel logo sweatpants in black in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2517,8 +2415,7 @@ export const allProducts = [
     title: "Originals Sweatpants with Embroidery",
     img: "/img/jogger-man-4.jpeg",
     price: 28.95,
-    info:
-      "Originals Sweatpants with Embroidery in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Originals Sweatpants with Embroidery in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2541,8 +2438,7 @@ export const allProducts = [
     title: "Super skinny lightweight sweatpants",
     img: "/img/jogger-man-5.jpeg",
     price: 31.95,
-    info:
-      "Super skinny lightweight sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Super skinny lightweight sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2565,8 +2461,7 @@ export const allProducts = [
     title: "Oversized tapered cargo sweatpants",
     img: "/img/jogger-man-6.jpeg",
     price: 35.95,
-    info:
-      "Oversized tapered cargo sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Oversized tapered cargo sweatpants in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2590,8 +2485,7 @@ export const allProducts = [
     title: "Topman pants with elasticated waistband",
     img: "/img/jogger-man-7.jpeg",
     price: 25.95,
-    info:
-      "Topman pants with elasticated waistband in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman pants with elasticated waistband in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2614,8 +2508,7 @@ export const allProducts = [
     title: "Topman smart sweatpants with elastic",
     img: "/img/jogger-man-8.jpeg",
     price: 19.95,
-    info:
-      "Topman smart sweatpants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Topman smart sweatpants with elastic in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2638,8 +2531,7 @@ export const allProducts = [
     title: "Muscle tracksuit with rib in beige",
     img: "/img/jogger-man-9.jpeg",
     price: 39.95,
-    info:
-      "Muscle tracksuit with rib in beige in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+    info: "Muscle tracksuit with rib in beige in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
     size: {
       s: "S",
       m: "M",
@@ -2667,8 +2559,7 @@ export const allProducts = [
     title: "Super skinny suit in four way stretch",
     img: "/img/suites-men-1.jpeg",
     price: 189.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2691,8 +2582,7 @@ export const allProducts = [
     title: "Super skinny suit in four way stretch",
     img: "/img/suites-men-2.jpeg",
     price: 129.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2715,8 +2605,7 @@ export const allProducts = [
     title: "Super skinny suit in forest green",
     img: "/img/suites-men-3.jpeg",
     price: 112.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2740,8 +2629,7 @@ export const allProducts = [
     title: "Wedding super skinny suit in navy",
     img: "/img/suites-men-4.jpeg",
     price: 89.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2764,8 +2652,7 @@ export const allProducts = [
     title: "Super skinny wool mix suit in camel",
     img: "/img/suites-men-5.jpeg",
     price: 209.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2788,8 +2675,7 @@ export const allProducts = [
     title: "Wedding super skinny suit in ice gray",
     img: "/img/suites-men-6.jpeg",
     price: 129.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2812,8 +2698,7 @@ export const allProducts = [
     title: "Wedding super skinny suit in light blue",
     img: "/img/suites-men-7.jpeg",
     price: 99.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2836,8 +2721,7 @@ export const allProducts = [
     title: "Super skinny tuxedo blazer",
     img: "/img/suites-men-8.jpeg",
     price: 149.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2860,8 +2744,7 @@ export const allProducts = [
     title: "Wedding super skinny suit in rose cross",
     img: "/img/suites-men-9.jpeg",
     price: 175.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -2889,8 +2772,7 @@ export const allProducts = [
     title: "Nike Training SuperRep Go trainers",
     img: "/img/shoes/shoes-men-1.jpeg",
     price: 82.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -2913,8 +2795,7 @@ export const allProducts = [
     title: "Nike Air Max 2090 sneakers",
     img: "/img/shoes/shoes-men-2.jpeg",
     price: 91.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -2937,8 +2818,7 @@ export const allProducts = [
     title: "Reebok Classic nylon sneakers in",
     img: "/img/shoes/shoes-men-3.jpeg",
     price: 48.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -2961,8 +2841,7 @@ export const allProducts = [
     title: "Nike Tailwind '79 sneakers in red",
     img: "/img/shoes/shoes-men-4.jpeg",
     price: 112.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -2985,8 +2864,7 @@ export const allProducts = [
     title: "adidas Originals nmd sneakers",
     img: "/img/shoes/shoes-men-5.jpeg",
     price: 180.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3009,8 +2887,7 @@ export const allProducts = [
     title: "Puma Future Rider sneakers",
     img: "/img/shoes/shoes-men-6.jpeg",
     price: 72.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3033,8 +2910,7 @@ export const allProducts = [
     title: "Tassel loafers in black patent",
     img: "/img/shoes/shoes-men-7.jpeg",
     price: 37.95,
-    info:
-      "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
+    info: "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3057,8 +2933,7 @@ export const allProducts = [
     title: "Loafers in tan faux leather with tassel",
     img: "/img/shoes/shoes-men-8.jpeg",
     price: 60.95,
-    info:
-      "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
+    info: "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3081,8 +2956,7 @@ export const allProducts = [
     title: "Walk London west tassel loafers",
     img: "/img/shoes/shoes-men-9.jpeg",
     price: 80.95,
-    info:
-      "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
+    info: "Smooth faux-leather upper Glossy, patent finish Lining: 50% Other Materials, 50% Textile, Sole: 100% Other Materials, Upper: 100% Other Materials. Remove light marks with a clean damp sponge",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3105,8 +2979,7 @@ export const allProducts = [
     title: "ASOS DESIGN chelsea boots in black",
     img: "/img/shoes/shoes-men-10.jpeg",
     price: 67.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3129,8 +3002,7 @@ export const allProducts = [
     title: "Desert chukka boots in brown suede",
     img: "/img/shoes/shoes-men-11.jpeg",
     price: 80.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3153,8 +3025,7 @@ export const allProducts = [
     title: "ASOS DESIGN chelsea boots in gray",
     img: "/img/shoes/shoes-men-12.jpeg",
     price: 67.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -3182,8 +3053,7 @@ export const allProducts = [
     title: "Calvin Klein trunks 3 pack in cotton",
     img: "/img/underwear/underwear-man-1.jpeg",
     price: 25.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3205,8 +3075,7 @@ export const allProducts = [
     title: "Boxers in black and charcoal marl",
     img: "/img/underwear/underwear-man-2.jpeg",
     price: 21.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3228,8 +3097,7 @@ export const allProducts = [
     title: "Trunk in black green and gray organic",
     img: "/img/underwear/underwear-man-3.jpeg",
     price: 19.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3251,8 +3119,7 @@ export const allProducts = [
     title: "ASOS DESIGN jersey boxers in black",
     img: "/img/underwear/underwear-man-4.jpeg",
     price: 9.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3274,8 +3141,7 @@ export const allProducts = [
     title: "Calvin Klein 3 pack cotton classic",
     img: "/img/underwear/underwear-man-5.jpeg",
     price: 28.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3297,8 +3163,7 @@ export const allProducts = [
     title: "River Island trunks with branded",
     img: "/img/underwear/underwear-man-6.jpeg",
     price: 16.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3320,8 +3185,7 @@ export const allProducts = [
     title: "Jack & Jones 3 pack woven boxers",
     img: "/img/underwear/underwear-man-7.jpeg",
     price: 25.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3343,8 +3207,7 @@ export const allProducts = [
     title: "ASOS DESIGN 2 pack woven boxers",
     img: "/img/underwear/underwear-man-8.jpeg",
     price: 21.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3366,8 +3229,7 @@ export const allProducts = [
     title: "CK One Micro low rise trunks in blue",
     img: "/img/underwear/underwear-man-9.jpeg",
     price: 11.95,
-    info:
-      "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
+    info: "Plastic bottles and textile waste are processed into plastic chips and melted into new fibres. This saves water and energy and reduces greenhouse gas emissions. Lining: 100% Polyester, Main: 61% Polyester, 36% Viscose, 3% Spandex.",
     size: {
       s: "S",
       m: "M",
@@ -3398,8 +3260,7 @@ export const allProducts = [
     title: "Cotton poplin tiered maxi dress in floral",
     img: "/img/women/dresses-1.jpeg",
     price: 49.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3422,8 +3283,7 @@ export const allProducts = [
     title: "Tie back beach maxi dress with twist",
     img: "/img/women/dresses-2.jpeg",
     price: 79.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3445,8 +3305,7 @@ export const allProducts = [
     title: "Sophia plunge lace wedding dress",
     img: "/img/women/dresses-3.jpeg",
     price: 189.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3469,8 +3328,7 @@ export const allProducts = [
     title: "Fold front bardot midi pencil dress",
     img: "/img/women/dresses-4.jpeg",
     price: 68.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3492,8 +3350,7 @@ export const allProducts = [
     title: "Femme Luxe plunge front puff sleeve",
     img: "/img/women/dresses-5.jpeg",
     price: 89.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3515,8 +3372,7 @@ export const allProducts = [
     title: "Maxi dress with cut out back and oversized",
     img: "/img/women/dresses-6.jpeg",
     price: 65.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3538,8 +3394,7 @@ export const allProducts = [
     title: "Never Fully Dressed shirred peplum",
     img: "/img/women/dresses-7.jpeg",
     price: 47.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3562,8 +3417,7 @@ export const allProducts = [
     title: "Never Fully Dressed puff sleeve tie",
     img: "/img/women/dresses-8.jpeg",
     price: 36.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3585,8 +3439,7 @@ export const allProducts = [
     title: "JDY mini dress with tie waist in ditsy",
     img: "/img/women/dresses-9.jpeg",
     price: 56.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3613,8 +3466,7 @@ export const allProducts = [
     title: "ASOS DESIGN tie waist jumpsuit in stone",
     img: "/img/women/jumpsuits-women-1.jpeg",
     price: 56.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3636,8 +3488,7 @@ export const allProducts = [
     title: "Missguided jumpsuit with tie waist",
     img: "/img/women/jumpsuits-women-2.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3659,8 +3510,7 @@ export const allProducts = [
     title: "Shirred waist jumpsuit in meadow floral",
     img: "/img/women/jumpsuits-women-3.jpeg",
     price: 36.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3682,8 +3532,7 @@ export const allProducts = [
     title: "Other Stories ribbed jumpsuit in black",
     img: "/img/women/jumpsuits-women-4.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3705,8 +3554,7 @@ export const allProducts = [
     title: "Esmee Exclusive beach jumpsuit in white",
     img: "/img/women/jumpsuits-women-5.jpeg",
     price: 52.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3728,8 +3576,7 @@ export const allProducts = [
     title: "ASOS DESIGN button back tea jumpsuit",
     img: "/img/women/jumpsuits-women-6.jpeg",
     price: 45.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3752,8 +3599,7 @@ export const allProducts = [
     title: "Missguided belted denim boilersuit",
     img: "/img/women/jumpsuits-women-7.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3775,8 +3621,7 @@ export const allProducts = [
     title: "vintage collar tea jumpsuit in ditsy",
     img: "/img/women/jumpsuits-women-8.jpeg",
     price: 26.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3798,8 +3643,7 @@ export const allProducts = [
     title: "Topshop tea romper with frill detail",
     img: "/img/women/jumpsuits-women-9.jpeg",
     price: 47.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3826,8 +3670,7 @@ export const allProducts = [
     title: "ASOS DESIGN t-shirt with low key",
     img: "/img/women/tshirt-women-1.jpeg",
     price: 22.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3849,8 +3692,7 @@ export const allProducts = [
     title: "Ultimate organic cotton t-shirt",
     img: "/img/women/tshirt-women-2.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3872,8 +3714,7 @@ export const allProducts = [
     title: "Levi's Riley t-shirt in white",
     img: "/img/women/tshirt-women-3.jpeg",
     price: 24.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3895,8 +3736,7 @@ export const allProducts = [
     title: "Fila oversized boyfriend t-shirt",
     img: "/img/women/tshirt-women-4.jpeg",
     price: 16.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3918,8 +3758,7 @@ export const allProducts = [
     title: "Topshop tea t-shirt with frill detail",
     img: "/img/women/tshirt-women-5.jpeg",
     price: 20.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3941,8 +3780,7 @@ export const allProducts = [
     title: "Bershka volume shoulder t-shirt",
     img: "/img/women/tshirt-women-6.jpeg",
     price: 17.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3964,8 +3802,7 @@ export const allProducts = [
     title: "Levi's baby rib long sleeve t-shirt",
     img: "/img/women/tshirt-women-7.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -3987,8 +3824,7 @@ export const allProducts = [
     title: "Daisy Street relaxed t-shirt ",
     img: "/img/women/tshirt-women-8.jpeg",
     price: 21.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4010,8 +3846,7 @@ export const allProducts = [
     title: "The North Face Heavyweight Box t-shirt",
     img: "/img/women/tshirt-women-9.jpeg",
     price: 22.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4038,8 +3873,7 @@ export const allProducts = [
     title: "Drawstring jersey slub romper",
     img: "/img/women/loungewear-women-1.jpeg",
     price: 32.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4061,8 +3895,7 @@ export const allProducts = [
     title: "Mix & match lounge rib tee in blue",
     img: "/img/women/loungewear-women-2.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4084,8 +3917,7 @@ export const allProducts = [
     title: "Missguided cropped romper",
     img: "/img/women/loungewear-women-3.jpeg",
     price: 41.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4107,8 +3939,7 @@ export const allProducts = [
     title: "Loungeable mix & match soft knit rib",
     img: "/img/women/loungewear-women-4.jpeg",
     price: 31.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4130,8 +3961,7 @@ export const allProducts = [
     title: "Tracksuit hoodie / slim jogger",
     img: "/img/women/loungewear-women-5.jpeg",
     price: 52.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4153,8 +3983,7 @@ export const allProducts = [
     title: "Mix & match lounge rib hooded",
     img: "/img/women/loungewear-women-6.jpeg",
     price: 35.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4176,8 +4005,7 @@ export const allProducts = [
     title: "Curve exclusive lounge two-piece",
     img: "/img/women/loungewear-women-7.jpeg",
     price: 30.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4199,8 +4027,7 @@ export const allProducts = [
     title: "Mix & match lounge towelling",
     img: "/img/women/loungewear-women-8.jpeg",
     price: 33.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4222,8 +4049,7 @@ export const allProducts = [
     title: "Style x Billie Faiers loungewear",
     img: "/img/women/loungewear-women-9.jpeg",
     price: 24.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4250,8 +4076,7 @@ export const allProducts = [
     title: "Vero Moda double breasted trench",
     img: "/img/women/coats-women-1.jpeg",
     price: 65.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4273,8 +4098,7 @@ export const allProducts = [
     title: "Belted luxe maxi coat in camel",
     img: "/img/women/coats-women-2.jpeg",
     price: 75.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4296,8 +4120,7 @@ export const allProducts = [
     title: "Pull&Bear faux leather biker jacket",
     img: "/img/women/coats-women-3.jpeg",
     price: 49.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4320,8 +4143,7 @@ export const allProducts = [
     title: "Fashion Union trench coat",
     img: "/img/women/coats-women-4.jpeg",
     price: 55.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4343,8 +4165,7 @@ export const allProducts = [
     title: "Stand faux fur collar coat in white",
     img: "/img/women/coats-women-5.jpeg",
     price: 52.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4366,8 +4187,7 @@ export const allProducts = [
     title: "Longline trench coat in khaki",
     img: "/img/women/coats-women-6.jpeg",
     price: 65.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4389,8 +4209,7 @@ export const allProducts = [
     title: "Brushed luxe maxi coat in camel",
     img: "/img/women/coats-women-7.jpeg",
     price: 45.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4412,8 +4231,7 @@ export const allProducts = [
     title: "Ultimate faux leather biker jacket",
     img: "/img/women/coats-women-8.jpeg",
     price: 58.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4435,8 +4253,7 @@ export const allProducts = [
     title: "Longline trench coat in stone",
     img: "/img/women/coats-women-9.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4463,8 +4280,7 @@ export const allProducts = [
     title: "Fashion Union fitted cardigan",
     img: "/img/women/cardigans-women-1.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4486,8 +4302,7 @@ export const allProducts = [
     title: "Vero Moda sweater with high neck",
     img: "/img/women/cardigans-women-2.jpeg",
     price: 35.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4509,8 +4324,7 @@ export const allProducts = [
     title: "Edge to edge boxy cardigan",
     img: "/img/women/cardigans-women-3.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4532,8 +4346,7 @@ export const allProducts = [
     title: "New Look crew neck sweater in camel",
     img: "/img/women/cardigans-women-4.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4555,8 +4368,7 @@ export const allProducts = [
     title: "Free People Rickie Top in Army Green",
     img: "/img/women/cardigans-women-5.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4578,8 +4390,7 @@ export const allProducts = [
     title: "Fashion Union wrap front ballet",
     img: "/img/women/cardigans-women-6.jpeg",
     price: 46.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4601,8 +4412,7 @@ export const allProducts = [
     title: "Maxi edge to edge cardigan",
     img: "/img/women/cardigans-women-7.jpeg",
     price: 31.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4624,8 +4434,7 @@ export const allProducts = [
     title: "Oversize cardigan in mint green",
     img: "/img/women/cardigans-women-8.jpeg",
     price: 33.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4647,8 +4456,7 @@ export const allProducts = [
     title: "Titch detail edge to edge cardi",
     img: "/img/women/cardigans-women-9.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4674,8 +4482,7 @@ export const allProducts = [
     title: "Pull&Bear sweatshirt in mint",
     img: "/img/women/hoodies-women-1.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4697,8 +4504,7 @@ export const allProducts = [
     title: "New Look sweatshirt in light blue",
     img: "/img/women/hoodies-women-2.jpeg",
     price: 28.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4721,8 +4527,7 @@ export const allProducts = [
     title: "Topshop New York sweatshirt in green",
     img: "/img/women/hoodies-women-3.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4744,8 +4549,7 @@ export const allProducts = [
     title: "Levi's crew neck long sleeve tee",
     img: "/img/women/hoodies-women-4.jpeg",
     price: 26.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4767,8 +4571,7 @@ export const allProducts = [
     title: "Pull&Bear varsity sweatshirt in orange",
     img: "/img/women/hoodies-women-5.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4790,8 +4593,7 @@ export const allProducts = [
     title: "New Girl Order oversized lazy beach",
     img: "/img/women/hoodies-women-6.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4813,8 +4615,7 @@ export const allProducts = [
     title: "Organic cotton super oversized",
     img: "/img/women/hoodies-women-7.jpeg",
     price: 21.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4836,8 +4637,7 @@ export const allProducts = [
     title: "Oversized sweatshirt with cards",
     img: "/img/women/hoodies-women-8.jpeg",
     price: 49.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4859,8 +4659,7 @@ export const allProducts = [
     title: "Washed sweatshirt in cornflower blue",
     img: "/img/women/hoodies-women-9.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4887,8 +4686,7 @@ export const allProducts = [
     title: "Glam tie front cut out sleeved",
     img: "/img/women/swimwear-women-1.jpeg",
     price: 45.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4910,8 +4708,7 @@ export const allProducts = [
     title: "South Beach Recycled mix and match",
     img: "/img/women/swimwear-women-2.jpeg",
     price: 31.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4933,8 +4730,7 @@ export const allProducts = [
     title: "Accessorize Exclusive tie knot crop",
     img: "/img/women/swimwear-women-3.jpeg",
     price: 46.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4956,8 +4752,7 @@ export const allProducts = [
     title: "Esmee Exclusive cropped bardot beach",
     img: "/img/women/swimwear-women-4.jpeg",
     price: 37.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -4979,8 +4774,7 @@ export const allProducts = [
     title: "Recycled mix and match high leg",
     img: "/img/women/swimwear-women-5.jpeg",
     price: 59.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5002,8 +4796,7 @@ export const allProducts = [
     title: "Mix and match crinkle bikini range",
     img: "/img/women/swimwear-women-6.jpeg",
     price: 46.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5025,8 +4818,7 @@ export const allProducts = [
     title: "Fuller bust mix and match ribbed knot",
     img: "/img/women/swimwear-women-7.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5048,8 +4840,7 @@ export const allProducts = [
     title: "Rib knot front bikini top in dolly pink",
     img: "/img/women/swimwear-women-8.jpeg",
     price: 51.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5071,8 +4862,7 @@ export const allProducts = [
     title: "SWIM GLAM mix and match in exotic",
     img: "/img/women/swimwear-women-9.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5099,8 +4889,7 @@ export const allProducts = [
     title: "High rise ridley 'skinny' jeans",
     img: "/img/women/jeans-women-1.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5122,8 +4911,7 @@ export const allProducts = [
     title: "Missguided Tall riot highwaisted",
     img: "/img/women/jeans-women-2.jpeg",
     price: 42.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5145,8 +4933,7 @@ export const allProducts = [
     title: "Stradivarius coated push up jean",
     img: "/img/women/jeans-women-3.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5168,8 +4955,7 @@ export const allProducts = [
     title: "Urban Bliss ripped boyfriend jean",
     img: "/img/women/jeans-women-4.jpeg",
     price: 34.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5191,8 +4977,7 @@ export const allProducts = [
     title: "Dr Denim Nora sky high mom",
     img: "/img/women/jeans-women-5.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5214,8 +4999,7 @@ export const allProducts = [
     title: "Stradivarius Petite slim mom jean",
     img: "/img/women/jeans-women-6.jpeg",
     price: 41.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5237,8 +5021,7 @@ export const allProducts = [
     title: "High-rise 'sassy' cigarette jeans",
     img: "/img/women/jeans-women-7.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5260,8 +5043,7 @@ export const allProducts = [
     title: "Other Stories organic cotton mid",
     img: "/img/women/jeans-women-8.jpeg",
     price: 26.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5283,8 +5065,7 @@ export const allProducts = [
     title: "Recycled high rise farleigh",
     img: "/img/women/jeans-women-9.jpeg",
     price: 30.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5311,8 +5092,7 @@ export const allProducts = [
     title: "Pleated midi skirt in black",
     img: "/img/women/skirts-women-1.jpeg",
     price: 32.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5334,8 +5114,7 @@ export const allProducts = [
     title: "Shirred body-conscious mini skirt",
     img: "/img/women/skirts-women-2.jpeg",
     price: 39.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5357,8 +5136,7 @@ export const allProducts = [
     title: "Monki Vanessa floral print jersey",
     img: "/img/women/skirts-women-3.jpeg",
     price: 50.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5380,8 +5158,7 @@ export const allProducts = [
     title: "Monki Mandy dot print midi skirt in blue",
     img: "/img/women/skirts-women-4.jpeg",
     price: 28.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5403,8 +5180,7 @@ export const allProducts = [
     title: "Midi bias slip skirt in spliced floral",
     img: "/img/women/skirts-women-5.jpeg",
     price: 47.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5426,8 +5202,7 @@ export const allProducts = [
     title: "One Above Another mini pleated tennis",
     img: "/img/women/skirts-women-6.jpeg",
     price: 33.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5449,8 +5224,7 @@ export const allProducts = [
     title: "Mobi dias slip skirt in spliced",
     img: "/img/women/skirts-women-7.jpeg",
     price: 30.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5472,8 +5246,7 @@ export const allProducts = [
     title: "Other Stories floral print button",
     img: "/img/women/skirts-women-8.jpeg",
     price: 35.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5495,8 +5268,7 @@ export const allProducts = [
     title: "Metallic pleated midi skirt in silver",
     img: "/img/women/skirts-women-9.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5523,8 +5295,7 @@ export const allProducts = [
     title: "Emory Park boyfriend denim shorts",
     img: "/img/women/shorts-women-1.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5546,8 +5317,7 @@ export const allProducts = [
     title: "Levi's Ribcage denim shorts in blue",
     img: "/img/women/shorts-women-2.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5569,8 +5339,7 @@ export const allProducts = [
     title: "Stradivarius skort with frill in print",
     img: "/img/women/shorts-women-3.jpeg",
     price: 21.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5592,8 +5361,7 @@ export const allProducts = [
     title: "Other Stories high waist scallop",
     img: "/img/women/shorts-women-4.jpeg",
     price: 15.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5615,8 +5383,7 @@ export const allProducts = [
     title: "Weekday Wanda tie-dye relaxed",
     img: "/img/women/shorts-women-5.jpeg",
     price: 26.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5638,8 +5405,7 @@ export const allProducts = [
     title: "Other Stories linen bermuda shorts",
     img: "/img/women/shorts-women-6.jpeg",
     price: 31.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5661,8 +5427,7 @@ export const allProducts = [
     title: "Other Stories organic cotton acid",
     img: "/img/women/shorts-women-7.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5684,8 +5449,7 @@ export const allProducts = [
     title: "Stradivarius jersey short in gray",
     img: "/img/women/shorts-women-8.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5707,8 +5471,7 @@ export const allProducts = [
     title: "Missguided tie waist runner short",
     img: "/img/women/shorts-women-9.jpeg",
     price: 20.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5735,8 +5498,7 @@ export const allProducts = [
     title: "Vila leggings with seam detail in black",
     img: "/img/women/pants-women-1.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5758,8 +5520,7 @@ export const allProducts = [
     title: "Columbia Lodge leggings in black",
     img: "/img/women/pants-women-2.jpeg",
     price: 32.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5781,8 +5542,7 @@ export const allProducts = [
     title: "Other Stories organic cotton straight",
     img: "/img/women/pants-women-3.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5804,8 +5564,7 @@ export const allProducts = [
     title: "Weekday Sidra contrast stitch leggings",
     img: "/img/women/pants-women-4.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5827,8 +5586,7 @@ export const allProducts = [
     title: "Pull&Bear jogger in gray",
     img: "/img/women/pants-women-5.jpeg",
     price: 28.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5850,8 +5608,7 @@ export const allProducts = [
     title: "Missguided cigarette pants in black",
     img: "/img/women/pants-women-6.jpeg",
     price: 19.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5873,8 +5630,7 @@ export const allProducts = [
     title: "Tailored smart mix & match cigarette",
     img: "/img/women/pants-women-7.jpeg",
     price: 21.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5896,8 +5652,7 @@ export const allProducts = [
     title: "Basic jogger tie in organic cotton",
     img: "/img/women/pants-women-8.jpeg",
     price: 23.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5919,8 +5674,7 @@ export const allProducts = [
     title: "Y.A.S tailored pants with elastic",
     img: "/img/women/pants-women-9.jpeg",
     price: 20.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5947,8 +5701,7 @@ export const allProducts = [
     title: "Double breasted slim dad 3 piece",
     img: "/img/women/suites-women-1.jpeg",
     price: 112.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5970,8 +5723,7 @@ export const allProducts = [
     title: "Mix & match tailored suit in blush",
     img: "/img/women/suites-women-2.jpeg",
     price: 92.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -5993,8 +5745,7 @@ export const allProducts = [
     title: "ASOS DESIGN jersey suit in black",
     img: "/img/women/suites-women-3.jpeg",
     price: 61.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6016,8 +5767,7 @@ export const allProducts = [
     title: "Tailored a-line shorts with pleat front",
     img: "/img/women/suites-women-4.jpeg",
     price: 37.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6039,8 +5789,7 @@ export const allProducts = [
     title: "Jersey tie waist suit in black",
     img: "/img/women/suites-women-5.jpeg",
     price: 58.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6062,8 +5811,7 @@ export const allProducts = [
     title: "ASOS DESIGN jersey suit in blush",
     img: "/img/women/suites-women-6.jpeg",
     price: 63.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6086,8 +5834,7 @@ export const allProducts = [
     title: "ASOS DESIGN soft satin suit in floral",
     img: "/img/women/suites-women-7.jpeg",
     price: 92.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6109,8 +5856,7 @@ export const allProducts = [
     title: "Wrap suit in jersey pink sequin",
     img: "/img/women/suites-women-8.jpeg",
     price: 121.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6132,8 +5878,7 @@ export const allProducts = [
     title: "Jersey wrap suit in pale blue",
     img: "/img/women/suites-women-9.jpeg",
     price: 62.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "S",
       m: "M",
@@ -6160,8 +5905,7 @@ export const allProducts = [
     title: "Reebok Classic Club C Vintage Sneakers",
     img: "/img/women/shoes-women-1.jpeg",
     price: 72.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6184,8 +5928,7 @@ export const allProducts = [
     title: "Nike white Ryz 365 trainers",
     img: "/img/women/shoes-women-2.jpeg",
     price: 82.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6208,8 +5951,7 @@ export const allProducts = [
     title: "Originals SC Premiere sneaker",
     img: "/img/women/shoes-women-3.jpeg",
     price: 102.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6232,8 +5974,7 @@ export const allProducts = [
     title: "Nike Vista Lite sneakers in white red",
     img: "/img/women/shoes-women-4.jpeg",
     price: 99.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6256,8 +5997,7 @@ export const allProducts = [
     title: "Nike Air Max 270 React trainers",
     img: "/img/women/shoes-women-5.jpeg",
     price: 162.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6280,8 +6020,7 @@ export const allProducts = [
     title: "Adidas Originals 3MC sneakers",
     img: "/img/women/shoes-women-6.jpeg",
     price: 62.95,
-    info:
-      "Canvas upper. It's versatile and dependable Lining: 100% Textile, Sole: 100% Other materials, Upper: 50% Other materials, 50% Textile. Wipe clean with a damp cloth or sponge",
+    info: "Canvas upper. It's versatile and dependable Lining: 100% Textile, Sole: 100% Other materials, Upper: 50% Other materials, 50% Textile. Wipe clean with a damp cloth or sponge",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6304,8 +6043,7 @@ export const allProducts = [
     title: "Monki Julie ginham double strap low",
     img: "/img/women/shoes-women-7.jpeg",
     price: 62.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6328,8 +6066,7 @@ export const allProducts = [
     title: "Perfection cut out stiletto in rose gold",
     img: "/img/women/shoes-women-8.jpeg",
     price: 46.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6352,8 +6089,7 @@ export const allProducts = [
     title: "Public Desire Classy tie up heeled",
     img: "/img/women/shoes-women-9.jpeg",
     price: 42.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6376,8 +6112,7 @@ export const allProducts = [
     title: "Dr Martens Jadon Flatform Chunky",
     img: "/img/women/shoes-women-10.jpeg",
     price: 162.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6400,8 +6135,7 @@ export const allProducts = [
     title: "AllSaints Katy lace up heeled leathere",
     img: "/img/women/shoes-women-11.jpeg",
     price: 362.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6424,8 +6158,7 @@ export const allProducts = [
     title: "RAID Kola white ankle boots",
     img: "/img/women/shoes-women-12.jpeg",
     price: 42.95,
-    info:
-      "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
+    info: "Open mesh upper. It's light and durable Lining: 100% Textile, Sole: 100% Rubber, Upper: 100% Textile. Wipe clean with a damp cloth or sponge. Open mesh upper.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6448,8 +6181,7 @@ export const allProducts = [
     title: "UGG Neumel Chestnut Lace Up Ankle",
     img: "img/women/shoes-women-13.jpeg",
     price: 122.95,
-    info:
-      "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
+    info: "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6471,8 +6203,7 @@ export const allProducts = [
     title: "UGG Scuffette II chestnut slippers",
     img: "img/women/shoes-women-14.jpeg",
     price: 82.95,
-    info:
-      "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
+    info: "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6494,8 +6225,7 @@ export const allProducts = [
     title: "UGG Neutra logo sneakers in neon",
     img: "img/women/shoes-women-15.jpeg",
     price: 72.95,
-    info:
-      "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
+    info: "Suede upper It's the real deal Lining: 100% Textile, Sole: 100% Other Materials, Upper: 100% Real Leather. Treat with a leather protector. Keeps them looking fresher for longer.",
     size: {
       s: "US 6",
       m: "US 7",
@@ -6522,8 +6252,7 @@ export const allProducts = [
     title: "Ella lace padded longline triangle",
     img: "/img/women/lingerie-women-1.jpeg",
     price: 41.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6546,8 +6275,7 @@ export const allProducts = [
     title: "New Look essentials strapless",
     img: "/img/women/lingerie-women-2.jpeg",
     price: 65.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6570,8 +6298,7 @@ export const allProducts = [
     title: "Pour Moi Eden lace trim lingerie",
     img: "/img/women/lingerie-women-3.jpeg",
     price: 38.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6594,8 +6321,7 @@ export const allProducts = [
     title: "Keena mesh lace up brazilian brief",
     img: "/img/women/lingerie-women-4.jpeg",
     price: 17.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6618,8 +6344,7 @@ export const allProducts = [
     title: "Arabella Lace High Leg Bodysuit",
     img: "/img/women/lingerie-women-5.jpeg",
     price: 29.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6642,8 +6367,7 @@ export const allProducts = [
     title: "Bluebella Tove mesh high waisted",
     img: "/img/women/lingerie-women-6.jpeg",
     price: 34.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6666,8 +6390,7 @@ export const allProducts = [
     title: "ASOS DESIGN Scarlet padded strappy",
     img: "/img/women/lingerie-women-7.jpeg",
     price: 58.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6690,8 +6413,7 @@ export const allProducts = [
     title: "Arabella lace thong in beige",
     img: "/img/women/lingerie-women-8.jpeg",
     price: 25.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6714,8 +6436,7 @@ export const allProducts = [
     title: "Ivory Rose Underwired Lace Mesh Fuller",
     img: "/img/women/lingerie-women-9.jpeg",
     price: 36.95,
-    info:
-      "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
+    info: "Lightweight, soft Lenzing™ EcoVero™ comes from renewable sources It's made from wood pulp from responsibly managed forests Showing a fully transparent.",
     size: {
       s: "US 6",
       m: "US 8",
@@ -6742,8 +6463,7 @@ export const detailProduct = {
   title: "T-Shirt Summer Vibes",
   img: "img/men-tshirt-1-details.png",
   price: 19.99,
-  info:
-    "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
+  info: "White Summer Vibes T-shirt in the uiKit line with a colorful print. Made of jersey cotton. T-shirt fits perfectly with jeans, pants or shorts.",
   size: {
     s: "S",
     m: "M",
@@ -6755,3 +6475,311 @@ export const detailProduct = {
   count: 0,
   total: 0,
 };
+
+// =============================
+// =============================
+export const categoryShop = [
+  {
+    id: 1001,
+    title: "T-shirts",
+    subtitle: "Men's T-Shirts",
+    description:
+      "T-shirts are the ultimate wardrobe staple – they're simple, they're versatile and they'll work for virtually any occasion. Hit up our collection of men's T-shirts and vests for plain and printed designs to slot into your everyday rotation. Check out web-site for oversized T-shirts and unique patterns.",
+    type: "t-shirt-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1002,
+    title: "Polo",
+    subtitle: "Men's Polo",
+    description:
+      "For the right balance of smart and casual, check out our edit of men’s polo shirts. Polo Ralph Lauren brings you branded classics you’ll love, while heritage label Fred Perry’s black polo shirts – complete with the brand’s signature embroidered logo – are an easy win for when you’re in-between dress codes",
+    type: "polo-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1003,
+    title: "Shirts",
+    subtitle: "Men's Shirts",
+    description:
+      "From work to play, our collection of shirts for men covers all bases. Shop ASOS DESIGN for everything from smart shirts for your 9-5 to denim shirts and Hawaiian shirts for your summer wardrobe. Browse iconic designs from Polo Ralph Lauren, with check shirts, preppy hues and logo details featuring heavily.",
+    type: "shirts-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1004,
+    title: "Sweaters & Cardigans",
+    subtitle: "Men's Sweaters",
+    description:
+      "Whether you want something to layer over shirts, pair with jeans or throw on for getting home after the gym, our edit of men's sweaters and cardigans has everything you need to stay warm this season. ASOS DESIGN is your go-to for everyday style heroes – from muscle-fit styles.",
+    type: "sweaters-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1005,
+    title: "Overalls & Boiler Suits",
+    subtitle: "Men's Overalls & Boiler Suits",
+    description:
+      "Whether you want something to layer over Overalls, pair with jeans or throw on for getting home after the gym, our edit of men's sweaters and cardigans has everything you need to stay warm this season. Our design is your go-to for everyday style heroes and muscle-fit styles.",
+    type: "overalls-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1006,
+    title: "Jackets & Coats",
+    subtitle: "Men's Jackets & Coats",
+    description:
+      "Staying warm never looked so good thanks to our edit of men’s coats and jackets. Check out design for all the latest trends, and discover new-season men's trench coats and men's gilets. Browse Only & Sons for men's bomber jackets and overcoats, or for something fresh and experimental.",
+    type: "jackets-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1007,
+    title: "Hoodies",
+    subtitle: "Men's Hoodies & Sweatshirts",
+    description:
+      "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
+    type: "hoodies-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1008,
+    title: "Activewear",
+    subtitle: "Men's Activewear",
+    description:
+      "It’s the 21st century and we feel strongly that sweats aren’t just for wearing to the gym. Make your everyday rotation that little bit comfier with our collection of men’s hoodies and sweatshirts. Our selection of oversized sweatshirts, alongside zip-up hoodies in a variety of plain and printed designs.",
+    type: "activewear-men",
+    sex: "male",
+    section: "top",
+  },
+  {
+    id: 1009,
+    title: "Jeans",
+    subtitle: "Men's Jeans",
+    description:
+      "Our edit of men’s jeans provides a solid start to any outfit – from Jack & Jones’ everyday black jeans to Levi’s iconic 501s, we’ve got styles to suit every taste. Hit up Gelsy for everything from staple styles in classic washes that can be worn all day every day to spray-on men's skinny jeans for your weekend wardrobe.",
+    type: "jeans-men",
+    sex: "male",
+    section: "bottom",
+  },
+  {
+    id: 1010,
+    title: "Shorts",
+    subtitle: "Men's Shorts",
+    description:
+      "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
+    type: "shorts-men",
+    sex: "male",
+    section: "bottom",
+  },
+  {
+    id: 1011,
+    title: "Pants",
+    subtitle: "Men's Pants & Chinos",
+    description:
+      "Keep your look fresh when the temperatures start to soar with our collection of men's shorts. You can't go wrong with men's denim shorts – they're a wardrobe staple and can be styled your way. Or try a pair of men's cargo shorts if you're after something practical yet stylish.",
+    type: "pants-men",
+    sex: "male",
+    section: "bottom",
+  },
+  {
+    id: 1012,
+    title: "Joggers",
+    subtitle: "Men's Joggers",
+    description:
+      "Why settle for 50% comfort when you could have 100%? Whether you’re looking for a matching tracksuit set or stocking up on mix-and-match sweatpants and sweatshirts, we’ve got a wide selection to choose from in our edit of men’s tracksuits. Hit up Gilsy for men's joggers and hoodies.",
+    type: "joggers-men",
+    sex: "male",
+    section: "bottom",
+  },
+  {
+    id: 1013,
+    title: "Suites",
+    subtitle: "Men's Suites",
+    description:
+      "It's time to get suited and booted with our versatile collection of men's suits. Whether you're looking for a tuxedo to wear to a wedding or just want to elevate your daytime look with a casual suit, we've got what you're looking for. Shop brands like Burton Menswear and Selected Homme.",
+    type: "suites-men",
+    sex: "male",
+    section: "other",
+  },
+  {
+    id: 1014,
+    title: "Shoes",
+    subtitle: "Men's Shoes",
+    description:
+      "Start from the bottom with our edit of shoes for men. Whether you're looking for a pair of boots or summer boat shoes, find what you're looking for in our collection. Browse for all the latest styles, or if you're looking for men's sneakers, check out our selection from adidas Originals.",
+    type: "shoes-men",
+    sex: "male",
+    section: "other",
+  },
+  {
+    id: 1015,
+    title: "Underwear",
+    subtitle: "Men's Underwear",
+    description:
+      "Shop everyday essentials from our edit of men's underwear. Whether you're a tight boxers kind of person or prefer your trunks on the baggier side, we've got styles to suit you. Fill your underwear drawer with classic pairs of Calvin Klein boxers, or check out colourful styles.",
+    type: "underwear-men",
+    sex: "male",
+    section: "other",
+  },
+  {
+    id: 2001,
+    title: "Dresses",
+    subtitle: "Dresses",
+    description:
+      "From minis to maxi dresses, bodycons and smocks, our collection of dresses has something for everyone, whatever your style. ASOS DESIGN has hundreds of dresses to choose from to help you feel yourself, while & Other Stories is the go-to for romantic florals and understated design.",
+    image: "images/dresses-women-icon.jpeg",
+    type: "dresses",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2002,
+    title: "Jumpsuits & Rompers",
+    subtitle: "Jumpsuits & Rompers",
+    description:
+      "Want maximum impact with minimal effort? Throw on a jumpsuit or romper and you're ready to go. DESIGN has a wide range of styles as unique as you, and find styles that fit thanks to ASOS Petite and ASOS Tall. Looking for a jumpsuit for a wedding? Shop EDITION for floor-grazing.",
+    image: "images/dresses-women-icon.jpeg",
+    type: "jumpsuits",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2003,
+    title: "T-shirts",
+    subtitle: "Women's T-shirts",
+    description:
+      "You’ve found your perfect pair of bottoms, now all you need is a top to complete the look. Introducing our edit of tops for women, which features everything from vests and casual T-shirts to smart shirts and blouses. PrettyLittleThing is here to bring some sass to your after-hours wardrobe.",
+    image: "images/dresses-women-icon.jpeg",
+    type: "t-shirt-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2004,
+    title: "Loungewear",
+    subtitle: "Women's Loungewear",
+    description:
+      "Take the laid-back look to a whole new level with our edit of women’s loungewear. Whether you're looking for loungewear sets or prefer to style it your way with mix-and-match pieces, we've got something for everyone. Loungeable leggings and t-shirts are your go-tos for days.",
+    type: "loungewear-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2005,
+    title: "Coats & Jackets",
+    subtitle: "Women's Coats & Jackets",
+    description:
+      "From macs and parkas to puffer jackets and faux-fur coats, when we say we’ve got lots of outerwear options in our edit of women’s coats and jackets, we’re not kidding. Vero Moda and & Other Stories serve up new-season trench coats and smart belted jackets.",
+    type: "jackets-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2006,
+    title: "Cardigans",
+    subtitle: "Women's Sweaters & Cardigans",
+    description:
+      "Beat the cold weather with our edit of women’s sweaters and cardigans. New Look is your go-to for lightweight sweaters to ease you into those transitional months, while River Island brings a range of fitted roll-neck sweaters for your year-round plans. Meanwhile, Bershka has your comfort points covered.",
+    type: "cardigans-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2007,
+    title: "Hoodies & Sweatshirts",
+    subtitle: "Women's Hoodies & Sweatshirts",
+    description:
+      "It’s generally frowned upon to wear your pajamas out in public, but we’ll settle for the next best thing: sweats. Our edit of hoodies and sweatshirts is packed with cosy-cool designs, from block-coloured basics to slogan styles. Fans of retro sportwear, grab yourselves a classic logo sweatshirt.",
+    type: "hoodies-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2008,
+    title: "Swimwear & Beachwear",
+    subtitle: "Women's Swimwear & Beachwear",
+    description:
+      "Dreaming of sunnier days? Let's face it, there's nothing like shopping for bikinis and swimsuits to get you in the mood for summer. For bikinis, we have styles in a variety of colours and prints. Choose a matching set or express your individuality with our mix-and-match options.",
+    type: "swimwear-women",
+    sex: "female",
+    section: "top",
+  },
+  {
+    id: 2009,
+    title: "Jeans",
+    subtitle: "Women's Jeans",
+    description:
+      "Mom or boyfriend? We're talking about jeans, of course, and there's plenty of styles to choose from in our latest edit. From vintage classics from Urban Bliss through to comfy wide leg styles courtesy of COLLUSION, finding 'the' pair of jeans has never been easier.",
+    type: "jeans-women",
+    sex: "female",
+    section: "bottom",
+  },
+  {
+    id: 2010,
+    title: "Skirts",
+    subtitle: "Women's Skirts",
+    description:
+      "Give yourself plenty of ways to express your individuality by stocking up on skirts from all of your favorite brands. Play around with classic denim, sleek leather, or form-fitting pencil skirts from our current new season edit. From work-friendly bias cuts to form-fitting bodycons with day-to-night potential.",
+    type: "skirts-women",
+    sex: "female",
+    section: "bottom",
+  },
+  {
+    id: 2011,
+    title: "Shorts",
+    subtitle: "Women's Shorts",
+    description:
+      "When the weather warms up, that means one thing - it's finally time to get your legs out. Whether you're heading off on vacation or want some denim staples to enhance your weekend wardrobe, we've got all the shorts for all the occasions right here at DENIM.",
+    type: "shorts-women",
+    sex: "female",
+    section: "bottom",
+  },
+  {
+    id: 2012,
+    title: "Pants & Leggings",
+    subtitle: "Women's Pants & Leggings",
+    description:
+      "For those days when jeans don't quite cut it, swap them out for equally as versatile pants and leggings. From chinos and crops to wide leg and skinny styles, our latest edit of women's pants is full of go-to pieces for work, the weekend or whenever you feel like it. Embracing your own unique style couldn't be easier",
+    type: "pants-women",
+    sex: "female",
+    section: "bottom",
+  },
+  {
+    id: 2013,
+    title: "Suits & Tailoring",
+    subtitle: "Women's Suits & Tailoring",
+    description:
+      "Finding the perfect two-piece has never been easier thanks to our edit of suits for women. Whether you’re shopping for cool, casual tailoring or something a little bit smarter, ASOS DESIGN has a wide a range of women's trouser suits to discover. Play by your own rules with our collection of suit shorts.",
+    type: "suits-women",
+    sex: "female",
+    section: "other",
+  },
+  {
+    id: 2014,
+    title: "Shoes",
+    subtitle: "Women's Shoes",
+    description:
+      "You’ve nailed your outfit, now all that’s left is the footwear – which is where our edit of shoes for women comes in. Whether you're looking for everyday winners or something for your next night out, give your feet the VIP treatment, whatever your style. Refresh your summer wardrobe with selection of sandals.",
+    type: "shoes-women",
+    sex: "female",
+    section: "other",
+  },
+  {
+    id: 2015,
+    title: "Lingerie",
+    subtitle: "Women's Lingerie",
+    description:
+      "Give your lingerie drawer some love and attention with our underwear edit of all your favorite brands. From functional options for the everyday to lacy looks that'll give you an instant confidence boost, scroll down for all your lingerie needs. Stock up on the basics by mixing and matching New Look's.",
+    type: "lingerie-women",
+    sex: "female",
+    section: "other",
+  },
+];
